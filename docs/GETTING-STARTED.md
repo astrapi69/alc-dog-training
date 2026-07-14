@@ -31,8 +31,8 @@ a new repository** (not *Fork*), then clone your new repo:
 > relationship, no inherited history).
 
 Everything you need ships in the copy: the domain **templates** under
-[`templates/`](../templates/), one small **example set** under
-[`sets/en/es-a1/`](../sets/en/es-a1/), the validator, and CI.
+[`templates/`](../templates/), the six real Hundetraining sets under
+[`sets/de/`](../sets/de/) as worked examples, the validator, and CI.
 
 ## 1. Copy a template (1 min)
 
@@ -135,9 +135,9 @@ Two ways to publish:
 
 ## Next steps
 
-- Read the shipped example lesson:
-  [`sets/en/es-a1/lessons/01-example.json`](../sets/en/es-a1/lessons/01-example.json)
-  (theory + the common exercise types, kept minimal).
+- Read a shipped lesson as a worked example:
+  [`sets/de/hundetraining-anfaenger/lessons/01-grundlagen-hundeerziehung.json`](../sets/de/hundetraining-anfaenger/lessons/01-grundlagen-hundeerziehung.json)
+  (theory + the common exercise types).
 - Skim [LESSON-FORMAT.md](LESSON-FORMAT.md) for every field and option; the
   canonical, test-validated reference is the engine's
   [`docs/lesson-format.md`](https://github.com/astrapi69/learn-content-engine/blob/main/docs/lesson-format.md).
