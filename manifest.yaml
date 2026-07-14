@@ -1,30 +1,168 @@
-# Root manifest — lists the sets your repository offers.
+# Wurzel-Manifest von alc-dog-training — die Hundetraining-Reihe.
 #
-# This template ships ONE example set (sets/en/es-a1). Replace it
-# with your own:
-#   - point `path` at your set directory (convention: sets/<source-lang>/<set-id>)
-#   - keep `lesson_count` honest (it must match the lessons you ship)
-#   - a set needs at least: id, title, target_language, level, version, lesson_count
+# Adaptive-Learner-Content-Repo für gewaltfreies Hundetraining mit positiver
+# Verstärkung. Sechs deutschsprachige Sets bilden eine durchgehende Reihe vom
+# Welpen (Teil 0) bis zu fortgeschrittenen Verhaltensthemen (Teil 4):
 #
-# `schema_version` is optional and not strict.
-# Validate everything with:  python3 scripts/validate_content.py
-schema_version: '1.5'
-name: My Adaptive Learner content
+#   Teil 0  Welpenkurs           (welpen-grundkurs,        A1, 4 Lektionen)
+#   Teil 0+ Welpen-Spezial       (welpen-spezial,          A1, 4 Lektionen)
+#   Teil 1  Für Anfänger         (hundetraining-anfaenger, A1, 3 Lektionen)
+#   Teil 2  Aufbaukurs           (hundetraining-aufbau,    A2, 4 Lektionen)
+#   Teil 3  Souverän im Alltag   (hundetraining-alltag,    B1, 4 Lektionen)
+#   Teil 4  Verhalten verstehen  (hundetraining-verhalten, B2, 4 Lektionen)
+#
+# Vormals in astrapi69/adaptive-learner-content-test (siehe content-test#54/#65);
+# in dieses eigenständige Repo ausgelagert. Validieren mit:
+#
+#     python3 scripts/validate_content.py
+#     node scripts/validate_with_engine.mjs .
+#
+# Anleitung: docs/GETTING-STARTED.md
+schema_version: '1.3'
+name: Adaptive Learner — Hundetraining
 description: >-
-  A content repository created from adaptive-learner-content-template.
-  Replace this example set with your own lessons.
+  Gewaltfreies Hundetraining mit positiver Verstärkung: eine durchgehende
+  deutschsprachige Reihe in sechs Sets, vom Welpen (Teil 0) über Anfänger-,
+  Aufbau- und Alltagskurs bis zu fortgeschrittenen Verhaltensthemen (Teil 4).
 sets:
-  - id: example-set
-    title: Spanish A1 (example)
-    title_native: Español A1 (ejemplo)
-    target_language: es
-    source_language: en
-    domain: language
+  - id: welpen-grundkurs-from-de
+    title: Hundetraining Welpenkurs (Teil 0)
+    title_native: Hundetraining Welpenkurs (Teil 0)
+    target_language: de
+    source_language: de
+    domain: knowledge
     level: A1
-    path: sets/en/es-a1
+    path: sets/de/welpen-grundkurs
     version: '1.0.0'
-    lesson_count: 1
+    lesson_count: 4
+    domain_label: Hundetraining
+    description: >-
+      Einstiegsteil (Teil 0) der Reihe für die ersten Wochen mit einem Welpen,
+      aus Sicht eines neuen Hundebesitzers: Stubenreinheit, Beißhemmung und
+      Zähnchen, erste Nächte mit Ruhe und Schlaf sowie Name, Bindung und erste
+      Sozialisierung. Gewaltfrei mit positiver Verstärkung, gemischte
+      Übungstypen (matching, cloze, free_text, word_tiles, multiselect). Führt
+      zum Anfängerkurs (Teil 1) hin.
     tags:
-      - example
-      - spanish
-      - a1
+      - knowledge
+      - hundetraining
+      - hunde
+      - welpe
+      - einstieg
+  - id: welpen-spezial-from-de
+    title: Hundetraining Welpen-Spezial
+    title_native: Hundetraining Welpen-Spezial
+    target_language: de
+    source_language: de
+    domain: knowledge
+    level: A1
+    path: sets/de/welpen-spezial
+    version: '1.0.0'
+    lesson_count: 4
+    domain_label: Hundetraining
+    description: >-
+      Vertiefung zum Welpenkurs (Teil 0): vier Lektionen zu Geräuschen und
+      Umweltreizen (Habituation), zum Angewöhnen von Halsband, Geschirr und
+      Leine, zu Angstphasen sowie zu Autofahren und ersten Ausflügen. Native
+      multiple_choice (Schema v1.6) plus matching, cloze, free_text und
+      word_tiles.
+    tags:
+      - knowledge
+      - hundetraining
+      - hunde
+      - welpe
+      - spezial
+  - id: hundetraining-anfaenger-from-de
+    title: Hundetraining für Anfänger
+    title_native: Hundetraining für Anfänger
+    target_language: de
+    source_language: de
+    domain: knowledge
+    level: A1
+    path: sets/de/hundetraining-anfaenger
+    version: '1.0.0'
+    lesson_count: 3
+    domain_label: Hundetraining
+    description: >-
+      Einstieg ins gewaltfreie Hundetraining mit positiver Verstärkung: drei
+      Anfänger-Lektionen zu den Grundlagen (Timing, Markersignal, Belohnung,
+      Konsequenz), zu ersten Grundkommandos (Sitz und Platz) sowie zu Rückruf
+      und Leinenführigkeit. Gemischte Übungstypen (matching, cloze, free_text,
+      word_tiles, multiselect).
+    tags:
+      - knowledge
+      - hundetraining
+      - hunde
+      - anfaenger
+  - id: hundetraining-aufbau-from-de
+    title: Hundetraining Aufbaukurs (Teil 2)
+    title_native: Hundetraining Aufbaukurs (Teil 2)
+    target_language: de
+    source_language: de
+    domain: knowledge
+    level: A2
+    path: sets/de/hundetraining-aufbau
+    version: '1.0.0'
+    lesson_count: 4
+    domain_label: Hundetraining
+    description: >-
+      Fortsetzung von „Hundetraining für Anfänger“ (Teil 2, Aufbaukurs, A2):
+      vier Lektionen zu Impulskontrolle (Bleib und Aus, die drei D), entspanntem
+      Alleinbleiben, Begegnungen und Sozialisierung sowie Tricks und geistiger
+      Beschäftigung (Formen, Einfangen, Nasenarbeit). Gewaltfrei mit positiver
+      Verstärkung, gemischte Übungstypen (matching, cloze, free_text,
+      word_tiles, multiselect).
+    tags:
+      - knowledge
+      - hundetraining
+      - hunde
+      - aufbau
+      - fortgeschritten
+  - id: hundetraining-alltag-from-de
+    title: Hundetraining Souverän im Alltag (Teil 3)
+    title_native: Hundetraining Souverän im Alltag (Teil 3)
+    target_language: de
+    source_language: de
+    domain: knowledge
+    level: B1
+    path: sets/de/hundetraining-alltag
+    version: '1.0.0'
+    lesson_count: 4
+    domain_label: Hundetraining
+    description: >-
+      Teil 3 der Reihe (B1), aufbauend auf Anfänger- und Aufbaukurs: vier
+      Lektionen zur Alltagssouveränität — Antijagdtraining, Maulkorbtraining,
+      kooperatives Medical Training (Tierarzt und Handling) sowie ein
+      bombenfester Notrückruf unter Ablenkung (Pfeife, Jackpot, Rückrufparty).
+      Gewaltfrei mit positiver Verstärkung, gemischte Übungstypen (matching,
+      cloze, free_text, word_tiles, multiselect).
+    tags:
+      - knowledge
+      - hundetraining
+      - hunde
+      - alltag
+      - fortgeschritten
+  - id: hundetraining-verhalten-from-de
+    title: Hundetraining Verhalten verstehen (Teil 4)
+    title_native: Hundetraining Verhalten verstehen (Teil 4)
+    target_language: de
+    source_language: de
+    domain: knowledge
+    level: B2
+    path: sets/de/hundetraining-verhalten
+    version: '1.0.0'
+    lesson_count: 4
+    domain_label: Hundetraining
+    description: >-
+      Teil 4 der Reihe (B2), aufbauend auf Teil 0-3: fortgeschrittene
+      Verhaltensthemen — Leinenreaktivität (Pöbeln an der Leine),
+      Ressourcenverteidigung, Frust und Übererregung sowie Unsicherheit und
+      Selbstvertrauen aufbauen. Gewaltfrei mit positiver Verstärkung und
+      Hinweisen auf professionelle Hilfe bei ernsten Fällen. Native
+      multiple_choice plus matching, cloze, free_text und word_tiles.
+    tags:
+      - knowledge
+      - hundetraining
+      - hunde
+      - verhalten
+      - fortgeschritten
