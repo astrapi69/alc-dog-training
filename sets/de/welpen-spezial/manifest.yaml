@@ -1,6 +1,6 @@
 # Set-Manifest: Hundetraining Welpen-Spezial — deutschsprachig.
 #
-# Sachthema-Set (domain: knowledge): Material und Erklärung sind beide auf
+# Sachthema-Set (domain: dog-training): Material und Erklärung sind beide auf
 # Deutsch (source_language == target_language); der Set-Ordner trägt einen
 # Themennamen. Der Content-Loader liest metadata.lessons für die Dateiliste.
 #
@@ -22,12 +22,11 @@ sets:
     title_native: Hundetraining Welpen-Spezial
     target_language: de
     source_language: de
-    domain: knowledge
+    domain: dog-training
     level: A1
     path: sets/de/welpen-spezial
     version: '1.0.0'
     lesson_count: 4
-    domain_label: Hundetraining
     description: >-
       Vertiefung zum Welpenkurs (Teil 0): vier Lektionen zu Themen der
       Welpenzeit jenseits des Grundkurses — Geräusche und Umweltreize

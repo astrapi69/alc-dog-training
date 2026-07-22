@@ -1,6 +1,6 @@
 # Set-Manifest: Hundetraining Souverän im Alltag (Teil 3) — deutschsprachig.
 #
-# Sachthema-Set (domain: knowledge): Material und Erklärung sind beide auf
+# Sachthema-Set (domain: dog-training): Material und Erklärung sind beide auf
 # Deutsch (source_language == target_language); der Set-Ordner trägt einen
 # Themennamen. Der Content-Loader liest metadata.lessons für die Dateiliste.
 #
@@ -23,12 +23,11 @@ sets:
     title_native: Hundetraining Souverän im Alltag (Teil 3)
     target_language: de
     source_language: de
-    domain: knowledge
+    domain: dog-training
     level: B1
     path: sets/de/hundetraining-alltag
     version: '1.0.0'
     lesson_count: 4
-    domain_label: Hundetraining
     description: >-
       Teil 3 (B1) der Reihe, aufbauend auf Anfänger- und Aufbaukurs: vier
       Lektionen zur Alltagssouveränität — Antijagdtraining (Verhaltenskette,
