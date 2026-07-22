@@ -1,6 +1,6 @@
 # Set-Manifest: Hundetraining Welpenkurs (Teil 0) — deutschsprachig.
 #
-# Sachthema-Set (domain: knowledge): Material und Erklärung sind beide auf
+# Sachthema-Set (domain: dog-training): Material und Erklärung sind beide auf
 # Deutsch (source_language == target_language); der Set-Ordner trägt einen
 # Themennamen. Der Content-Loader liest metadata.lessons für die Dateiliste.
 #
@@ -23,12 +23,11 @@ sets:
     title_native: Hundetraining Welpenkurs (Teil 0)
     target_language: de
     source_language: de
-    domain: knowledge
+    domain: dog-training
     level: A1
     path: sets/de/welpen-grundkurs
     version: '1.0.0'
     lesson_count: 4
-    domain_label: Hundetraining
     description: >-
       Einstiegsteil (Teil 0) für die ersten Wochen mit einem Welpen, aus Sicht
       eines neuen Hundebesitzers: Stubenreinheit (Timing, Loben draußen, kein

@@ -30,12 +30,11 @@ sets:
     title_native: Hundetraining Welpenkurs (Teil 0)
     target_language: de
     source_language: de
-    domain: knowledge
+    domain: dog-training
     level: A1
     path: sets/de/welpen-grundkurs
     version: '1.0.0'
     lesson_count: 4
-    domain_label: Hundetraining
     description: >-
       Einstiegsteil (Teil 0) der Reihe für die ersten Wochen mit einem Welpen,
       aus Sicht eines neuen Hundebesitzers: Stubenreinheit, Beißhemmung und
@@ -54,12 +53,11 @@ sets:
     title_native: Hundetraining Welpen-Spezial
     target_language: de
     source_language: de
-    domain: knowledge
+    domain: dog-training
     level: A1
     path: sets/de/welpen-spezial
     version: '1.0.0'
     lesson_count: 4
-    domain_label: Hundetraining
     description: >-
       Vertiefung zum Welpenkurs (Teil 0): vier Lektionen zu Geräuschen und
       Umweltreizen (Habituation), zum Angewöhnen von Halsband, Geschirr und
@@ -77,12 +75,11 @@ sets:
     title_native: Hundetraining für Anfänger
     target_language: de
     source_language: de
-    domain: knowledge
+    domain: dog-training
     level: A1
     path: sets/de/hundetraining-anfaenger
     version: '1.0.0'
     lesson_count: 3
-    domain_label: Hundetraining
     description: >-
       Einstieg ins gewaltfreie Hundetraining mit positiver Verstärkung: drei
       Anfänger-Lektionen zu den Grundlagen (Timing, Markersignal, Belohnung,
@@ -99,12 +96,11 @@ sets:
     title_native: Hundetraining Aufbaukurs (Teil 2)
     target_language: de
     source_language: de
-    domain: knowledge
+    domain: dog-training
     level: A2
     path: sets/de/hundetraining-aufbau
     version: '1.0.0'
     lesson_count: 4
-    domain_label: Hundetraining
     description: >-
       Fortsetzung von „Hundetraining für Anfänger“ (Teil 2, Aufbaukurs, A2):
       vier Lektionen zu Impulskontrolle (Bleib und Aus, die drei D), entspanntem
@@ -123,12 +119,11 @@ sets:
     title_native: Hundetraining Souverän im Alltag (Teil 3)
     target_language: de
     source_language: de
-    domain: knowledge
+    domain: dog-training
     level: B1
     path: sets/de/hundetraining-alltag
     version: '1.0.0'
     lesson_count: 4
-    domain_label: Hundetraining
     description: >-
       Teil 3 der Reihe (B1), aufbauend auf Anfänger- und Aufbaukurs: vier
       Lektionen zur Alltagssouveränität — Antijagdtraining, Maulkorbtraining,
@@ -147,12 +142,11 @@ sets:
     title_native: Hundetraining Verhalten verstehen (Teil 4)
     target_language: de
     source_language: de
-    domain: knowledge
+    domain: dog-training
     level: B2
     path: sets/de/hundetraining-verhalten
     version: '1.0.0'
     lesson_count: 4
-    domain_label: Hundetraining
     description: >-
       Teil 4 der Reihe (B2), aufbauend auf Teil 0-3: fortgeschrittene
       Verhaltensthemen — Leinenreaktivität (Pöbeln an der Leine),

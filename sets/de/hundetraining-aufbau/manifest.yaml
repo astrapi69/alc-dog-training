@@ -1,6 +1,6 @@
 # Set-Manifest: Hundetraining Aufbaukurs (Teil 2) — deutschsprachig.
 #
-# Sachthema-Set (domain: knowledge): Material und Erklärung sind beide auf
+# Sachthema-Set (domain: dog-training): Material und Erklärung sind beide auf
 # Deutsch (source_language == target_language); der Set-Ordner trägt einen
 # Themennamen. Der Content-Loader liest metadata.lessons für die Dateiliste.
 #
@@ -24,12 +24,11 @@ sets:
     title_native: Hundetraining Aufbaukurs (Teil 2)
     target_language: de
     source_language: de
-    domain: knowledge
+    domain: dog-training
     level: A2
     path: sets/de/hundetraining-aufbau
     version: '1.0.0'
     lesson_count: 4
-    domain_label: Hundetraining
     description: >-
       Aufbaukurs (Teil 2) für Hunde, die die Anfänger-Grundlagen kennen: vier
       Lektionen zu Impulskontrolle (Bleib und Aus, die drei D Dauer/Distanz/

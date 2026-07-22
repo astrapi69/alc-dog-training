@@ -1,6 +1,6 @@
 {
   "repo": "astrapi69/alc-dog-training",
-  "generated": "2026-07-22T11:01:37Z",
+  "generated": "2026-07-22T13:05:22Z",
   "schema_version": "1.0",
   "sets": [
     {
@@ -10,7 +10,7 @@
       "source_language": "de",
       "target_language": "de",
       "level": "a1",
-      "domain": "knowledge",
+      "domain": "dog-training",
       "lesson_count": 4,
       "card_count": 25,
       "tags": [
@@ -23,7 +23,7 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-07-14T17:51:34Z"
+      "updated_at": "2026-07-22T15:05:21+02:00"
     },
     {
       "id": "welpen-spezial-from-de",
@@ -32,7 +32,7 @@
       "source_language": "de",
       "target_language": "de",
       "level": "a1",
-      "domain": "knowledge",
+      "domain": "dog-training",
       "lesson_count": 4,
       "card_count": 28,
       "tags": [
@@ -45,7 +45,7 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-07-22T13:01:23+02:00"
+      "updated_at": "2026-07-22T15:05:21+02:00"
     },
     {
       "id": "hundetraining-anfaenger-from-de",
@@ -54,7 +54,7 @@
       "source_language": "de",
       "target_language": "de",
       "level": "a1",
-      "domain": "knowledge",
+      "domain": "dog-training",
       "lesson_count": 3,
       "card_count": 22,
       "tags": [
@@ -66,7 +66,7 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-07-14T17:51:34Z"
+      "updated_at": "2026-07-22T15:05:21+02:00"
     },
     {
       "id": "hundetraining-aufbau-from-de",
@@ -75,7 +75,7 @@
       "source_language": "de",
       "target_language": "de",
       "level": "a2",
-      "domain": "knowledge",
+      "domain": "dog-training",
       "lesson_count": 4,
       "card_count": 29,
       "tags": [
@@ -88,7 +88,7 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-07-14T17:51:34Z"
+      "updated_at": "2026-07-22T15:05:21+02:00"
     },
     {
       "id": "hundetraining-alltag-from-de",
@@ -97,7 +97,7 @@
       "source_language": "de",
       "target_language": "de",
       "level": "b1",
-      "domain": "knowledge",
+      "domain": "dog-training",
       "lesson_count": 4,
       "card_count": 27,
       "tags": [
@@ -110,7 +110,7 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-07-14T17:51:34Z"
+      "updated_at": "2026-07-22T15:05:21+02:00"
     },
     {
       "id": "hundetraining-verhalten-from-de",
@@ -119,7 +119,7 @@
       "source_language": "de",
       "target_language": "de",
       "level": "b2",
-      "domain": "knowledge",
+      "domain": "dog-training",
       "lesson_count": 4,
       "card_count": 28,
       "tags": [
@@ -132,7 +132,7 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-07-14T17:51:34Z"
+      "updated_at": "2026-07-22T15:05:21+02:00"
     }
   ],
   "total_lessons": 23,
