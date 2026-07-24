@@ -1,6 +1,6 @@
 {
   "repo": "astrapi69/alc-dog-training",
-  "generated": "2026-07-22T13:10:30Z",
+  "generated": "2026-07-23T16:13:24Z",
   "schema_version": "1.0",
   "sets": [
     {
@@ -20,6 +20,7 @@
         "welpe",
         "einstieg"
       ],
+      "visibility": "visible",
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
@@ -42,6 +43,7 @@
         "welpe",
         "spezial"
       ],
+      "visibility": "visible",
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
@@ -63,6 +65,7 @@
         "hunde",
         "anfaenger"
       ],
+      "visibility": "visible",
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
@@ -85,6 +88,7 @@
         "aufbau",
         "fortgeschritten"
       ],
+      "visibility": "visible",
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
@@ -107,6 +111,7 @@
         "alltag",
         "fortgeschritten"
       ],
+      "visibility": "visible",
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
@@ -129,6 +134,7 @@
         "verhalten",
         "fortgeschritten"
       ],
+      "visibility": "visible",
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
