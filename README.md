@@ -7,10 +7,9 @@ The [Adaptive Learner](https://github.com/astrapi69/adaptive-learner)
 content repository for **Hundetraining** (dog training): a Git repository of
 plain lesson files that the app loads directly and no vendor can lock away.
 
-It ships six German-language knowledge sets (domain `knowledge`,
-`domain_label` Hundetraining) that form one continuous series on
-gewaltfreies Training mit positiver Verstärkung — nonviolent training with
-positive reinforcement — from the very first weeks with a puppy (Teil 0) up
+It ships six German-language knowledge sets (domain `dog-training`) that form one continuous series on
+gewaltfreies Training mit positiver Verstärkung (nonviolent training with
+positive reinforcement), from the very first weeks with a puppy (Teil 0) up
 to advanced behaviour work (Teil 4). This repository was created from
 [adaptive-learner-content-template](https://github.com/astrapi69/adaptive-learner-content-template),
 which provides the schema mirror, validator, CI and authoring tooling
@@ -26,7 +25,7 @@ described below.
 Six sets, 23 lessons, source and target language German, content license
 CC-BY-SA-4.0. Recommended order:
 
-### Teil 0 — `sets/de/welpen-grundkurs` (A1, 4 Lektionen)
+### Teil 0: `sets/de/welpen-grundkurs` (A1, 4 Lektionen)
 
 | # | Lesson | Titel |
 |---|--------|-------|
@@ -35,7 +34,7 @@ CC-BY-SA-4.0. Recommended order:
 | 03 | `03-erste-naechte-ruhe.json` | Erste Nächte, Ruhe und Schlaf |
 | 04 | `04-name-bindung-sozialisierung.json` | Name, Bindung und erste Sozialisierung |
 
-### Teil 0+ — `sets/de/welpen-spezial` (A1, 4 Lektionen)
+### Teil 0+: `sets/de/welpen-spezial` (A1, 4 Lektionen)
 
 | # | Lesson | Titel |
 |---|--------|-------|
@@ -44,7 +43,7 @@ CC-BY-SA-4.0. Recommended order:
 | 03 | `03-angstphasen.json` | Angstphasen ruhig begleiten |
 | 04 | `04-autofahren-ausfluege.json` | Autofahren und erste Ausflüge |
 
-### Teil 1 — `sets/de/hundetraining-anfaenger` (A1, 3 Lektionen)
+### Teil 1: `sets/de/hundetraining-anfaenger` (A1, 3 Lektionen)
 
 | # | Lesson | Titel |
 |---|--------|-------|
@@ -52,7 +51,7 @@ CC-BY-SA-4.0. Recommended order:
 | 02 | `02-grundkommandos-sitz-platz.json` | Erste Grundkommandos: Sitz und Platz |
 | 03 | `03-rueckruf-leinenfuehrigkeit.json` | Rückruf und Leinenführigkeit |
 
-### Teil 2 — `sets/de/hundetraining-aufbau` (A2, 4 Lektionen)
+### Teil 2: `sets/de/hundetraining-aufbau` (A2, 4 Lektionen)
 
 | # | Lesson | Titel |
 |---|--------|-------|
@@ -61,7 +60,7 @@ CC-BY-SA-4.0. Recommended order:
 | 03 | `03-begegnungen-sozialisierung.json` | Begegnungen und Sozialisierung |
 | 04 | `04-tricks-beschaeftigung.json` | Tricks und Beschäftigung |
 
-### Teil 3 — `sets/de/hundetraining-alltag` (B1, 4 Lektionen)
+### Teil 3: `sets/de/hundetraining-alltag` (B1, 4 Lektionen)
 
 | # | Lesson | Titel |
 |---|--------|-------|
@@ -70,7 +69,7 @@ CC-BY-SA-4.0. Recommended order:
 | 03 | `03-medical-training-tierarzt.json` | Kooperatives Medical Training |
 | 04 | `04-notrueckruf-ablenkung.json` | Notrückruf unter Ablenkung |
 
-### Teil 4 — `sets/de/hundetraining-verhalten` (B2, 4 Lektionen)
+### Teil 4: `sets/de/hundetraining-verhalten` (B2, 4 Lektionen)
 
 | # | Lesson | Titel |
 |---|--------|-------|
@@ -86,21 +85,21 @@ native `multiple_choice`). Weiterführende Literatur je Reihenteil steht in
 
 ## What's inside
 
-- `manifest.yaml` — the root manifest listing the six sets above.
-- `sets/de/<set>/` — per set: its set manifest plus the lesson JSONs.
-- `books.yaml` — recommended reading for the series (domain `dog-training`);
+- `manifest.yaml`: the root manifest listing the six sets above.
+- `sets/de/<set>/`: per set its set manifest plus the lesson JSONs.
+- `books.yaml`: recommended reading for the series (domain `dog-training`);
   not a content set, not processed by the validator.
-- `schema/` — the pinned [`learn-content-engine`](https://github.com/astrapi69/learn-content-engine)
+- `schema/`: the pinned [`learn-content-engine`](https://github.com/astrapi69/learn-content-engine)
   schema mirror; [`engine-version.txt`](schema/engine-version.txt) holds the
-  pinned engine version (currently `0.12.2`) and is the source of truth. This
-  is what the content is validated against — independent of the app.
-- `templates/` — starting-point lessons per domain (language / programming /
+  pinned engine version and is the source of truth. This
+  is what the content is validated against, independent of the app.
+- `templates/`: starting-point lessons per domain (language / programming /
   knowledge), kept from the template for authoring new lessons.
-- `scripts/validate_content.py` — the local validator.
-- `scripts/generate_exercises.py` — an optional BYOK AI exercise generator.
-- `generated/` — staging area for AI drafts (never shipped directly).
-- `.github/workflows/` — CI that validates every push/PR against the pinned engine.
-- `docs/` — [GETTING-STARTED.md](docs/GETTING-STARTED.md) and a local
+- `scripts/validate_content.py`: the local validator.
+- `scripts/generate_exercises.py`: an optional BYOK AI exercise generator.
+- `generated/`: staging area for AI drafts (never shipped directly).
+- `.github/workflows/`: CI that validates every push/PR against the pinned engine.
+- `docs/`: [GETTING-STARTED.md](docs/GETTING-STARTED.md) and a local
   [LESSON-FORMAT.md](docs/LESSON-FORMAT.md). The **canonical, test-validated**
   format reference is the engine's
   [`docs/lesson-format.md`](https://github.com/astrapi69/learn-content-engine/blob/main/docs/lesson-format.md).
@@ -161,7 +160,7 @@ python3 scripts/generate_exercises.py \
   --target-lang de --source-lang de --set-id hundetraining-alltag
 ```
 
-A draft is a draft until you review it — no validator catches a claim that
+A draft is a draft until you review it: no validator catches a claim that
 is factually wrong about dog behaviour or training method.
 
 ## How it stays current
