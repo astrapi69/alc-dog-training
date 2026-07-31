@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "namenskonditionierung",
+      "stable_id": "card-ms942loe06ire",
       "front": "Namen aufbauen",
       "back": "Der Name wird mit etwas Gutem verknüpft: Name sagen, dann sofort belohnen, wenn der Welpe sich zuwendet.",
       "notes": "Der Name ist kein Kommando, sondern ein „Schau mich an“ — nie zum Schimpfen benutzen.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "blickkontakt",
+      "stable_id": "card-ms942loe06jcb",
       "front": "Blickkontakt",
       "back": "Freiwilliges Anschauen wird belohnt — die Basis für Aufmerksamkeit und Zusammenarbeit.",
       "notes": "Ein Welpe, der von sich aus Blickkontakt sucht, lässt sich später viel leichter führen.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "praegephase",
+      "stable_id": "card-ms942loe06kch",
       "front": "Prägephase",
       "back": "Die sensible Zeit im Welpenalter (etwa 3. bis 14. Woche) für positive Eindrücke.",
       "notes": "Hier Erlebtes wirkt lange nach. Neues jetzt positiv und ohne Überforderung anbieten.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "positive-eindruecke",
+      "stable_id": "card-ms942loe06l0f",
       "front": "Positive Eindrücke",
       "back": "Neues in kleinen Dosen und mit guter Erfahrung zeigen, statt den Welpen zu überfluten.",
       "notes": "Qualität vor Quantität: ein ruhiges, gutes Erlebnis ist mehr wert als zehn stressige.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "handling-von-anfang",
+      "stable_id": "card-ms942loe06mje",
       "front": "Frühes Handling",
       "back": "Pfoten, Ohren und Maul früh sanft anfassen und belohnen.",
       "notes": "Legt den Grundstein für das spätere kooperative Medical Training (Teil 3).",
@@ -54,6 +59,7 @@
     },
     {
       "id": "bindung",
+      "stable_id": "card-ms942loe06nyo",
       "front": "Bindung",
       "back": "Vertrauen entsteht durch verlässliche, freundliche Führung und schöne gemeinsame Erlebnisse.",
       "notes": "Eine gute Bindung ist die Grundlage für alles weitere Training.",
@@ -82,6 +88,7 @@
       "title": "Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms942loe06o0m",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Erklärung zu.",
         "card_ids": ["namenskonditionierung", "blickkontakt", "praegephase", "handling-von-anfang"],
@@ -101,6 +108,7 @@
       "title": "Der Name als Signal",
       "exercise": {
         "id": "ex-mc-name",
+        "stable_id": "ex-ms942loe06pg5",
         "type": "multiple_choice",
         "prompt": "Wofür solltest du den Namen deines Welpen NIE verwenden?",
         "card_ids": ["namenskonditionierung"],
@@ -121,6 +129,7 @@
       "title": "Die sensible Zeit",
       "exercise": {
         "id": "ex-cloze-praege",
+        "stable_id": "ex-ms942loe06qap",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff.",
         "card_ids": ["praegephase"],
@@ -137,6 +146,7 @@
       "title": "Basis der Aufmerksamkeit",
       "exercise": {
         "id": "ex-free-blick",
+        "stable_id": "ex-ms942loe06rp5",
         "type": "free_text",
         "prompt": "Welches freiwillige Verhalten belohnst du als Basis für Aufmerksamkeit?",
         "card_ids": ["blickkontakt"],
@@ -153,6 +163,7 @@
       "title": "Merksatz zur Sozialisierung",
       "exercise": {
         "id": "ex-tiles-regel",
+        "stable_id": "ex-ms942loe06sep",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen.",
         "card_ids": ["positive-eindruecke", "praegephase"],
@@ -168,6 +179,7 @@
       "title": "Ein gutes Fundament",
       "exercise": {
         "id": "ex-ms-fundament",
+        "stable_id": "ex-ms942loe06tsa",
         "type": "multiple_choice",
         "prompt": "Was legt in der Welpenzeit ein gutes Fundament?",
         "card_ids": ["positive-eindruecke", "handling-von-anfang", "bindung"],

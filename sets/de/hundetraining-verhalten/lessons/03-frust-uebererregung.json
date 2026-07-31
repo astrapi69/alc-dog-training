@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "uebererregung",
+      "stable_id": "card-ms942loc04rah",
       "front": "Übererregung",
       "back": "Der Hund ist so aufgedreht, dass er kaum noch denken oder hören kann.",
       "notes": "Englisch „Over-Arousal“. Sieht oft wie Ungehorsam aus, ist aber ein Zustand, kein Trotz.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "frusttoleranz",
+      "stable_id": "card-ms942loc04se7",
       "front": "Frusttoleranz",
       "back": "Die Fähigkeit zu warten und Enttäuschung auszuhalten, ohne auszurasten.",
       "notes": "Baut auf der Impulskontrolle aus Teil 2 auf und lässt sich gezielt üben.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "trigger-stacking",
+      "stable_id": "card-ms942loc04t21",
       "front": "Trigger-Stacking",
       "back": "Mehrere Reize summieren sich; nach viel Aufregung ist die Schwelle deutlich niedriger.",
       "notes": "Erklärt, warum ein Hund „aus dem Nichts“ überreagiert — der Tag war schon voll.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "runterfahren",
+      "stable_id": "card-ms942loc04ute",
       "front": "Aktiv runterfahren",
       "back": "Nach Aufregung bewusst Ruhe und Entspannung anbieten, statt gleich weiterzumachen.",
       "notes": "Schnüffeln, Kauen oder ein ruhiger Platz helfen dem Körper, herunterzukommen.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "alternativverhalten",
+      "stable_id": "card-ms942loc04vuy",
       "front": "Alternativverhalten anbieten",
       "back": "Ein ruhiges Ersatzverhalten zeigen lassen, das mit dem Aufdrehen unvereinbar ist.",
       "notes": "Zum Beispiel eine Nasenübung oder ein Ziel-Target statt Bellen und Springen.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "pausen",
+      "stable_id": "card-ms942loc04w1g",
       "front": "Bewusste Pausen",
       "back": "Ruhe aktiv einplanen; nicht jedes Hoch mit noch mehr Action beantworten.",
       "notes": "Wie beim Welpen (Teil 0): Viele „wilde“ Hunde brauchen mehr Ruhe, nicht mehr Programm.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "ansprechbarkeit",
+      "stable_id": "card-ms942loc04x7u",
       "front": "Ansprechbarkeit lesen",
       "back": "Erkennen, ob der Hund noch reagiert oder schon „taub“ vor Erregung ist.",
       "notes": "Hört er nicht mehr, ist Üben sinnlos — dann erst Abstand und Runterfahren.",
@@ -91,6 +98,7 @@
       "title": "Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms942loc04y4o",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Erklärung zu.",
         "card_ids": ["uebererregung", "frusttoleranz", "trigger-stacking", "ansprechbarkeit"],
@@ -110,6 +118,7 @@
       "title": "Der Hund dreht auf",
       "exercise": {
         "id": "ex-mc-ueberdreht",
+        "stable_id": "ex-ms942loc04zh2",
         "type": "multiple_choice",
         "prompt": "Dein Hund ist völlig überdreht und hört gar nicht mehr. Was ist sinnvoll?",
         "card_ids": ["runterfahren", "ansprechbarkeit"],
@@ -130,6 +139,7 @@
       "title": "Warum aus dem Nichts?",
       "exercise": {
         "id": "ex-cloze-stacking",
+        "stable_id": "ex-ms942loc05057",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff.",
         "card_ids": ["trigger-stacking"],
@@ -146,6 +156,7 @@
       "title": "Warten können",
       "exercise": {
         "id": "ex-free-frust",
+        "stable_id": "ex-ms942loc0517g",
         "type": "free_text",
         "prompt": "Wie nennt man die Fähigkeit, zu warten und Enttäuschung auszuhalten, ohne auszurasten?",
         "card_ids": ["frusttoleranz"],
@@ -162,6 +173,7 @@
       "title": "Merksatz zur Erregung",
       "exercise": {
         "id": "ex-tiles-pause",
+        "stable_id": "ex-ms942loc052pi",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen.",
         "card_ids": ["pausen", "runterfahren"],
@@ -177,6 +189,7 @@
       "title": "Gut runterfahren",
       "exercise": {
         "id": "ex-ms-runter",
+        "stable_id": "ex-ms942loc0530e",
         "type": "multiple_choice",
         "prompt": "Was hilft einem überdrehten Hund, wieder runterzukommen?",
         "card_ids": ["runterfahren", "alternativverhalten", "pausen"],

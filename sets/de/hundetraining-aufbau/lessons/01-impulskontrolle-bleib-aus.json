@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "impulskontrolle",
+      "stable_id": "card-ms942loa02kee",
       "front": "Impulskontrolle",
       "back": "Der Hund lernt zu warten, statt sofort auf jeden Reiz zu reagieren.",
       "notes": "Die Grundlage vieler Aufbauübungen: erst denken, dann handeln.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "bleib",
+      "stable_id": "card-ms942loa02l7w",
       "front": "Bleib",
       "back": "Der Hund hält seine Position, bis du ihn mit dem Auflösesignal freigibst.",
       "notes": "Baut auf „Sitz“ oder „Platz“ aus Teil 1 auf. Zuerst nur Sekunden, dann länger.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "aus",
+      "stable_id": "card-ms942loa02mgl",
       "front": "Aus",
       "back": "Der Hund lässt etwas los, das er bereits im Maul hat.",
       "notes": "Am besten über Tausch aufbauen: etwas Gleichwertiges oder Besseres anbieten.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "lass-es",
+      "stable_id": "card-ms942loa02nm0",
       "front": "Lass es",
       "back": "Der Hund lässt etwas liegen und nimmt es gar nicht erst auf.",
       "notes": "Unterschied zu „Aus“: Hier ist der Gegenstand noch nicht im Maul. Wichtig gegen Aufnehmen von Fressbarem draußen.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "drei-d",
+      "stable_id": "card-ms942loa02osg",
       "front": "Die drei D",
       "back": "Dauer, Distanz und Ablenkung — die drei Stufen, die man einzeln und langsam steigert.",
       "notes": "Immer nur eine der drei D auf einmal erhöhen, sonst überfordert man den Hund.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "dauer",
+      "stable_id": "card-ms942loa02p9s",
       "front": "Dauer",
       "back": "Wie lange der Hund die Aufgabe hält, z. B. wie lange er im „Bleib“ verharrt.",
       "notes": "Erste der drei D. In kleinen Zeitschritten steigern.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "distanz",
+      "stable_id": "card-ms942loa02qji",
       "front": "Distanz",
       "back": "Wie weit du dich vom Hund entfernst, während er die Position hält.",
       "notes": "Zweite der drei D. Anfangs nur einen Schritt, mit Blickkontakt.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "tausch",
+      "stable_id": "card-ms942loa02r2k",
       "front": "Tauschen statt wegnehmen",
       "back": "Beim „Aus“ bietest du etwas Gleichwertiges an, statt dem Hund etwas wegzureißen.",
       "notes": "Wegreißen macht den Hund misstrauisch und fördert Ressourcenverteidigung. Tausch macht Abgeben lohnend.",
@@ -100,6 +108,7 @@
       "title": "Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms942loa02sna",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Erklärung zu.",
         "card_ids": ["bleib", "aus", "lass-es", "impulskontrolle"],
@@ -119,6 +128,7 @@
       "title": "„Aus“ oder „Lass es“?",
       "exercise": {
         "id": "ex-mc-aus-lasses",
+        "stable_id": "ex-ms942loa02txg",
         "type": "multiple_choice",
         "prompt": "Dein Hund hat schon einen Stock im Maul und soll ihn hergeben. Welches Signal passt?",
         "card_ids": ["aus", "lass-es"],
@@ -139,6 +149,7 @@
       "title": "Erst denken, dann handeln",
       "exercise": {
         "id": "ex-cloze-impuls",
+        "stable_id": "ex-ms942loa02ulu",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff.",
         "card_ids": ["impulskontrolle"],
@@ -155,6 +166,7 @@
       "title": "Fair abgeben",
       "exercise": {
         "id": "ex-free-tausch",
+        "stable_id": "ex-ms942loa02vxc",
         "type": "free_text",
         "prompt": "Wie baust du „Aus“ fair auf, statt dem Hund etwas wegzureißen?",
         "card_ids": ["tausch"],
@@ -171,6 +183,7 @@
       "title": "Merksatz zu den drei D",
       "exercise": {
         "id": "ex-tiles-drei-d",
+        "stable_id": "ex-ms942loa02wpq",
         "type": "word_tiles",
         "prompt": "Setze die Regel für die drei D zusammen.",
         "card_ids": ["drei-d"],
@@ -186,6 +199,7 @@
       "title": "Was sind die drei D?",
       "exercise": {
         "id": "ex-ms-drei-d",
+        "stable_id": "ex-ms942loa02xrb",
         "type": "multiple_choice",
         "prompt": "Welche drei Faktoren gehören zu den „drei D“, mit denen du ein „Bleib“ schwieriger machst?",
         "card_ids": ["drei-d", "dauer", "distanz"],

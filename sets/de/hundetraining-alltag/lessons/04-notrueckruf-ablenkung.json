@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "notrueckruf",
+      "stable_id": "card-ms942lo8013t8",
       "front": "Notrückruf",
       "back": "Ein eigenes Super-Signal nur für den Notfall, das der Hund IMMER befolgt und das sich IMMER riesig lohnt.",
       "notes": "Getrennt vom Alltagsrückruf trainiert und selten benutzt, damit es nie an Wert verliert.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "pfeife",
+      "stable_id": "card-ms942lo8014d0",
       "front": "Pfeifsignal",
       "back": "Ein konditioniertes Pfeifsignal — immer gleich, weit hörbar und unabhängig von deiner Stimmung.",
       "notes": "Eine Pfeife klingt jeden Tag gleich, auch wenn du aufgeregt bist — anders als die Stimme.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "jackpot",
+      "stable_id": "card-ms942lo8015k3",
       "front": "Jackpot",
       "back": "Eine besonders große Belohnung für herausragendes Verhalten.",
       "notes": "Beim Notrückruf gibt es das Beste vom Besten — nicht ein einzelnes Trockenleckerli.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "rueckrufparty",
+      "stable_id": "card-ms942lo8016r6",
       "front": "Rückrufparty",
       "back": "Überschwängliches Loben und Belohnen, sobald der Hund bei dir ankommt.",
       "notes": "Zurückkommen soll das Beste des Tages sein. Freu dich ehrlich und groß.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "nie-verbrennen",
+      "stable_id": "card-ms942lo8017ic",
       "front": "Signal nicht verbrennen",
       "back": "Den Notrückruf nie für Unangenehmes nutzen und selten einsetzen, damit er stark bleibt.",
       "notes": "Wer das Signal zum Leineanlegen am Ende des Spaziergangs nutzt, entwertet es.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "generalisieren-reiz",
+      "stable_id": "card-ms942lo8018ae",
       "front": "Unter Ablenkung festigen",
       "back": "Den Rückruf mit langsam wachsender Ablenkung üben — von ruhig bis reizvoll.",
       "notes": "Anschluss an Teil 1: erst zu Hause, dann im Garten, dann im Park mit Hunden und Wild.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "distanz-management",
+      "stable_id": "card-ms942lo80191d",
       "front": "Mit Schleppleine absichern",
       "back": "Bis der Rückruf unter Reiz sicher sitzt, sichert eine Schleppleine gegen Fehlversuche.",
       "notes": "Jeder ignorierte Rückruf schwächt das Signal. Die Leine sorgt dafür, dass er immer gelingt.",
@@ -91,6 +98,7 @@
       "title": "Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms942lo801aer",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Erklärung zu.",
         "card_ids": ["notrueckruf", "pfeife", "jackpot", "rueckrufparty"],
@@ -110,6 +118,7 @@
       "title": "Das Signal schützen",
       "exercise": {
         "id": "ex-mc-verbrennen",
+        "stable_id": "ex-ms942lo801beo",
         "type": "multiple_choice",
         "prompt": "Wodurch verliert ein Notrückruf am schnellsten seine Kraft?",
         "card_ids": ["nie-verbrennen", "notrueckruf"],
@@ -130,6 +139,7 @@
       "title": "Die beste Belohnung",
       "exercise": {
         "id": "ex-cloze-jackpot",
+        "stable_id": "ex-ms942lo801cid",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff.",
         "card_ids": ["jackpot"],
@@ -146,6 +156,7 @@
       "title": "Warum ein Ton statt der Stimme?",
       "exercise": {
         "id": "ex-free-pfeife",
+        "stable_id": "ex-ms942lo801d54",
         "type": "free_text",
         "prompt": "Welches Hilfsmittel klingt jeden Tag gleich und trägt weit — ideal für den Notrückruf?",
         "card_ids": ["pfeife"],
@@ -162,6 +173,7 @@
       "title": "Merksatz zum Notrückruf",
       "exercise": {
         "id": "ex-tiles-regel",
+        "stable_id": "ex-ms942lo801en6",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen.",
         "card_ids": ["nie-verbrennen", "jackpot"],
@@ -177,6 +189,7 @@
       "title": "Den Notrückruf richtig aufbauen",
       "exercise": {
         "id": "ex-ms-aufbau",
+        "stable_id": "ex-ms942lo801f2x",
         "type": "multiple_choice",
         "prompt": "Was gehört zu einem sicher aufgebauten Notrückruf?",
         "card_ids": ["generalisieren-reiz", "distanz-management", "jackpot"],

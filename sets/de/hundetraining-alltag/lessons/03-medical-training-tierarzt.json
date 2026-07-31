@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "kooperative-pflege",
+      "stable_id": "card-ms942lo700q7l",
       "front": "Kooperative Pflege",
       "back": "Pflege und Untersuchung mit Beteiligung des Hundes — er darf mitbestimmen statt festgehalten zu werden.",
       "notes": "Englisch „Cooperative Care“. Weniger Stress, weniger Zwang, sicherere Behandlung.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "medical-training",
+      "stable_id": "card-ms942lo700r26",
       "front": "Medical Training",
       "back": "Das gezielte Üben von Tierarzt- und Pflegesituationen: Ohren, Pfoten, Zähne, Spritze.",
       "notes": "In Ruhe vorbereitet, lange bevor der Ernstfall eintritt.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "startsignal",
+      "stable_id": "card-ms942lo700sza",
       "front": "Startsignal des Hundes",
       "back": "Eine Position (z. B. Kinn ablegen), mit der der Hund signalisiert: „Ich bin bereit, mach weiter.“",
       "notes": "Der Hund gibt aktiv das Startsignal. Das gibt ihm Kontrolle und senkt den Stress.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "abbruch",
+      "stable_id": "card-ms942lo700tqi",
       "front": "Abbruch durch den Hund",
       "back": "Nimmt der Hund die Position weg, hörst du sofort auf — er darf „nein“ sagen.",
       "notes": "Das Gegenstück zum Startsignal. Der Hund lernt: Ich kann die Lage jederzeit beenden — und entspannt gerade deshalb.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "station-target",
+      "stable_id": "card-ms942lo700url",
       "front": "Stationstraining",
       "back": "Ein fester Punkt — Matte oder Kinntarget — an dem der Hund freiwillig verharrt.",
       "notes": "Die Station wird zum sicheren Ausgangspunkt, von dem aus untersucht wird.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "handling",
+      "stable_id": "card-ms942lo700vi4",
       "front": "Handling",
       "back": "Das Anfassen von Pfoten, Ohren, Maul und Körper üben und Schritt für Schritt belohnen.",
       "notes": "Ein Hund, der Berührung kennt und gutheißt, lässt sich beim Tierarzt viel leichter untersuchen.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "kleinschrittig",
+      "stable_id": "card-ms942lo700wfb",
       "front": "Kleinschrittig aufbauen",
       "back": "Jeden Handgriff in winzige Schritte zerlegen und unter der Stressschwelle bleiben.",
       "notes": "Erst die Pfote berühren, dann heben, dann halten — jeder Schritt einzeln und belohnt.",
@@ -91,6 +98,7 @@
       "title": "Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms942lo700x80",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Erklärung zu.",
         "card_ids": ["kooperative-pflege", "startsignal", "abbruch", "station-target"],
@@ -110,6 +118,7 @@
       "title": "Der Hund sagt „nein“",
       "exercise": {
         "id": "ex-mc-abbruch",
+        "stable_id": "ex-ms942lo700y1a",
         "type": "multiple_choice",
         "prompt": "Dein Hund nimmt beim Üben das Kinn vom Target weg. Was tust du?",
         "card_ids": ["abbruch", "startsignal"],
@@ -130,6 +139,7 @@
       "title": "Bereit-Signal",
       "exercise": {
         "id": "ex-cloze-startsignal",
+        "stable_id": "ex-ms942lo700zly",
         "type": "cloze",
         "prompt": "Ergänze den Satz.",
         "card_ids": ["startsignal"],
@@ -146,6 +156,7 @@
       "title": "Der englische Fachbegriff",
       "exercise": {
         "id": "ex-free-cooperative",
+        "stable_id": "ex-ms942lo7010ji",
         "type": "free_text",
         "prompt": "Wie heißt die kooperative Pflege auf Englisch?",
         "card_ids": ["kooperative-pflege"],
@@ -162,6 +173,7 @@
       "title": "Merksatz zur Kontrolle",
       "exercise": {
         "id": "ex-tiles-regel",
+        "stable_id": "ex-ms942lo70115y",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen.",
         "card_ids": ["abbruch", "kooperative-pflege"],
@@ -177,6 +189,7 @@
       "title": "Bausteine des Medical Trainings",
       "exercise": {
         "id": "ex-ms-bausteine",
+        "stable_id": "ex-ms942lo7012sb",
         "type": "multiple_choice",
         "prompt": "Was gehört zu einem guten kooperativen Medical Training?",
         "card_ids": ["station-target", "handling", "kleinschrittig", "medical-training"],

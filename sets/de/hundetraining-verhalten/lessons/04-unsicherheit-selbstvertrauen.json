@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "unsicherheit",
+      "stable_id": "card-ms942lod054no",
       "front": "Unsicherheit",
       "back": "Der Hund reagiert zögerlich oder ängstlich auf Neues und traut sich wenig zu.",
       "notes": "Selbstvertrauen ist trainierbar: durch viele kleine, gute Erfahrungen.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "vorhersehbarkeit",
+      "stable_id": "card-ms942lod055wj",
       "front": "Vorhersehbarkeit",
       "back": "Klare Routinen und verlässliche Signale geben dem unsicheren Hund Halt.",
       "notes": "Wer weiß, was kommt, hat weniger Angst. Berechenbarkeit ist Sicherheit.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "wahlmoeglichkeit",
+      "stable_id": "card-ms942lod056qe",
       "front": "Wahlmöglichkeit lassen",
       "back": "Den Hund selbst entscheiden lassen, ob er sich annähert — Zwang untergräbt Vertrauen.",
       "notes": "Die Erfahrung „Ich darf gehen“ macht mutiger als jedes Hinschieben.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "erfolgserlebnisse",
+      "stable_id": "card-ms942lod057rm",
       "front": "Erfolgserlebnisse schaffen",
       "back": "Kleine, lösbare Aufgaben anbieten, die gelingen und belohnt werden.",
       "notes": "Jedes gelöste „Rätsel“ sagt dem Hund: Ich kann etwas bewirken.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "konfidenz-spiele",
+      "stable_id": "card-ms942lod058f2",
       "front": "Konfidenz-Spiele",
       "back": "Suchspiele, Targets und einfache Tricks, die Mut und Eigeninitiative fördern.",
       "notes": "Zum Beispiel über Gegenstände steigen oder eine Box erkunden — freiwillig und belohnt.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "kein-zwang",
+      "stable_id": "card-ms942lod059bf",
       "front": "Kein Zwang",
       "back": "Den Hund nie in beängstigende Situationen drängen; Fortschritt in seinem Tempo.",
       "notes": "Zwang erzeugt kurzfristig Gehorsam, aber langfristig mehr Angst.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "gegenkonditionierung",
+      "stable_id": "card-ms942lod05aug",
       "front": "Positive Gegenkonditionierung",
       "back": "Beängstigende Reize aus sicherer Distanz mit etwas Gutem verknüpfen.",
       "notes": "Anschluss ans Welpen-Spezial: aus „gefährlich“ wird nach und nach „bringt Futter“.",
@@ -91,6 +98,7 @@
       "title": "Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms942lod05bsu",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Erklärung zu.",
         "card_ids": ["vorhersehbarkeit", "wahlmoeglichkeit", "erfolgserlebnisse", "konfidenz-spiele"],
@@ -110,6 +118,7 @@
       "title": "Der Hund zögert",
       "exercise": {
         "id": "ex-mc-annaehern",
+        "stable_id": "ex-ms942lod05ceo",
         "type": "multiple_choice",
         "prompt": "Dein unsicherer Hund traut sich nicht an etwas Neues heran. Was ist richtig?",
         "card_ids": ["wahlmoeglichkeit", "kein-zwang", "unsicherheit"],
@@ -130,6 +139,7 @@
       "title": "Was Halt gibt",
       "exercise": {
         "id": "ex-cloze-vorhersehbar",
+        "stable_id": "ex-ms942lod05dug",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff.",
         "card_ids": ["vorhersehbarkeit"],
@@ -146,6 +156,7 @@
       "title": "Mut spielerisch aufbauen",
       "exercise": {
         "id": "ex-free-spiele",
+        "stable_id": "ex-ms942lod05e3a",
         "type": "free_text",
         "prompt": "Wie nennt man Spiele wie Suchen, Targets und kleine Tricks, die Mut fördern?",
         "card_ids": ["konfidenz-spiele"],
@@ -162,6 +173,7 @@
       "title": "Merksatz zum Vertrauen",
       "exercise": {
         "id": "ex-tiles-regel",
+        "stable_id": "ex-ms942lod05fle",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen.",
         "card_ids": ["wahlmoeglichkeit", "kein-zwang"],
@@ -177,6 +189,7 @@
       "title": "Selbstvertrauen fördern",
       "exercise": {
         "id": "ex-ms-aufbau",
+        "stable_id": "ex-ms942lod05gfh",
         "type": "multiple_choice",
         "prompt": "Womit baust du bei einem unsicheren Hund Selbstvertrauen auf?",
         "card_ids": ["erfolgserlebnisse", "konfidenz-spiele", "gegenkonditionierung"],

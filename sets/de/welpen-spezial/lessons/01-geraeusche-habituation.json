@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "habituation",
+      "stable_id": "card-ms942lof06uux",
       "front": "Habituation",
       "back": "Gewöhnung an alltägliche Reize, bis sie den Welpen nicht mehr aufregen.",
       "notes": "Das Grundprinzip: Bekanntes verliert seinen Schrecken. Anders als aktive Belohnung ist es reines Gewöhnen.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "geraeuschgewoehnung",
+      "stable_id": "card-ms942lof06vlp",
       "front": "Geräusche gewöhnen",
       "back": "Alltagsgeräusche wie Staubsauger oder Verkehr in kleiner Lautstärke einführen.",
       "notes": "Erst aus der Ferne oder leise, damit der Welpe gelassen bleibt.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "untergruende",
+      "stable_id": "card-ms942lof06wbq",
       "front": "Verschiedene Untergründe",
       "back": "Gitter, Teppich, Kies, nasses Gras — den Welpen viele Böden erkunden lassen.",
       "notes": "Sichere Trittflächen-Erfahrung macht ihn später gelassener in der Umwelt.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "leise-anfangen",
+      "stable_id": "card-ms942lof06xhm",
       "front": "Leise anfangen, dann steigern",
       "back": "Reize erst schwach anbieten und die Stärke langsam erhöhen, immer unter der Schwelle.",
       "notes": "Bleibt der Welpe entspannt, kannst du steigern; erschrickt er, gehst du zurück.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "positiv-verknuepfen",
+      "stable_id": "card-ms942lof06yno",
       "front": "Positiv verknüpfen",
       "back": "Den Reiz mit etwas Gutem wie einem Leckerli verbinden, damit er angenehm wird.",
       "notes": "Aus „unbekannt und laut“ wird so „kündigt Futter an“.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "ruhig-bleiben",
+      "stable_id": "card-ms942lof06zss",
       "front": "Selbst ruhig bleiben",
       "back": "Der Mensch reagiert gelassen; kein aufgeregtes Trösten, kein Drama.",
       "notes": "Deine Ruhe überträgt sich. Hektik oder Bemitleiden macht den Reiz größer, als er ist.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "laute-ereignisse",
+      "stable_id": "card-ms942lof070z9",
       "front": "Auf laute Ereignisse vorbereiten",
       "back": "Gewitter oder Feuerwerk früh und in Ruhe anbahnen, statt erst im Ernstfall.",
       "notes": "Leise Aufnahmen und ein sicherer Rückzugsort helfen, bevor es das erste Mal richtig knallt.",
@@ -91,6 +98,7 @@
       "title": "Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms942lof0714i",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Erklärung zu.",
         "card_ids": ["habituation", "geraeuschgewoehnung", "untergruende", "ruhig-bleiben"],
@@ -110,6 +118,7 @@
       "title": "Der Staubsauger läuft an",
       "exercise": {
         "id": "ex-mc-schwelle",
+        "stable_id": "ex-ms942lof072zl",
         "type": "multiple_choice",
         "prompt": "Dein Welpe erschrickt vor dem Staubsauger. Wie führst du ihn am besten heran?",
         "card_ids": ["leise-anfangen", "positiv-verknuepfen"],
@@ -130,6 +139,7 @@
       "title": "Der Fachbegriff",
       "exercise": {
         "id": "ex-cloze-habituation",
+        "stable_id": "ex-ms942lof073dy",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff.",
         "card_ids": ["habituation"],
@@ -146,6 +156,7 @@
       "title": "Neues angenehm machen",
       "exercise": {
         "id": "ex-free-verknuepfen",
+        "stable_id": "ex-ms942lof074o6",
         "type": "free_text",
         "prompt": "Wie machst du einen neuen, lauten Reiz für den Welpen angenehm?",
         "card_ids": ["positiv-verknuepfen"],
@@ -162,6 +173,7 @@
       "title": "Merksatz zum Verhalten",
       "exercise": {
         "id": "ex-tiles-ruhe",
+        "stable_id": "ex-ms942lof075ge",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen.",
         "card_ids": ["ruhig-bleiben", "laute-ereignisse"],
@@ -177,6 +189,7 @@
       "title": "Gute Geräusch-Gewöhnung",
       "exercise": {
         "id": "ex-ms-plan",
+        "stable_id": "ex-ms942lof076fk",
         "type": "multiple_choice",
         "prompt": "Was gehört zu einer guten Gewöhnung an Geräusche und laute Ereignisse?",
         "card_ids": ["geraeuschgewoehnung", "leise-anfangen", "laute-ereignisse"],

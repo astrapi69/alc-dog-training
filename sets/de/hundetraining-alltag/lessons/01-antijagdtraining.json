@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "jagdverhalten",
+      "stable_id": "card-ms942lo6001cc",
       "front": "Jagdverhalten",
       "back": "Eine angeborene Verhaltenskette: orten, fixieren, anschleichen, hetzen, packen.",
       "notes": "Jagen ist selbstbelohnend — der Ablauf macht dem Hund von sich aus Spaß, ganz ohne Beute.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "abbruchsignal",
+      "stable_id": "card-ms942lo6002m0",
       "front": "Abbruchsignal",
       "back": "Ein Signal, das ein laufendes Verhalten unterbricht, bevor der Hund in die Jagd kippt.",
       "notes": "Positiv aufgebaut und geübt, wenn der Hund noch ansprechbar ist — nicht erst in voller Erregung.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "umorientierung",
+      "stable_id": "card-ms942lo600305",
       "front": "Umorientierung",
       "back": "Der Hund wendet sich bei einem Reiz zu dir statt zum Wild.",
       "notes": "Wird als Reflex aufgebaut: Reiz sehen führt zu Blick zum Halter — und wird belohnt.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "alternativverhalten",
+      "stable_id": "card-ms942lo6004ky",
       "front": "Alternativverhalten",
       "back": "Ein erlaubtes Ersatzverhalten, das der Hund statt des Jagens zeigen darf.",
       "notes": "Zum Beispiel Sitz, Blickkontakt oder ein Zurückkommen — etwas, das mit dem Jagen unvereinbar ist.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "ersatzbeschaeftigung",
+      "stable_id": "card-ms942lo60059g",
       "front": "Kontrolliertes Ausleben",
       "back": "Das Jagdbedürfnis in erlaubten Spielen befriedigen: Reizangel, Futterdummy, Suchspiele.",
       "notes": "Der Trieb verschwindet nicht — man gibt ihm ein legales Ventil unter deiner Kontrolle.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "management",
+      "stable_id": "card-ms942lo6006i1",
       "front": "Management",
       "back": "Schleppleine und Umsicht, damit der Hund gar nicht erst zum Jagen kommt und sich selbst belohnt.",
       "notes": "Jeder erfolgreiche Hetzlauf festigt das Verhalten. Management verhindert das Üben des Falschen.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "vorlaeufer-lesen",
+      "stable_id": "card-ms942lo600780",
       "front": "Vorzeichen lesen",
       "back": "Frühe Anzeichen (Fixieren, gespitzte Ohren, Erstarren) erkennen und vor der Kette eingreifen.",
       "notes": "Je früher in der Verhaltenskette du eingreifst, desto leichter ist der Hund noch erreichbar.",
@@ -91,6 +98,7 @@
       "title": "Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms942lo6008ca",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Erklärung zu.",
         "card_ids": ["abbruchsignal", "umorientierung", "alternativverhalten", "management"],
@@ -110,6 +118,7 @@
       "title": "Warum Management zuerst?",
       "exercise": {
         "id": "ex-mc-selbstbelohnend",
+        "stable_id": "ex-ms942lo60099q",
         "type": "multiple_choice",
         "prompt": "Warum ist Management (z. B. die Schleppleine) beim Antijagdtraining so wichtig?",
         "card_ids": ["management", "jagdverhalten"],
@@ -130,6 +139,7 @@
       "title": "Früh eingreifen",
       "exercise": {
         "id": "ex-cloze-vorzeichen",
+        "stable_id": "ex-ms942lo600a12",
         "type": "cloze",
         "prompt": "Ergänze den Satz.",
         "card_ids": ["vorlaeufer-lesen"],
@@ -146,6 +156,7 @@
       "title": "Blick zum Halter",
       "exercise": {
         "id": "ex-free-umorientierung",
+        "stable_id": "ex-ms942lo600bi8",
         "type": "free_text",
         "prompt": "Wie nennt man es, wenn der Hund sich bei einem Reiz zu dir dreht statt zum Wild?",
         "card_ids": ["umorientierung"],
@@ -162,6 +173,7 @@
       "title": "Merksatz zum Trieb",
       "exercise": {
         "id": "ex-tiles-regel",
+        "stable_id": "ex-ms942lo600c7q",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen.",
         "card_ids": ["ersatzbeschaeftigung", "jagdverhalten"],
@@ -177,6 +189,7 @@
       "title": "Ein guter Antijagd-Plan",
       "exercise": {
         "id": "ex-ms-plan",
+        "stable_id": "ex-ms942lo600d1d",
         "type": "multiple_choice",
         "prompt": "Welche Bausteine gehören zu einem guten Antijagdtraining?",
         "card_ids": ["management", "umorientierung", "ersatzbeschaeftigung"],

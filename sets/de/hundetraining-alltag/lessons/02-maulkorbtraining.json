@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "maulkorb",
+      "stable_id": "card-ms942lo700ebm",
       "front": "Maulkorb",
       "back": "Ein Korb, der so sitzt, dass der Hund frei hecheln, trinken und Leckerli nehmen kann.",
       "notes": "Ein gut sitzender Gitter- oder Biothane-Maulkorb, kein enger Nylon-Fixierer.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "warum-maulkorb",
+      "stable_id": "card-ms942lo700fze",
       "front": "Wozu ein Maulkorb?",
       "back": "Für Tierarzt, öffentliche Verkehrsmittel, Auslandsreisen, Sicherheit und Antijagd — nicht als Strafe.",
       "notes": "In vielen Bahnen gilt Maulkorbpflicht. Ein entspannt tragender Hund ist in vielen Lagen im Vorteil.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "passform",
+      "stable_id": "card-ms942lo700ghj",
       "front": "Passform",
       "back": "Der Maulkorb muss groß genug sein, dass der Hund das Maul öffnen und hecheln kann.",
       "notes": "Zu eng heißt: kein Hecheln, keine Wärmeregulierung. Die Größe geht vor allem anderen.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "gewoehnung",
+      "stable_id": "card-ms942lo700hnt",
       "front": "Schrittweise Gewöhnung",
       "back": "Den Maulkorb in vielen kleinen Schritten aufbauen — niemals einfach überstülpen.",
       "notes": "Vom bloßen Anschauen über Nase-Reinstecken bis zum kurzen Schließen: jeder Schritt für sich.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "positive-verknuepfung",
+      "stable_id": "card-ms942lo700i6c",
       "front": "Positive Verknüpfung",
       "back": "Der Maulkorb sagt: gleich gibt es Futter. Leckerli werden durch das Gitter gereicht.",
       "notes": "So wird der Korb zum Vorboten von etwas Gutem, nicht zu etwas Bedrohlichem.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "tragedauer",
+      "stable_id": "card-ms942lo700jb1",
       "front": "Tragedauer",
       "back": "Erst wenige Sekunden, dann langsam länger — immer im entspannten Bereich.",
       "notes": "Lieber oft ganz kurz als einmal zu lang. Kratzt der Hund am Korb, war der Schritt zu groß.",
@@ -82,6 +88,7 @@
       "title": "Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms942lo700kwh",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Erklärung zu.",
         "card_ids": ["passform", "gewoehnung", "positive-verknuepfung", "tragedauer"],
@@ -101,6 +108,7 @@
       "title": "Worauf es zuerst ankommt",
       "exercise": {
         "id": "ex-mc-passform",
+        "stable_id": "ex-ms942lo700lge",
         "type": "multiple_choice",
         "prompt": "Was ist bei einem Maulkorb am allerwichtigsten?",
         "card_ids": ["passform", "maulkorb"],
@@ -121,6 +129,7 @@
       "title": "Der erste Schritt",
       "exercise": {
         "id": "ex-cloze-nase",
+        "stable_id": "ex-ms942lo700mtq",
         "type": "cloze",
         "prompt": "Ergänze den Satz.",
         "card_ids": ["gewoehnung", "positive-verknuepfung"],
@@ -137,6 +146,7 @@
       "title": "Der Maulkorb wird gut",
       "exercise": {
         "id": "ex-free-verknuepfung",
+        "stable_id": "ex-ms942lo700n6o",
         "type": "free_text",
         "prompt": "Wie nennt man es, wenn der Maulkorb für den Hund zum Vorboten von Futter wird?",
         "card_ids": ["positive-verknuepfung"],
@@ -153,6 +163,7 @@
       "title": "Merksatz zum Tempo",
       "exercise": {
         "id": "ex-tiles-regel",
+        "stable_id": "ex-ms942lo700oon",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen.",
         "card_ids": ["tragedauer", "gewoehnung"],
@@ -168,6 +179,7 @@
       "title": "Wann ein Maulkorb sinnvoll ist",
       "exercise": {
         "id": "ex-ms-gruende",
+        "stable_id": "ex-ms942lo700pso",
         "type": "multiple_choice",
         "prompt": "In welchen Situationen ist ein maulkorbgewöhnter Hund im Vorteil?",
         "card_ids": ["warum-maulkorb", "maulkorb"],

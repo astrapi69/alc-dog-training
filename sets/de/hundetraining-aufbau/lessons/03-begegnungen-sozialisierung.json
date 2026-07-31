@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "sozialisierung",
+      "stable_id": "card-ms942lob03bs6",
       "front": "Sozialisierung",
       "back": "Positive Erfahrungen mit Menschen, Tieren und Umweltreizen, damit der Hund gelassen wird.",
       "notes": "Besonders wichtig in jungen Wochen, aber auch später weiter zu pflegen.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "sozialisierungsphase",
+      "stable_id": "card-ms942lob03cf5",
       "front": "Sozialisierungsphase",
       "back": "Die sensible Zeit im Welpenalter (etwa 3. bis 14. Woche) für neue Eindrücke.",
       "notes": "In dieser Phase geprägte Erfahrungen wirken lange nach. Neues hier positiv und ohne Überforderung anbieten.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "bogen-laufen",
+      "stable_id": "card-ms942lob03du9",
       "front": "Im Bogen vorbeigehen",
       "back": "An einem anderen Hund in einem Bogen vorbeigehen statt frontal aufeinander zu.",
       "notes": "Frontales Zulaufen ist für Hunde oft bedrohlich. Ein Bogen ist höfliche Hundesprache.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "beschwichtigung",
+      "stable_id": "card-ms942lob03eeo",
       "front": "Beschwichtigungssignale",
       "back": "Beruhigende Signale wie Gähnen, Schnüffeln, Blick abwenden oder langsames Gehen.",
       "notes": "Der Hund signalisiert damit „alles friedlich“. Wer sie liest, erkennt früh Unbehagen.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "distanz-wahren",
+      "stable_id": "card-ms942lob03f7e",
       "front": "Genug Distanz wahren",
       "back": "So viel Abstand halten, dass der Hund bei einem Reiz noch ansprechbar und entspannt bleibt.",
       "notes": "Distanz ist das einfachste Mittel, um unter der Reizschwelle zu bleiben.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "positive-verknuepfung",
+      "stable_id": "card-ms942lob03gxq",
       "front": "Positive Verknüpfung",
       "back": "Einen neuen Reiz (Fahrrad, Kind, anderer Hund) mit etwas Gutem wie Leckerli verbinden.",
       "notes": "So wird aus „unbekannt und beängstigend“ mit der Zeit „bekannt und angenehm“.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "ueberforderung",
+      "stable_id": "card-ms942lob03hhe",
       "front": "Überforderung vermeiden",
       "back": "Nicht zu viele neue Reize auf einmal; lieber wenige, gut verkraftbare Erlebnisse.",
       "notes": "Qualität vor Quantität. Ein überforderter Hund lernt Angst statt Gelassenheit.",
@@ -91,6 +98,7 @@
       "title": "Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms942lob03i76",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Erklärung zu.",
         "card_ids": ["sozialisierung", "bogen-laufen", "beschwichtigung", "positive-verknuepfung"],
@@ -110,6 +118,7 @@
       "title": "Ein Hund kommt entgegen",
       "exercise": {
         "id": "ex-mc-bogen",
+        "stable_id": "ex-ms942lob03jab",
         "type": "multiple_choice",
         "prompt": "Euch kommt an der Leine ein anderer Hund entgegen. Wie gehst du am besten vorbei?",
         "card_ids": ["bogen-laufen", "distanz-wahren"],
@@ -130,6 +139,7 @@
       "title": "Die sensible Zeit",
       "exercise": {
         "id": "ex-cloze-phase",
+        "stable_id": "ex-ms942lob03kfc",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff.",
         "card_ids": ["sozialisierungsphase"],
@@ -146,6 +156,7 @@
       "title": "Beruhigende Signale",
       "exercise": {
         "id": "ex-free-beschwichtigung",
+        "stable_id": "ex-ms942lob03l75",
         "type": "free_text",
         "prompt": "Wie nennt man beruhigende Signale wie Gähnen oder Blick abwenden?",
         "card_ids": ["beschwichtigung"],
@@ -162,6 +173,7 @@
       "title": "Merksatz zur Sozialisierung",
       "exercise": {
         "id": "ex-tiles-regel",
+        "stable_id": "ex-ms942lob03mg3",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen.",
         "card_ids": ["ueberforderung"],
@@ -177,6 +189,7 @@
       "title": "Gute Begegnungen gestalten",
       "exercise": {
         "id": "ex-ms-begegnung",
+        "stable_id": "ex-ms942lob03nsj",
         "type": "multiple_choice",
         "prompt": "Was hilft bei entspannten Begegnungen mit anderen Hunden und Reizen?",
         "card_ids": ["bogen-laufen", "distanz-wahren", "positive-verknuepfung"],
