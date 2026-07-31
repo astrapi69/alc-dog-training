@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "alleinbleiben",
+      "stable_id": "card-ms942loa02y51",
       "front": "Alleinbleiben",
       "back": "Der Hund bleibt entspannt allein zu Hause, ohne in Stress zu geraten.",
       "notes": "Muss aktiv geübt werden — kein Hund kann das von allein.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "trennungsstress",
+      "stable_id": "card-ms942loa02zl6",
       "front": "Trennungsstress",
       "back": "Angst oder Stress beim Alleinsein, oft mit Bellen, Zerstören oder Unsauberkeit.",
       "notes": "Anzeichen ernst nehmen. Bei starkem Trennungsstress hilft eine Hundetrainerin oder Tierärztin.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "stressschwelle",
+      "stable_id": "card-ms942loa030a9",
       "front": "Unter der Stressschwelle bleiben",
       "back": "So kurz üben, dass der Hund noch entspannt ist und gar nicht erst in Panik gerät.",
       "notes": "Lieber zehn Sekunden ruhig als drei Minuten mit Panik. Über der Schwelle lernt der Hund nichts Gutes.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "kleinschrittig",
+      "stable_id": "card-ms942loa031ff",
       "front": "Kleinschrittig steigern",
       "back": "Die Alleinzeit in kleinen Schritten verlängern — Sekunden, dann Minuten.",
       "notes": "Nicht linear: mal kürzer, mal länger, damit keine feste Erwartung von „immer mehr“ entsteht.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "kein-drama",
+      "stable_id": "card-ms942loa032i5",
       "front": "Ruhiger Abschied",
       "back": "Gehen und Zurückkommen ruhig und beiläufig gestalten, ohne große Begrüßung.",
       "notes": "Große Abschieds- und Begrüßungsszenen machen das Alleinsein zum emotionalen Kontrast — besser unaufgeregt.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "ruheplatz",
+      "stable_id": "card-ms942loa033j2",
       "front": "Sicherer Ruheplatz",
       "back": "Ein fester, gemütlicher Platz, an dem der Hund gern entspannt.",
       "notes": "Ein Ort, den der Hund positiv verknüpft, erleichtert das Alleinbleiben.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "kauartikel",
+      "stable_id": "card-ms942loa034u2",
       "front": "Beschäftigung zum Überbrücken",
       "back": "Ein gefüllter Kauartikel oder Kong hilft, die erste Zeit allein positiv zu überbrücken.",
       "notes": "Kauen beruhigt. Der Hund verknüpft das Alleinsein mit etwas Angenehmem.",
@@ -91,6 +98,7 @@
       "title": "Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms942loa035tl",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Erklärung zu.",
         "card_ids": ["trennungsstress", "stressschwelle", "kein-drama", "kauartikel"],
@@ -110,6 +118,7 @@
       "title": "Wie lange üben?",
       "exercise": {
         "id": "ex-mc-schwelle",
+        "stable_id": "ex-ms942loa036ex",
         "type": "multiple_choice",
         "prompt": "Was bedeutet „unter der Stressschwelle üben“?",
         "card_ids": ["stressschwelle"],
@@ -130,6 +139,7 @@
       "title": "Der richtige Abschied",
       "exercise": {
         "id": "ex-cloze-abschied",
+        "stable_id": "ex-ms942loa037rq",
         "type": "cloze",
         "prompt": "Ergänze den Satz.",
         "card_ids": ["kein-drama"],
@@ -146,6 +156,7 @@
       "title": "Wie heißt das Problem?",
       "exercise": {
         "id": "ex-free-trennungsstress",
+        "stable_id": "ex-ms942loa038wj",
         "type": "free_text",
         "prompt": "Wie nennt man Stress und Angst, die ein Hund beim Alleinsein zeigt?",
         "card_ids": ["trennungsstress"],
@@ -162,6 +173,7 @@
       "title": "Merksatz zum Alleinbleiben",
       "exercise": {
         "id": "ex-tiles-regel",
+        "stable_id": "ex-ms942loa039rj",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen.",
         "card_ids": ["stressschwelle", "kleinschrittig"],
@@ -178,6 +190,7 @@
       "title": "Was das Alleinbleiben erleichtert",
       "exercise": {
         "id": "ex-ms-aufbau",
+        "stable_id": "ex-ms942loa03a7j",
         "type": "multiple_choice",
         "prompt": "Was hilft deinem Hund, entspannt allein zu bleiben?",
         "card_ids": ["kleinschrittig", "ruheplatz", "kauartikel", "alleinbleiben"],

@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "ressourcenverteidigung",
+      "stable_id": "card-ms942loc04eci",
       "front": "Ressourcenverteidigung",
       "back": "Der Hund verteidigt Futter, Objekte oder Plätze — durch Erstarren, Knurren oder Schnappen.",
       "notes": "Englisch „Resource Guarding“. Häufig und oft gut behandelbar, wenn man es ernst nimmt.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "knurren-nicht-strafen",
+      "stable_id": "card-ms942loc04fhp",
       "front": "Knurren nicht bestrafen",
       "back": "Knurren ist Kommunikation, keine Frechheit — bestraft man es weg, warnt der Hund nicht mehr.",
       "notes": "Ein Hund, dem das Knurren „abtrainiert“ wurde, schnappt oft ohne Vorwarnung. Gefährlich.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "nicht-wegnehmen",
+      "stable_id": "card-ms942loc04g61",
       "front": "Nicht einfach wegnehmen",
       "back": "Dem Hund Dinge wegzunehmen bestätigt seine Sorge und verschärft das Verteidigen.",
       "notes": "Jede Wegnahme lehrt: „Menschen klauen meine Sachen“ — genau das Gegenteil vom Ziel.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "tauschen",
+      "stable_id": "card-ms942loc04hmj",
       "front": "Tauschen statt wegnehmen",
       "back": "Gegen etwas Gleichwertiges oder Besseres tauschen, damit Abgeben sich lohnt.",
       "notes": "Aufbaukurs-Prinzip (Teil 2): Der Hund lernt, dass die Annäherung Gutes bringt.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "vorbeugen",
+      "stable_id": "card-ms942loc04il0",
       "front": "Vorbeugen am Napf",
       "back": "Früh üben, dass die Annäherung an Napf oder Kauartikel etwas Gutes ankündigt.",
       "notes": "Beim Vorbeigehen ein Extra-Leckerli in den Napf werfen — Menschennähe wird zur guten Nachricht.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "management-guarding",
+      "stable_id": "card-ms942loc04jxe",
       "front": "Situationen entschärfen",
       "back": "Getrennt füttern, Wertobjekte wegräumen, Kinder und Hund beim Fressen trennen.",
       "notes": "Management verhindert brenzlige Situationen, während man in Ruhe am Verhalten arbeitet.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "hilfe-holen",
+      "stable_id": "card-ms942loc04k29",
       "front": "Hilfe holen",
       "back": "Bei Schnappen oder Beißen eine gewaltfrei arbeitende Fachperson hinzuziehen.",
       "notes": "Ressourcenverteidigung mit Bissen ist nichts für Alleingänge — Sicherheit geht vor.",
@@ -91,6 +98,7 @@
       "title": "Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms942loc04lit",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Erklärung zu.",
         "card_ids": ["ressourcenverteidigung", "tauschen", "vorbeugen", "management-guarding"],
@@ -110,6 +118,7 @@
       "title": "Der Hund knurrt am Napf",
       "exercise": {
         "id": "ex-mc-knurren",
+        "stable_id": "ex-ms942loc04mt9",
         "type": "multiple_choice",
         "prompt": "Dein Hund knurrt, als du dich seinem Napf näherst. Was ist richtig?",
         "card_ids": ["knurren-nicht-strafen", "nicht-wegnehmen"],
@@ -130,6 +139,7 @@
       "title": "Die zentrale Technik",
       "exercise": {
         "id": "ex-cloze-tauschen",
+        "stable_id": "ex-ms942loc04nlu",
         "type": "cloze",
         "prompt": "Ergänze den Satz.",
         "card_ids": ["tauschen"],
@@ -146,6 +156,7 @@
       "title": "Wann Hilfe holen?",
       "exercise": {
         "id": "ex-free-hilfe",
+        "stable_id": "ex-ms942loc04ona",
         "type": "free_text",
         "prompt": "Ab wann solltest du bei Ressourcenverteidigung unbedingt Fachhilfe holen?",
         "card_ids": ["hilfe-holen"],
@@ -162,6 +173,7 @@
       "title": "Merksatz zum Knurren",
       "exercise": {
         "id": "ex-tiles-regel",
+        "stable_id": "ex-ms942loc04psm",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen.",
         "card_ids": ["knurren-nicht-strafen"],
@@ -177,6 +189,7 @@
       "title": "Sicherer Umgang",
       "exercise": {
         "id": "ex-ms-vorgehen",
+        "stable_id": "ex-ms942loc04qk2",
         "type": "multiple_choice",
         "prompt": "Was gehört zu einem sicheren Umgang mit Ressourcenverteidigung?",
         "card_ids": ["tauschen", "vorbeugen", "management-guarding"],

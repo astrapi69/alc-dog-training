@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "angstphase",
+      "stable_id": "card-ms942lof07ks6",
       "front": "Angstphase",
       "back": "Eine Entwicklungsphase, in der der Welpe oder Junghund plötzlich vorsichtiger und schreckhafter reagiert.",
       "notes": "Ganz normal und vorübergehend. Auch schon bekannte Dinge können kurz wieder gruselig wirken.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "souveraen-bleiben",
+      "stable_id": "card-ms942lof07l7a",
       "front": "Souverän bleiben",
       "back": "Selbst ruhig und gelassen auftreten, damit sich deine Sicherheit auf den Hund überträgt.",
       "notes": "Der Hund orientiert sich an dir. Bleibst du entspannt, wirkt der Auslöser weniger bedrohlich.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "sicherheit-geben",
+      "stable_id": "card-ms942lof07mue",
       "front": "Ruhig Sicherheit geben",
       "back": "Nähe und eine ruhige Stimme sind erlaubt und gut — das verstärkt keine Angst.",
       "notes": "Der alte Mythos „Trösten verstärkt Angst“ stimmt so nicht. Nur hektisches Bemitleiden hilft nicht.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "nicht-zwingen",
+      "stable_id": "card-ms942lof07nsk",
       "front": "Nicht in die Angst zwingen",
       "back": "Den Hund nie zum Angstauslöser hinzerren; er darf Abstand nehmen.",
       "notes": "Zwang verschlimmert Angst. Freiwillige Annäherung im eigenen Tempo ist der Weg.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "distanz",
+      "stable_id": "card-ms942lof07omv",
       "front": "Distanz wahren",
       "back": "Genug Abstand zum Auslöser halten, damit der Hund unter seiner Angstschwelle bleibt.",
       "notes": "Aus sicherer Entfernung kann er beobachten, ohne in Panik zu geraten.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "gegenkonditionierung",
+      "stable_id": "card-ms942lof07ppd",
       "front": "Positive Gegenkonditionierung",
       "back": "Den Angstauslöser aus der Distanz mit etwas Gutem wie Leckerli verknüpfen.",
       "notes": "Mit der Zeit wird aus „Achtung, gefährlich“ ein „Oh, das bringt Futter“.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "geduld",
+      "stable_id": "card-ms942lof07qop",
       "front": "Geduld haben",
       "back": "Angstphasen gehen vorbei; in dieser Zeit keine großen Sprünge und keine Überforderung.",
       "notes": "Weniger ist mehr: lieber kurz und gut als lang und stressig.",
@@ -91,6 +98,7 @@
       "title": "Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms942lof07r98",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Erklärung zu.",
         "card_ids": ["angstphase", "souveraen-bleiben", "distanz", "gegenkonditionierung"],
@@ -110,6 +118,7 @@
       "title": "Darf man trösten?",
       "exercise": {
         "id": "ex-mc-trost",
+        "stable_id": "ex-ms942lof07s4s",
         "type": "multiple_choice",
         "prompt": "Dein Welpe erschrickt und sucht deine Nähe. Was ist richtig?",
         "card_ids": ["sicherheit-geben", "souveraen-bleiben"],
@@ -130,6 +139,7 @@
       "title": "Unter der Schwelle bleiben",
       "exercise": {
         "id": "ex-cloze-distanz",
+        "stable_id": "ex-ms942lof07tpw",
         "type": "cloze",
         "prompt": "Ergänze den Satz.",
         "card_ids": ["distanz"],
@@ -146,6 +156,7 @@
       "title": "Der Fachbegriff",
       "exercise": {
         "id": "ex-free-gegenkond",
+        "stable_id": "ex-ms942lof07u4c",
         "type": "free_text",
         "prompt": "Wie nennt man es, einen Angstauslöser aus Distanz mit etwas Gutem zu verknüpfen?",
         "card_ids": ["gegenkonditionierung"],
@@ -162,6 +173,7 @@
       "title": "Merksatz zur Haltung",
       "exercise": {
         "id": "ex-tiles-geduld",
+        "stable_id": "ex-ms942lof07ve8",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen.",
         "card_ids": ["geduld", "nicht-zwingen"],
@@ -177,6 +189,7 @@
       "title": "Gut durch die Angstphase",
       "exercise": {
         "id": "ex-ms-phase",
+        "stable_id": "ex-ms942lof07wwl",
         "type": "multiple_choice",
         "prompt": "Was hilft deinem Hund durch eine Angstphase?",
         "card_ids": ["souveraen-bleiben", "nicht-zwingen", "geduld"],

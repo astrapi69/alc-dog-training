@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "welpenbeissen",
+      "stable_id": "card-ms942loe05ui5",
       "front": "Welpenbeißen",
       "back": "Welpen erkunden die Welt und spielen mit dem Maul — das ist normales Verhalten.",
       "notes": "Kein Zeichen von Aggression. Der Welpe muss erst lernen, wie fest er darf.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "beisshemmung",
+      "stable_id": "card-ms942loe05vuy",
       "front": "Beißhemmung",
       "back": "Der Welpe lernt, seine Beißkraft zu kontrollieren und nicht fest zuzubeißen.",
       "notes": "Eine der wichtigsten Lektionen der Welpenzeit — normalerweise über Rückmeldung beim Spielen gelernt.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "spielabbruch",
+      "stable_id": "card-ms942loe05wgc",
       "front": "Spielabbruch",
       "back": "Wird es zu fest, endet das Spiel sofort für einen kurzen Moment.",
       "notes": "So lernt der Welpe: Zu festes Beißen beendet den Spaß. Keine Aufregung, einfach kurze Pause.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "alternative-anbieten",
+      "stable_id": "card-ms942loe05xz6",
       "front": "Alternative anbieten",
       "back": "Statt Hand oder Hose bekommt der Welpe ein Kauspielzeug oder einen Kauartikel.",
       "notes": "Der Kaudrang bleibt, bekommt aber ein erlaubtes Ziel.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "keine-haende",
+      "stable_id": "card-ms942loe05y4g",
       "front": "Hände sind kein Spielzeug",
       "back": "Nicht mit den Fingern reizen oder raufen; Hände bringen immer nur Gutes.",
       "notes": "Wer mit den Händen wild spielt, bringt dem Welpen bei, genau nach ihnen zu schnappen.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "zahnwechsel",
+      "stable_id": "card-ms942loe05zqt",
       "front": "Zahnwechsel",
       "back": "Beim Zahnen kaut der Welpe besonders viel und braucht erlaubte Kauobjekte.",
       "notes": "Etwa ab dem vierten Monat. Kühle Kauartikel können den Kaudrang lindern.",
@@ -82,6 +88,7 @@
       "title": "Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms942loe060us",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Erklärung zu.",
         "card_ids": ["beisshemmung", "spielabbruch", "alternative-anbieten", "zahnwechsel"],
@@ -101,6 +108,7 @@
       "title": "Der Welpe zwickt zu fest",
       "exercise": {
         "id": "ex-mc-zwicken",
+        "stable_id": "ex-ms942loe061s2",
         "type": "multiple_choice",
         "prompt": "Dein Welpe beißt beim Spielen plötzlich zu fest in die Hand. Was ist die beste Reaktion?",
         "card_ids": ["spielabbruch", "alternative-anbieten"],
@@ -121,6 +129,7 @@
       "title": "Die Beißkraft lernen",
       "exercise": {
         "id": "ex-cloze-hemmung",
+        "stable_id": "ex-ms942loe0620e",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff.",
         "card_ids": ["beisshemmung", "welpenbeissen"],
@@ -137,6 +146,7 @@
       "title": "Statt der Hand",
       "exercise": {
         "id": "ex-free-alternative",
+        "stable_id": "ex-ms942loe063ki",
         "type": "free_text",
         "prompt": "Was bietest du dem Welpen zum Kauen an, statt ihn in die Hand beißen zu lassen?",
         "card_ids": ["alternative-anbieten"],
@@ -153,6 +163,7 @@
       "title": "Merksatz zu den Händen",
       "exercise": {
         "id": "ex-tiles-regel",
+        "stable_id": "ex-ms942loe0643w",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen.",
         "card_ids": ["keine-haende"],
@@ -168,6 +179,7 @@
       "title": "Guter Umgang mit dem Beißen",
       "exercise": {
         "id": "ex-ms-umgang",
+        "stable_id": "ex-ms942loe065yb",
         "type": "multiple_choice",
         "prompt": "Was hilft deinem Welpen, eine gute Beißhemmung zu lernen?",
         "card_ids": ["spielabbruch", "alternative-anbieten", "keine-haende"],

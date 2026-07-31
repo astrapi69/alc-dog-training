@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "positive-verstaerkung",
+      "stable_id": "card-ms942lo801goh",
       "front": "Positive Verstärkung",
       "back": "Erwünschtes Verhalten wird sofort belohnt, damit der Hund es häufiger zeigt.",
       "notes": "Das Kernprinzip modernen, gewaltfreien Hundetrainings: belohnen statt strafen.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "timing",
+      "stable_id": "card-ms942lo901hfq",
       "front": "Timing",
       "back": "Die Belohnung kommt im Moment des richtigen Verhaltens, nicht Sekunden später.",
       "notes": "Der Hund verknüpft die Belohnung mit dem, was er gerade tut. Zu spät belohnt = falsche Verknüpfung.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "markersignal",
+      "stable_id": "card-ms942lo901irf",
       "front": "Markersignal",
       "back": "Ein kurzes Signal (Klick oder ein Wort wie „Fein“), das genau den richtigen Moment markiert.",
       "notes": "Der Marker überbrückt die Zeit, bis das Leckerli kommt. Ein Klicker oder ein festes Markerwort funktioniert.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "belohnung",
+      "stable_id": "card-ms942lo901jep",
       "front": "Belohnung",
       "back": "Etwas, das der Hund gern mag: Leckerli, Spielzeug, Lob oder Streicheln.",
       "notes": "Je nach Hund und Situation wirkt eine andere Belohnung am besten.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "konsequenz",
+      "stable_id": "card-ms942lo901kzh",
       "front": "Konsequenz",
       "back": "Immer dieselbe Regel und dasselbe Signal verwenden, damit der Hund sich orientieren kann.",
       "notes": "Wenn heute erlaubt und morgen verboten ist, wird der Hund verunsichert.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "kurze-einheiten",
+      "stable_id": "card-ms942lo901l3u",
       "front": "Kurze Trainingseinheiten",
       "back": "Lieber mehrmals täglich wenige Minuten üben als einmal sehr lange.",
       "notes": "Fünf Minuten mit Freude sind besser als zwanzig Minuten mit Frust. So bleibt der Hund motiviert.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "ignorieren",
+      "stable_id": "card-ms942lo901mny",
       "front": "Unerwünschtes ignorieren",
       "back": "Verhalten wie Anspringen bekommt keine Aufmerksamkeit; erwünschtes Verhalten wird belohnt.",
       "notes": "Aufmerksamkeit ist für viele Hunde selbst eine Belohnung. Kein Blick, kein Wort, keine Berührung beim Anspringen.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "koerpersprache",
+      "stable_id": "card-ms942lo901nus",
       "front": "Körpersprache",
       "back": "Hunde lesen unsere Haltung und Bewegung oft deutlicher als unsere Worte.",
       "notes": "Ruhige, klare Körpersprache hilft dem Hund mehr als viele Worte.",
@@ -100,6 +108,7 @@
       "title": "Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms942lo901o5t",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seine Erklärung zu.",
         "card_ids": ["positive-verstaerkung", "timing", "markersignal", "konsequenz"],
@@ -119,6 +128,7 @@
       "title": "Der richtige Moment",
       "exercise": {
         "id": "ex-cloze-timing",
+        "stable_id": "ex-ms942lo901p1j",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff.",
         "card_ids": ["timing"],
@@ -135,6 +145,7 @@
       "title": "Der Hund springt hoch",
       "exercise": {
         "id": "ex-mc-anspringen",
+        "stable_id": "ex-ms942lo901q3y",
         "type": "multiple_choice",
         "prompt": "Dein Hund springt zur Begrüßung an dir hoch. Was ist der beste erste Schritt?",
         "card_ids": ["ignorieren", "koerpersprache"],
@@ -155,6 +166,7 @@
       "title": "Wie heißt das Signal?",
       "exercise": {
         "id": "ex-free-marker",
+        "stable_id": "ex-ms942lo901rmz",
         "type": "free_text",
         "prompt": "Wie nennt man das kurze Signal, das genau den richtigen Moment markiert?",
         "card_ids": ["markersignal"],
@@ -171,6 +183,7 @@
       "title": "Merksatz zusammensetzen",
       "exercise": {
         "id": "ex-tiles-regel",
+        "stable_id": "ex-ms942lo901s4o",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz richtig zusammen.",
         "card_ids": ["kurze-einheiten"],
@@ -187,6 +200,7 @@
       "title": "Was gutes Training ausmacht",
       "exercise": {
         "id": "ex-ms-erfolg",
+        "stable_id": "ex-ms942lo901tep",
         "type": "multiple_choice",
         "prompt": "Welche Punkte machen das Training mit deinem Hund erfolgreich?",
         "card_ids": ["positive-verstaerkung", "timing", "konsequenz", "kurze-einheiten", "belohnung"],

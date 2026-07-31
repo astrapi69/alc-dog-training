@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "leinenreaktivitaet",
+      "stable_id": "card-ms942loc041au",
       "front": "Leinenreaktivität",
       "back": "Bellen, Anspringen oder In-die-Leine-gehen, wenn an der Leine ein Auslöser auftaucht.",
       "notes": "Typisch gegenüber anderen Hunden oder Menschen. „Pöbeln“ ist der Alltagsbegriff dafür.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "ursache-frust-angst",
+      "stable_id": "card-ms942loc042kk",
       "front": "Frust oder Angst als Ursache",
       "back": "Meist steckt Frust (will hin) oder Angst (will Abstand) dahinter — nicht „Dominanz“.",
       "notes": "Die Ursache zu kennen bestimmt den Weg: mehr Distanz und Ruhe helfen fast immer.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "schwellendistanz",
+      "stable_id": "card-ms942loc043kg",
       "front": "Schwellendistanz",
       "back": "Der Abstand zum Auslöser, ab dem der Hund noch ruhig und ansprechbar ist.",
       "notes": "Näher als diese Distanz kippt der Hund ins Pöbeln. Sie ist der wichtigste Arbeitswert.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "unter-schwelle",
+      "stable_id": "card-ms942loc044w4",
       "front": "Unter der Schwelle arbeiten",
       "back": "Nur so nah an den Auslöser gehen, dass der Hund noch entspannt bleibt.",
       "notes": "Über der Schwelle lernt der Hund nichts Gutes, sondern übt das Pöbeln.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "engage-disengage",
+      "stable_id": "card-ms942loc045n6",
       "front": "Sehen, markern, umorientieren",
       "back": "Auslöser sehen → markern → Belohnung → freiwillige Umorientierung zu dir.",
       "notes": "Der Hund lernt: Reiz sehen lohnt sich und führt zurück zu mir statt ins Pöbeln.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "lat",
+      "stable_id": "card-ms942loc046sa",
       "front": "„Look at That“ (LAT)",
       "back": "Der Hund darf den Auslöser anschauen und wird genau dafür belohnt.",
       "notes": "Das Hinschauen wird zum ruhigen Signal statt zum Auslöser fürs Pöbeln.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "management-abstand",
+      "stable_id": "card-ms942loc0478v",
       "front": "Management: Abstand schaffen",
       "back": "Im Alltag ausweichen, einen Bogen laufen oder umdrehen, damit die Schwelle nicht gerissen wird.",
       "notes": "Anschluss an Teil 2: Bogen statt frontal. Management verhindert das Üben des Falschen.",
@@ -91,6 +98,7 @@
       "title": "Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms942loc048tf",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Erklärung zu.",
         "card_ids": ["leinenreaktivitaet", "schwellendistanz", "engage-disengage", "lat"],
@@ -110,6 +118,7 @@
       "title": "Was steckt dahinter?",
       "exercise": {
         "id": "ex-mc-ursache",
+        "stable_id": "ex-ms942loc04913",
         "type": "multiple_choice",
         "prompt": "Was ist meistens die Ursache für Pöbeln an der Leine?",
         "card_ids": ["ursache-frust-angst"],
@@ -130,6 +139,7 @@
       "title": "Der wichtigste Wert",
       "exercise": {
         "id": "ex-cloze-schwelle",
+        "stable_id": "ex-ms942loc04a3n",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff.",
         "card_ids": ["schwellendistanz", "unter-schwelle"],
@@ -146,6 +156,7 @@
       "title": "Hinschauen belohnen",
       "exercise": {
         "id": "ex-free-lat",
+        "stable_id": "ex-ms942loc04bhj",
         "type": "free_text",
         "prompt": "Wie heißt die Übung, bei der der Hund den Auslöser anschauen darf und dafür belohnt wird?",
         "card_ids": ["lat"],
@@ -162,6 +173,7 @@
       "title": "Merksatz zum Management",
       "exercise": {
         "id": "ex-tiles-management",
+        "stable_id": "ex-ms942loc04com",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen.",
         "card_ids": ["management-abstand", "unter-schwelle"],
@@ -177,6 +189,7 @@
       "title": "Gutes Vorgehen bei Reaktivität",
       "exercise": {
         "id": "ex-ms-vorgehen",
+        "stable_id": "ex-ms942loc04d5j",
         "type": "multiple_choice",
         "prompt": "Was gehört zu einem guten Umgang mit Leinenreaktivität?",
         "card_ids": ["unter-schwelle", "engage-disengage", "management-abstand"],

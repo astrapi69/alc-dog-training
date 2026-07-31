@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "schlafbedarf",
+      "stable_id": "card-ms942loe066rm",
       "front": "Schlafbedarf",
       "back": "Welpen brauchen sehr viel Schlaf — oft rund 18 bis 20 Stunden am Tag.",
       "notes": "Im Schlaf verarbeiten sie Eindrücke und wachsen. Zu wenig Ruhe schadet dem Lernen.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "ueberdrehen",
+      "stable_id": "card-ms942loe067hq",
       "front": "Überdrehen",
       "back": "Zu wenig Ruhe macht den Welpen wild, zappelig und zwickig — wie ein übermüdetes Kind.",
       "notes": "Viele „ungezogene“ Welpen sind schlicht übermüdet. Dann hilft Ruhe, nicht mehr Action.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "schlafplatz",
+      "stable_id": "card-ms942loe068od",
       "front": "Sicherer Schlafplatz",
       "back": "Ein fester, ruhiger Platz, an dem der Welpe ungestört schlafen kann.",
       "notes": "Ein Rückzugsort, an dem er nicht bedrängt wird — Kinder sollen ihn dort in Ruhe lassen.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "erste-naechte-naehe",
+      "stable_id": "card-ms942loe069lm",
       "front": "Nähe in den ersten Nächten",
       "back": "Anfangs schläft der Welpe am besten nah bei dir, z. B. im Körbchen neben dem Bett.",
       "notes": "Er kommt gerade von Mutter und Wurf. Nähe senkt den Stress und das nächtliche Jammern.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "ruhephasen-foerdern",
+      "stable_id": "card-ms942loe06avh",
       "front": "Ruhe aktiv fördern",
       "back": "Ruhe gehört ins Programm: bewusst Pausen anbieten, nicht nur Beschäftigung.",
       "notes": "Ein Welpe kann noch nicht gut selbst herunterfahren — du hilfst ihm dabei.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "alleinsein-basis",
+      "stable_id": "card-ms942loe06bp0",
       "front": "Alleinsein anbahnen",
       "back": "Ganz sanft üben, dass der Welpe auch mal kurz und entspannt allein bleibt.",
       "notes": "Die Basis für das spätere Alleinbleiben (Aufbaukurs, Teil 2) — in winzigen Schritten.",
@@ -82,6 +88,7 @@
       "title": "Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms942loe06c6a",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Erklärung zu.",
         "card_ids": ["schlafbedarf", "ueberdrehen", "schlafplatz", "erste-naechte-naehe"],
@@ -101,6 +108,7 @@
       "title": "Der Welpe dreht auf",
       "exercise": {
         "id": "ex-mc-wild",
+        "stable_id": "ex-ms942loe06dqn",
         "type": "multiple_choice",
         "prompt": "Dein Welpe wird am Abend immer wilder und zwickt viel. Was steckt oft dahinter?",
         "card_ids": ["ueberdrehen", "schlafbedarf"],
@@ -121,6 +129,7 @@
       "title": "Wie viel Schlaf?",
       "exercise": {
         "id": "ex-cloze-schlaf",
+        "stable_id": "ex-ms942loe06eqs",
         "type": "cloze",
         "prompt": "Ergänze den Satz.",
         "card_ids": ["schlafbedarf"],
@@ -137,6 +146,7 @@
       "title": "Wo er zur Ruhe kommt",
       "exercise": {
         "id": "ex-free-schlafplatz",
+        "stable_id": "ex-ms942loe06fg5",
         "type": "free_text",
         "prompt": "Wie nennt man den festen, ruhigen Ort, an dem der Welpe ungestört schlafen darf?",
         "card_ids": ["schlafplatz"],
@@ -153,6 +163,7 @@
       "title": "Merksatz zur Ruhe",
       "exercise": {
         "id": "ex-tiles-regel",
+        "stable_id": "ex-ms942loe06gbr",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen.",
         "card_ids": ["ueberdrehen", "ruhephasen-foerdern"],
@@ -168,6 +179,7 @@
       "title": "Gute erste Wochen",
       "exercise": {
         "id": "ex-ms-naechte",
+        "stable_id": "ex-ms942loe06h9i",
         "type": "multiple_choice",
         "prompt": "Was tut deinem Welpen in den ersten Wochen gut?",
         "card_ids": ["erste-naechte-naehe", "ruhephasen-foerdern", "alleinsein-basis"],

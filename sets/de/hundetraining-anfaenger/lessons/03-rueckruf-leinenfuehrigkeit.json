@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "rueckruf",
+      "stable_id": "card-ms942lo9027hn",
       "front": "Rückruf",
       "back": "Der Hund kommt auf ein Signal hin zuverlässig zu dir zurück.",
       "notes": "Eines der wichtigsten Kommandos für die Sicherheit des Hundes.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "rueckrufwort",
+      "stable_id": "card-ms942lo9028b2",
       "front": "Rückrufwort",
       "back": "Ein festes, positiv besetztes Signal wie „Hier“ oder „Komm“, das immer belohnt wird.",
       "notes": "Das Wort niemals für etwas Unangenehmes „verbrennen“ (z. B. zum Schimpfen). Kommen muss sich immer lohnen.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "schleppleine",
+      "stable_id": "card-ms942lo9029qo",
       "front": "Schleppleine",
       "back": "Eine lange Leine (z. B. 5–10 m), mit der man den Rückruf sicher üben kann.",
       "notes": "Gibt Freiraum, ohne den Hund ganz frei laufen zu lassen — ideal für das Training draußen.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "lockere-leine",
+      "stable_id": "card-ms942lo902ayv",
       "front": "Lockere Leine",
       "back": "Die Leine hängt durch; der Hund zieht nicht.",
       "notes": "Ziel der Leinenführigkeit. Eine durchhängende Leine ist das sichtbare Zeichen für entspanntes Gehen.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "stehenbleiben",
+      "stable_id": "card-ms942lo902bww",
       "front": "Stehenbleiben bei Zug",
       "back": "Zieht der Hund, bleibst du stehen; erst bei lockerer Leine geht es weiter.",
       "notes": "So lernt der Hund: Ziehen bringt mich nicht vorwärts, eine lockere Leine schon.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "belohnungszone",
+      "stable_id": "card-ms942lo902c4l",
       "front": "Belohnen auf Höhe des Beins",
       "back": "Beim Leinentraining belohnst du den Hund neben dir, in Kniehöhe, nicht vor dir.",
       "notes": "So lernt der Hund, dass die gute Position dicht bei dir ist — nicht vorne an gespannter Leine.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "ablenkung",
+      "stable_id": "card-ms942lo902dgv",
       "front": "Ablenkung steigern",
       "back": "Erst an ruhigen Orten üben, dann langsam mit mehr Ablenkung (andere Hunde, Menschen).",
       "notes": "Ein Rückruf, der zu Hause klappt, muss draußen erst mit wachsender Ablenkung geübt werden.",
@@ -91,6 +98,7 @@
       "title": "Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-leine",
+        "stable_id": "ex-ms942lo902eie",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Erklärung zu.",
         "card_ids": ["rueckrufwort", "schleppleine", "lockere-leine", "stehenbleiben"],
@@ -110,6 +118,7 @@
       "title": "Das Rückrufwort schützen",
       "exercise": {
         "id": "ex-mc-verbrennen",
+        "stable_id": "ex-ms942lo902fuo",
         "type": "multiple_choice",
         "prompt": "Wofür solltest du dein Rückrufwort NICHT verwenden?",
         "card_ids": ["rueckrufwort"],
@@ -130,6 +139,7 @@
       "title": "Was tun bei Zug?",
       "exercise": {
         "id": "ex-cloze-baum",
+        "stable_id": "ex-ms942loa02g64",
         "type": "cloze",
         "prompt": "Ergänze die Anfängermethode.",
         "card_ids": ["stehenbleiben", "lockere-leine"],
@@ -146,6 +156,7 @@
       "title": "Sicher üben draußen",
       "exercise": {
         "id": "ex-free-schleppleine",
+        "stable_id": "ex-ms942loa02he1",
         "type": "free_text",
         "prompt": "Welche lange Leine nutzt man, um den Rückruf draußen sicher zu üben?",
         "card_ids": ["schleppleine"],
@@ -162,6 +173,7 @@
       "title": "Merksatz zum Rückruf",
       "exercise": {
         "id": "ex-tiles-rueckruf",
+        "stable_id": "ex-ms942loa02icn",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen.",
         "card_ids": ["rueckruf", "rueckrufwort"],
@@ -177,6 +189,7 @@
       "title": "Gutes Leinentraining",
       "exercise": {
         "id": "ex-ms-leinentraining",
+        "stable_id": "ex-ms942loa02j6o",
         "type": "multiple_choice",
         "prompt": "Was hilft beim Training der lockeren Leinenführigkeit?",
         "card_ids": ["stehenbleiben", "belohnungszone", "ablenkung"],

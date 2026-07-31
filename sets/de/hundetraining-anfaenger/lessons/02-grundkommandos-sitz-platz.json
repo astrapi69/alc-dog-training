@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "sitz",
+      "stable_id": "card-ms942lo901u1h",
       "front": "Sitz",
       "back": "Der Hund setzt sich hin und bleibt auf dem Hinterteil, bis er aufgelöst wird.",
       "notes": "Meist das erste Kommando, weil es sich leicht über Locken aufbauen lässt.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "platz",
+      "stable_id": "card-ms942lo901vjg",
       "front": "Platz",
       "back": "Der Hund legt sich flach hin, Bauch und Ellbogen am Boden.",
       "notes": "Baut oft auf „Sitz“ auf: aus dem Sitz das Leckerli langsam zum Boden führen.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "locken",
+      "stable_id": "card-ms942lo901wt9",
       "front": "Locken (Luring)",
       "back": "Mit einem Leckerli in der Hand führst du den Hund in die gewünschte Position.",
       "notes": "Die Hand wird zur Führung. Wichtig: das Locken früh wieder ausschleichen, sonst hängt der Hund am Leckerli.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "signalwort",
+      "stable_id": "card-ms942lo901xwb",
       "front": "Signalwort",
       "back": "Das Wort für ein Verhalten, z. B. „Sitz“ — erst benennen, wenn der Hund es zuverlässig zeigt.",
       "notes": "Ein häufiger Anfängerfehler: das Wort zu früh und zu oft sagen, bevor der Hund die Bewegung kennt.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "ausschleichen",
+      "stable_id": "card-ms942lo901yj9",
       "front": "Leckerli ausschleichen",
       "back": "Nach und nach ohne Leckerli in der Hand üben und nur noch danach belohnen.",
       "notes": "So wird das Signal unabhängig vom sichtbaren Futter. Belohnt wird weiter, aber erst nach dem Verhalten.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "aufloesen",
+      "stable_id": "card-ms942lo901zu3",
       "front": "Auflösesignal",
       "back": "Ein Wort wie „Lauf“ oder „Okay“, das dem Hund sagt: Die Übung ist vorbei.",
       "notes": "Ohne Auflösesignal weiß der Hund nicht, wann er die Position verlassen darf.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "generalisieren",
+      "stable_id": "card-ms942lo9020bs",
       "front": "Generalisieren",
       "back": "Das Kommando an vielen Orten und in vielen Situationen üben.",
       "notes": "Ein Hund, der „Sitz“ nur in der Küche kann, kann es noch nicht wirklich. Übe auch im Park, im Flur, draußen.",
@@ -91,6 +98,7 @@
       "title": "Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-kommandos",
+        "stable_id": "ex-ms942lo9021vg",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Erklärung zu.",
         "card_ids": ["locken", "signalwort", "ausschleichen", "aufloesen"],
@@ -110,6 +118,7 @@
       "title": "Wann kommt das Signalwort?",
       "exercise": {
         "id": "ex-mc-reihenfolge",
+        "stable_id": "ex-ms942lo9022h6",
         "type": "multiple_choice",
         "prompt": "Wann solltest du das Signalwort „Sitz“ einführen?",
         "card_ids": ["signalwort"],
@@ -130,6 +139,7 @@
       "title": "„Platz“ aufbauen",
       "exercise": {
         "id": "ex-cloze-platz",
+        "stable_id": "ex-ms942lo9023zh",
         "type": "cloze",
         "prompt": "Ergänze den Satz.",
         "card_ids": ["platz", "locken"],
@@ -146,6 +156,7 @@
       "title": "Weg vom sichtbaren Futter",
       "exercise": {
         "id": "ex-free-ausschleichen",
+        "stable_id": "ex-ms942lo902458",
         "type": "free_text",
         "prompt": "Wie nennt man es, wenn man nach und nach ohne Leckerli in der Hand übt?",
         "card_ids": ["ausschleichen"],
@@ -162,6 +173,7 @@
       "title": "Der Ablauf als Merksatz",
       "exercise": {
         "id": "ex-tiles-sitz",
+        "stable_id": "ex-ms942lo902572",
         "type": "word_tiles",
         "prompt": "Setze den Ablauf in die richtige Reihenfolge.",
         "card_ids": ["locken", "sitz"],
@@ -178,6 +190,7 @@
       "title": "Gutes Vorgehen erkennen",
       "exercise": {
         "id": "ex-ms-fehler",
+        "stable_id": "ex-ms942lo9026wy",
         "type": "multiple_choice",
         "prompt": "Was gehört zu einem sauber aufgebauten Grundkommando?",
         "card_ids": ["ausschleichen", "aufloesen", "generalisieren"],

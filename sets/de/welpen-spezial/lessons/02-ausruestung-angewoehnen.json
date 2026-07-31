@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "halsband-gewoehnen",
+      "stable_id": "card-ms942lof0777g",
       "front": "Halsband angewöhnen",
       "back": "Das Halsband kurz anlegen, ablenken und belohnen, die Tragezeit langsam steigern.",
       "notes": "Am Anfang während des Spielens oder Fressens, damit es kaum auffällt.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "geschirr",
+      "stable_id": "card-ms942lof078uh",
       "front": "Brustgeschirr",
       "back": "Ein gut sitzendes Brustgeschirr verteilt den Zug schonend, statt auf den Hals zu wirken.",
       "notes": "Gerade für Welpen und für Hunde, die noch ziehen, oft die schonendere Wahl.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "leine-positiv",
+      "stable_id": "card-ms942lof079z3",
       "front": "Leine positiv einführen",
       "back": "Die Leine unter Aufsicht locker mitschleifen lassen, damit sie nichts Bedrohliches ist.",
       "notes": "Erst drinnen, kurz und beaufsichtigt — nie den Welpen daran ruckeln oder festbinden.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "freiwillig",
+      "stable_id": "card-ms942lof07ay7",
       "front": "Freiwillig hineingehen",
       "back": "Der Welpe steckt Kopf oder Pfoten selbst ins Geschirr, gelockt mit einem Leckerli.",
       "notes": "Nichts überstülpen. Freiwilligkeit senkt Stress und macht das Anziehen später leicht.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "kurze-einheiten",
+      "stable_id": "card-ms942lof07bgf",
       "front": "Kurze Einheiten",
       "back": "Erst Sekunden tragen, dann langsam länger — immer im entspannten Bereich.",
       "notes": "Kratzt der Welpe stark oder erstarrt er, war der Schritt zu groß.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "passform",
+      "stable_id": "card-ms942lof07c3w",
       "front": "Passform prüfen",
       "back": "Zwei Finger passen unter das Halsband; das Geschirr scheuert nicht und sitzt sicher.",
       "notes": "Welpen wachsen schnell — die Passform regelmäßig kontrollieren.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "vorbereitung-leine",
+      "stable_id": "card-ms942lof07dle",
       "front": "Basis für die Leinenführigkeit",
       "back": "Wer Ausrüstung entspannt trägt, tut sich beim späteren Leinentraining (Teil 1) viel leichter.",
       "notes": "Die Gewöhnung kommt vor dem eigentlichen Gehen an lockerer Leine.",
@@ -91,6 +98,7 @@
       "title": "Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms942lof07ey4",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Erklärung zu.",
         "card_ids": ["halsband-gewoehnen", "geschirr", "leine-positiv", "passform"],
@@ -110,6 +118,7 @@
       "title": "Das Geschirr anziehen",
       "exercise": {
         "id": "ex-mc-geschirr",
+        "stable_id": "ex-ms942lof07fiy",
         "type": "multiple_choice",
         "prompt": "Wie ziehst du dem Welpen das neue Geschirr am besten an?",
         "card_ids": ["freiwillig", "kurze-einheiten"],
@@ -130,6 +139,7 @@
       "title": "Sitzt es richtig?",
       "exercise": {
         "id": "ex-cloze-passform",
+        "stable_id": "ex-ms942lof07gip",
         "type": "cloze",
         "prompt": "Ergänze die Faustregel.",
         "card_ids": ["passform"],
@@ -146,6 +156,7 @@
       "title": "Die Leine soll gut sein",
       "exercise": {
         "id": "ex-free-leine",
+        "stable_id": "ex-ms942lof07hd2",
         "type": "free_text",
         "prompt": "Wie führst du die Leine anfangs ein, damit sie nichts Bedrohliches ist?",
         "card_ids": ["leine-positiv"],
@@ -162,6 +173,7 @@
       "title": "Merksatz zur Reihenfolge",
       "exercise": {
         "id": "ex-tiles-regel",
+        "stable_id": "ex-ms942lof07ig8",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen.",
         "card_ids": ["vorbereitung-leine", "halsband-gewoehnen"],
@@ -177,6 +189,7 @@
       "title": "Gute Angewöhnung",
       "exercise": {
         "id": "ex-ms-gut",
+        "stable_id": "ex-ms942lof07jk3",
         "type": "multiple_choice",
         "prompt": "Was gehört zu einer guten Ausrüstungs-Angewöhnung?",
         "card_ids": ["freiwillig", "kurze-einheiten", "passform"],

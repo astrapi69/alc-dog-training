@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "auslastung",
+      "stable_id": "card-ms942lob03o3v",
       "front": "Auslastung",
       "back": "Körperliche und vor allem geistige Beschäftigung, damit der Hund zufrieden ist.",
       "notes": "Ein unterforderter Hund sucht sich oft selbst Beschäftigung — meist unerwünschte.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "nasenarbeit",
+      "stable_id": "card-ms942lob03p5c",
       "front": "Nasenarbeit",
       "back": "Suchspiele, bei denen der Hund mit der Nase Futter oder Gegenstände findet.",
       "notes": "Schnüffeln lastet stark aus und beruhigt. Ideal auch für Regentage und Ruhephasen.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "trick-pfote",
+      "stable_id": "card-ms942lob03qsk",
       "front": "Pfote geben",
       "back": "Der Hund legt auf Signal eine Pfote in deine Hand.",
       "notes": "Ein einfacher Einstiegstrick, meist über Einfangen der Pfotenbewegung aufgebaut.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "trick-drehen",
+      "stable_id": "card-ms942lob03rkw",
       "front": "Dreh dich",
       "back": "Der Hund dreht sich auf Signal einmal im Kreis.",
       "notes": "Gut über Locken aufzubauen: das Leckerli im Kreis um den Hund führen.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "formen",
+      "stable_id": "card-ms942lob03syo",
       "front": "Formen (Shaping)",
       "back": "Ein Verhalten in kleinen Schritten aufbauen und jeden Teilschritt belohnen.",
       "notes": "Der Hund probiert aktiv aus; du belohnst jede Annäherung an das Ziel.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "einfangen",
+      "stable_id": "card-ms942lob03twx",
       "front": "Einfangen (Capturing)",
       "back": "Ein spontan gezeigtes Verhalten im richtigen Moment markieren und benennen.",
       "notes": "Beispiel: Der Hund gähnt von allein — du markierst und gibst dem Gähnen später ein Signal.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "koepfchen",
+      "stable_id": "card-ms942lob03ub3",
       "front": "Kopfarbeit ist anstrengend",
       "back": "Geistige Beschäftigung ermüdet einen Hund oft stärker als reine Bewegung.",
       "notes": "Deshalb müssen Hunde nicht endlos rennen — Denkaufgaben lasten wunderbar aus.",
@@ -91,6 +98,7 @@
       "title": "Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms942lob03vhg",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Erklärung zu.",
         "card_ids": ["auslastung", "nasenarbeit", "formen", "einfangen"],
@@ -110,6 +118,7 @@
       "title": "Welche Methode ist das?",
       "exercise": {
         "id": "ex-mc-methode",
+        "stable_id": "ex-ms942lob03wl0",
         "type": "multiple_choice",
         "prompt": "Dein Hund gähnt von allein; du markierst genau in diesem Moment und benennst es später. Welche Methode ist das?",
         "card_ids": ["einfangen", "formen"],
@@ -130,6 +139,7 @@
       "title": "Beschäftigung für die Nase",
       "exercise": {
         "id": "ex-cloze-nase",
+        "stable_id": "ex-ms942lob03xae",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff.",
         "card_ids": ["nasenarbeit"],
@@ -146,6 +156,7 @@
       "title": "Schritt für Schritt formen",
       "exercise": {
         "id": "ex-free-formen",
+        "stable_id": "ex-ms942lob03ynx",
         "type": "free_text",
         "prompt": "Wie heißt die Methode, ein Verhalten in kleinen Schritten aufzubauen und jede Annäherung zu belohnen?",
         "card_ids": ["formen"],
@@ -162,6 +173,7 @@
       "title": "Merksatz zur Auslastung",
       "exercise": {
         "id": "ex-tiles-regel",
+        "stable_id": "ex-ms942lob03zn3",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen.",
         "card_ids": ["koepfchen", "auslastung"],
@@ -177,6 +189,7 @@
       "title": "Gute Auslastung",
       "exercise": {
         "id": "ex-ms-auslastung",
+        "stable_id": "ex-ms942lob0404k",
         "type": "multiple_choice",
         "prompt": "Womit lastest du deinen Hund sinnvoll geistig aus?",
         "card_ids": ["nasenarbeit", "trick-pfote", "koepfchen", "trick-drehen"],

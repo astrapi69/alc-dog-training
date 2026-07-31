@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "stubenreinheit",
+      "stable_id": "card-ms942lod05hhm",
       "front": "Stubenreinheit",
       "back": "Der Welpe lernt, sich draußen zu lösen statt in der Wohnung.",
       "notes": "Braucht vor allem Geduld und gutes Timing — ein junger Welpe kann noch nicht lange einhalten.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "rausbringen-timing",
+      "stable_id": "card-ms942lod05ihl",
       "front": "Rausbringen mit Timing",
       "back": "Nach dem Schlafen, Fressen, Trinken und Spielen sofort nach draußen.",
       "notes": "Das sind die typischen Momente, in denen ein Welpe muss. Lieber einmal zu oft raus als zu selten.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "loben-draussen",
+      "stable_id": "card-ms942lod05jxw",
       "front": "Draußen loben",
       "back": "Direkt beim Lösen im Freien ruhig loben und belohnen.",
       "notes": "Das Lob kommt, während er sich löst oder unmittelbar danach — nicht erst zu Hause.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "loesewort",
+      "stable_id": "card-ms942lod05k1s",
       "front": "Lösewort",
       "back": "Ein festes Signalwort (z. B. „Mach schnell“), das mit dem Lösen verknüpft wird.",
       "notes": "Praktisch bei Regen oder auf Reisen: Auf Signal löst sich der Hund gezielt.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "kein-schimpfen",
+      "stable_id": "card-ms942lod05lzl",
       "front": "Nicht schimpfen",
       "back": "Missgeschicke in der Wohnung wortlos wegwischen, nie bestrafen.",
       "notes": "Strafe macht den Welpen nur heimlich — er lernt, sich zu verstecken, nicht sauberer zu werden.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "anzeichen-lesen",
+      "stable_id": "card-ms942lod05mon",
       "front": "Anzeichen erkennen",
       "back": "Schnüffeln, Kreiseln oder plötzliche Unruhe — dann sofort nach draußen.",
       "notes": "Wer die Anzeichen früh liest, kommt dem Missgeschick zuvor.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "nachts-rausbringen",
+      "stable_id": "card-ms942lod05nc7",
       "front": "Nachts rausbringen",
       "back": "Junge Welpen halten nachts noch nicht durch und müssen einmal raus.",
       "notes": "Mit den Wochen wird die Blase größer und die Pausen länger.",
@@ -91,6 +98,7 @@
       "title": "Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms942lod05oqw",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Erklärung zu.",
         "card_ids": ["rausbringen-timing", "loben-draussen", "loesewort", "anzeichen-lesen"],
@@ -110,6 +118,7 @@
       "title": "Ein Missgeschick passiert",
       "exercise": {
         "id": "ex-mc-missgeschick",
+        "stable_id": "ex-ms942lod05p84",
         "type": "multiple_choice",
         "prompt": "Du findest eine Pfütze in der Wohnung, das Missgeschick ist schon passiert. Was tust du?",
         "card_ids": ["kein-schimpfen"],
@@ -130,6 +139,7 @@
       "title": "Der beste Zeitpunkt",
       "exercise": {
         "id": "ex-cloze-timing",
+        "stable_id": "ex-ms942lod05qib",
         "type": "cloze",
         "prompt": "Ergänze den Satz.",
         "card_ids": ["rausbringen-timing"],
@@ -146,6 +156,7 @@
       "title": "Wo wird gelobt?",
       "exercise": {
         "id": "ex-free-loben",
+        "stable_id": "ex-ms942lod05r20",
         "type": "free_text",
         "prompt": "Wo lobst du den Welpen, wenn er sich gelöst hat?",
         "card_ids": ["loben-draussen"],
@@ -162,6 +173,7 @@
       "title": "Merksatz zur Stubenreinheit",
       "exercise": {
         "id": "ex-tiles-regel",
+        "stable_id": "ex-ms942lod05ss0",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen.",
         "card_ids": ["rausbringen-timing", "loben-draussen"],
@@ -177,6 +189,7 @@
       "title": "Was Stubenreinheit fördert",
       "exercise": {
         "id": "ex-ms-plan",
+        "stable_id": "ex-ms942lod05tv8",
         "type": "multiple_choice",
         "prompt": "Was hilft deinem Welpen, schnell stubenrein zu werden?",
         "card_ids": ["rausbringen-timing", "loben-draussen", "kein-schimpfen", "stubenreinheit", "nachts-rausbringen"],
