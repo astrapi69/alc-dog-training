@@ -1,6 +1,6 @@
 {
   "repo": "astrapi69/alc-dog-training",
-  "generated": "2026-07-23T16:13:24Z",
+  "generated": "2026-07-31T15:49:22Z",
   "schema_version": "1.0",
   "sets": [
     {
@@ -24,7 +24,7 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-07-22T15:10:19+02:00"
+      "updated_at": "2026-07-31T17:49:04+02:00"
     },
     {
       "id": "welpen-spezial-from-de",
@@ -47,7 +47,7 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-07-22T15:10:19+02:00"
+      "updated_at": "2026-07-31T17:49:04+02:00"
     },
     {
       "id": "hundetraining-anfaenger-from-de",
@@ -69,7 +69,7 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-07-22T15:10:19+02:00"
+      "updated_at": "2026-07-31T17:49:04+02:00"
     },
     {
       "id": "hundetraining-aufbau-from-de",
@@ -92,7 +92,7 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-07-22T15:10:19+02:00"
+      "updated_at": "2026-07-31T17:49:04+02:00"
     },
     {
       "id": "hundetraining-alltag-from-de",
@@ -115,7 +115,7 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-07-22T15:10:19+02:00"
+      "updated_at": "2026-07-31T17:49:04+02:00"
     },
     {
       "id": "hundetraining-verhalten-from-de",
@@ -138,7 +138,7 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-07-22T15:10:19+02:00"
+      "updated_at": "2026-07-31T17:49:04+02:00"
     }
   ],
   "total_lessons": 23,
