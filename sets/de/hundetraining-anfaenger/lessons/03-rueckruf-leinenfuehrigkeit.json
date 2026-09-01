@@ -129,7 +129,8 @@
           {"text": "Um den Hund zu belohnen"},
           {"text": "Um mit dem Hund zu spielen"}
         ],
-        "hint": "Kommen muss sich für den Hund immer lohnen."
+        "hint": "Kommen muss sich für den Hund immer lohnen.",
+        "explanation": "Wird das Rückrufwort mit etwas Unangenehmem verknüpft, etwa Schimpfen oder dem Ende des Spaziergangs, lernt der Hund, dass Kommen sich nicht lohnt, und reagiert künftig langsamer oder gar nicht mehr. Das Wort bleibt nur zuverlässig, wenn Kommen für den Hund immer positiv endet."
       }
     },
     {
@@ -146,7 +147,8 @@
         "sentence": "Zieht der Hund, bleibst du ___ und gehst erst weiter, wenn die Leine wieder locker ist.",
         "blanks": [{"accept": ["stehen", "stehenbleiben", "stehen bleiben"]}],
         "cloze_mode": "type",
-        "hint": "Wie ein Baum."
+        "hint": "Wie ein Baum.",
+        "explanation": "Das Stehenbleiben ist eine Form der Konsequenz ohne Strafe: Zug an der Leine bringt den Hund nicht vorwärts, eine lockere Leine dagegen schon. So lernt der Hund durch die natürliche Folge seines eigenen Verhaltens, ganz ohne Leinenruck oder Schimpfen."
       }
     },
     {
@@ -202,7 +204,8 @@
           {"text": "Nur weit vor dir an gespannter Leine belohnen"},
           {"text": "Sofort im größten Trubel starten"}
         ],
-        "hint": "Denke an Stehenbleiben, Belohnen neben dir und langsam mehr Ablenkung."
+        "hint": "Denke an Stehenbleiben, Belohnen neben dir und langsam mehr Ablenkung.",
+        "explanation": "Wird nur weit vorne an gespannter Leine belohnt, lernt der Hund unbeabsichtigt, dass Ziehen sich lohnt. Belohnung auf Höhe des Beins und langsam steigende Ablenkung bauen die lockere Leine dagegen gezielt auf, statt sie dem Zufall zu überlassen."
       }
     }
   ]

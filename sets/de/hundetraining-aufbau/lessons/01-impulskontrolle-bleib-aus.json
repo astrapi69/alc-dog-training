@@ -139,7 +139,8 @@
           {"text": "„Bleib“ — er soll die Position halten"},
           {"text": "„Hier“ — er soll zurückkommen"}
         ],
-        "hint": "„Lass es“ greift, bevor etwas im Maul ist."
+        "hint": "„Lass es“ greift, bevor etwas im Maul ist.",
+        "explanation": "„Aus“ setzt du ein, sobald der Hund etwas bereits im Maul hat; „Lass es“ wirkt davor, damit er es gar nicht erst aufnimmt. Wer die beiden vertauscht, trainiert oft ein Signal auf den falschen Moment, und der Hund lernt es nicht sauber."
       }
     },
     {
@@ -172,6 +173,7 @@
         "card_ids": ["tausch"],
         "accept": ["Tauschen", "tauschen", "durch Tauschen", "etwas Gleichwertiges anbieten"],
         "hint": "Biete etwas Gleichwertiges oder Besseres an.",
+        "explanation": "Wegreißen macht ungewollt vor, dass Menschenhände Wertvolles einfach wegnehmen, das kann Ressourcenverteidigung fördern (Knurren, Schnappen ums Futter oder Spielzeug). Tausch macht das Abgeben stattdessen lohnend, weil danach etwas Gutes kommt.",
         "distractors": ["Wegreißen", "Anschreien", "Ignorieren"],
         "direction": "target_to_source"
       }
@@ -212,7 +214,8 @@
           {"text": "Dominanz"},
           {"text": "Druck"}
         ],
-        "hint": "Wie lange, wie weit weg, wie viel drumherum."
+        "hint": "Wie lange, wie weit weg, wie viel drumherum.",
+        "explanation": "Dauer, Distanz und Ablenkung sind reine Trainingsstufen, sie beschreiben, wie schwer die Übung wird. „Dominanz“ und „Druck“ gehören zu veralteten, längst widerlegten Erziehungsmodellen und haben mit den drei D nichts zu tun."
       }
     }
   ]

@@ -1,0 +1,192 @@
+{
+  "id": "05-wiederholung-alltag",
+  "title": "Wiederholung: Souverän im Alltag",
+  "description": "Teil 3 (B1): Wiederholung und Transfer - die wichtigsten Prinzipien aus Antijagdtraining, Maulkorbtraining, kooperativem Medical Training und Notrückruf noch einmal zusammengeführt, plus zwei Sprechübungen für zentrale Signale.",
+  "target_language": "de",
+  "source_language": "de",
+  "domain": "knowledge",
+  "estimated_minutes": 8,
+  "requires_extensions": ["ext:al-speak-and-record@1"],
+  "cards": [
+    {
+      "id": "trieb-lenken",
+      "stable_id": "card-mtins65901fil",
+      "front": "Trieb lenken statt löschen",
+      "back": "Angeborenes Verhalten wie Jagen lässt sich nicht abtrainieren, nur in erlaubte Bahnen lenken - über Abbruchsignal, Umorientierung und ein legales Ventil.",
+      "notes": "Zusammenfassung aus dem Antijagdtraining: Ziel ist Kanalisieren, nicht Löschen.",
+      "media_type": "text",
+      "difficulty": 3,
+      "tags": ["antijagd", "review"]
+    },
+    {
+      "id": "freiwilligkeit",
+      "stable_id": "card-mtins65901gvc",
+      "front": "Freiwilligkeit als Trainingsprinzip",
+      "back": "Ob beim Maulkorb-Aufbau oder beim Medical Training: Der Hund bestimmt das Tempo mit - er steckt die Nase selbst hinein, gibt ein Startsignal oder darf jederzeit abbrechen.",
+      "notes": "Verbindet Maulkorbtraining und kooperatives Medical Training zu einem gemeinsamen Prinzip.",
+      "media_type": "text",
+      "difficulty": 3,
+      "tags": ["methode", "review"]
+    },
+    {
+      "id": "management-vs-training",
+      "stable_id": "card-mtins65901hwl",
+      "front": "Management und Training zusammen",
+      "back": "Schleppleine beim Antijagdtraining, Sicherung beim Notrückruf: Management verhindert Fehlversuche, während im Hintergrund das eigentliche Verhalten aufgebaut wird.",
+      "notes": "Fasst zusammen, warum Antijagd und Notrückruf beide auf eine Leine als Sicherung setzen.",
+      "media_type": "text",
+      "difficulty": 3,
+      "tags": ["management", "review"]
+    },
+    {
+      "id": "signalwert-schuetzen",
+      "stable_id": "card-mtins65901iw8",
+      "front": "Den Wert eines Signals schützen",
+      "back": "Ein starkes Signal wie der Notrückruf bleibt nur stark, wenn es nie mit etwas Unangenehmem verknüpft und nicht inflationär benutzt wird.",
+      "notes": "Kernidee aus dem Notrückruf-Kapitel, hier als allgemeines Prinzip formuliert.",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": ["rueckruf", "review"]
+    },
+    {
+      "id": "kleine-schritte",
+      "stable_id": "card-mtins65901j4s",
+      "front": "In kleinen Schritten aufbauen",
+      "back": "Ob Maulkorb-Gewöhnung, Handling beim Tierarzt oder Ablenkung beim Rückruf: Jeder neue Trainingsschritt bleibt so klein, dass der Hund souverän bleibt.",
+      "notes": "Verbindet Tragedauer (Maulkorb), Kleinschrittigkeit (Medical Training) und Ablenkungsstufen (Notrückruf).",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": ["methode", "review"]
+    },
+    {
+      "id": "belohnung-die-zaehlt",
+      "stable_id": "card-mtins65901kjh",
+      "front": "Belohnung, die wirklich zählt",
+      "back": "Kontrolliertes Ausleben des Jagdtriebs, positive Verknüpfung beim Maulkorb, Jackpot beim Notrückruf: Gutes Verhalten lohnt sich immer über etwas, das dem Hund wirklich wichtig ist.",
+      "notes": "Drei verschiedene Belohnungsformen aus drei Lektionen, ein gemeinsames Prinzip.",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": ["belohnung", "review"]
+    },
+    {
+      "id": "kontrolle-senkt-stress",
+      "stable_id": "card-mtins65901ls7",
+      "front": "Kontrolle senkt Stress",
+      "back": "Ein Hund, der ein Verhalten jederzeit abbrechen oder ablehnen darf, bleibt entspannter als einer, der zu etwas gezwungen wird - auch wenn er die Möglichkeit nie nutzt.",
+      "notes": "Das Paradox aus dem Medical Training, hier auf das ganze Set bezogen.",
+      "media_type": "text",
+      "difficulty": 3,
+      "tags": ["medical", "review"]
+    }
+  ],
+  "steps": [
+    {
+      "id": "rueckblick-theorie",
+      "type": "theory",
+      "title": "Der rote Faden",
+      "body": "# Wiederholung: Souverän im Alltag\n\nVier Themen, ein gemeinsamer Ansatz: **gewaltfrei mit positiver Verstärkung**. Noch einmal die wichtigsten Fäden zusammengeführt:\n\n- **Trieb lenken statt löschen** - der Jagdtrieb lässt sich nicht abstellen, nur in ein erlaubtes Ventil kanalisieren.\n- **Freiwilligkeit** - beim Maulkorb steckt der Hund die Nase selbst hinein, beim Medical Training gibt er Start- und Abbruchsignal. Kontrolle über die Situation senkt Stress.\n- **Management sichert ab** - Schleppleine beim Antijagdtraining und beim Notrückruf verhindern Fehlversuche, während im Hintergrund das eigentliche Verhalten wächst.\n- **Kleine Schritte** - ob Tragedauer, Handling oder Ablenkungsstufe: Jeder Schritt bleibt so klein, dass der Hund souverän bleibt.\n- **Belohnung, die zählt** - kontrolliertes Ausleben, positive Verknüpfung oder Jackpot: Gutes Verhalten lohnt sich immer über etwas, das dem Hund wirklich wichtig ist.\n\n> Der gemeinsame Nenner: Der Hund wird nicht überwältigt, sondern schrittweise und freiwillig zum Mitmachen eingeladen."
+    },
+    {
+      "id": "ex-match-prinzipien",
+      "type": "exercise",
+      "theory_ref": "rueckblick-theorie",
+      "title": "Prinzipien zuordnen",
+      "exercise": {
+        "id": "ex-match-prinzipien",
+        "stable_id": "ex-mtins65901m10",
+        "type": "matching",
+        "prompt": "Ordne jedem Prinzip die passende Kurzerklärung zu.",
+        "card_ids": ["trieb-lenken", "freiwilligkeit", "management-vs-training", "signalwert-schuetzen"],
+        "pairs": [
+          {"left": "Trieb lenken statt löschen", "right": "Den Instinkt in ein erlaubtes Ventil lenken, nicht abtrainieren.", "stable_id": "pair-mtins65901nww"},
+          {"left": "Freiwilligkeit als Trainingsprinzip", "right": "Der Hund darf Tempo und Start selbst mitbestimmen.", "stable_id": "pair-mtins65901o0j"},
+          {"left": "Management und Training zusammen", "right": "Verhindert Fehlversuche, während im Hintergrund das Verhalten aufgebaut wird.", "stable_id": "pair-mtins65901p9k"},
+          {"left": "Den Wert eines Signals schützen", "right": "Nie verbrennen und nie inflationär einsetzen.", "stable_id": "pair-mtins65901q99"}
+        ],
+        "direction": "target_to_source"
+      }
+    },
+    {
+      "id": "ex-mc-roter-faden",
+      "type": "exercise",
+      "theory_ref": "rueckblick-theorie",
+      "title": "Was die Lektionen verbindet",
+      "exercise": {
+        "id": "ex-mc-roter-faden",
+        "stable_id": "ex-mtins65901rc9",
+        "type": "multiple_choice",
+        "prompt": "Was verbindet Maulkorbtraining, Medical Training und Notrückruf am stärksten?",
+        "card_ids": ["kleine-schritte", "belohnung-die-zaehlt"],
+        "multiple": false,
+        "options": [
+          {"text": "Kleine, für den Hund bewältigbare Schritte und eine Belohnung, die ihm wirklich wichtig ist", "correct": true, "stable_id": "opt-mtins65901svm"},
+          {"text": "Ein möglichst schnelles Ergebnis noch am selben Tag", "stable_id": "opt-mtins65901t76"},
+          {"text": "Strenge Konsequenzen bei jedem Fehlversuch", "stable_id": "opt-mtins65901uzb"},
+          {"text": "Der komplette Verzicht auf jede Belohnung", "stable_id": "opt-mtins65901vyr"}
+        ],
+        "hint": "Denke an Tragedauer, Handling-Schritte und Ablenkungsstufen - und daran, was danach kommt.",
+        "explanation": "Ob Maulkorb, Handling oder Rückruf: Fortschritt entsteht durch viele kleine, für den Hund bewältigbare Schritte, gefolgt von einer Belohnung, die ihm wirklich etwas wert ist. Tempo und Druck von außen wirken dagegen fast immer kontraproduktiv."
+      }
+    },
+    {
+      "id": "ex-cloze-kontrolle",
+      "type": "exercise",
+      "theory_ref": "rueckblick-theorie",
+      "title": "Kontrolle über die Situation",
+      "exercise": {
+        "id": "ex-cloze-kontrolle",
+        "stable_id": "ex-mtins65901wru",
+        "type": "cloze",
+        "prompt": "Ergänze den Satz.",
+        "card_ids": ["kontrolle-senkt-stress", "freiwilligkeit"],
+        "sentence": "Ein Hund, der ein Training jederzeit ___ darf, bleibt entspannter als einer, der festgehalten wird.",
+        "blanks": [{"accept": ["abbrechen", "beenden"], "stable_id": "blank-mtins65901xds"}],
+        "cloze_mode": "type",
+        "hint": "Das Gegenteil von Festhalten.",
+        "explanation": "Kontrolle über die eigene Situation senkt Stress, selbst wenn der Hund sie nie tatsächlich nutzt - das gilt beim Medical Training genauso wie beim Maulkorb-Aufbau, wo der Hund die Nase selbst hineinsteckt."
+      }
+    },
+    {
+      "id": "ex-tiles-schritte",
+      "type": "exercise",
+      "theory_ref": "rueckblick-theorie",
+      "title": "Merksatz zum Tempo",
+      "exercise": {
+        "id": "ex-tiles-schritte",
+        "stable_id": "ex-mtins65901yah",
+        "type": "word_tiles",
+        "prompt": "Setze den Merksatz zusammen.",
+        "card_ids": ["kleine-schritte", "management-vs-training"],
+        "tiles": ["Kleine", "Schritte", "bauen", "sicheres", "Verhalten", "auf"],
+        "hint": "Erst der kleine Schritt, dann das sichere Verhalten.",
+        "direction": "target_to_source"
+      }
+    },
+    {
+      "id": "ex-speak-notruf",
+      "type": "exercise",
+      "theory_ref": "rueckblick-theorie",
+      "title": "Den Notrückruf sprechen",
+      "exercise": {
+        "id": "ex-speak-notruf",
+        "stable_id": "ex-mtins65901zoc",
+        "type": "ext:al-speak-and-record",
+        "prompt": "Listen to the sentence, reveal it, then say it yourself.",
+        "ext_payload": { "sentence": "Lass es liegen und komm sofort zu mir!" }
+      }
+    },
+    {
+      "id": "ex-speak-startsignal",
+      "type": "exercise",
+      "theory_ref": "rueckblick-theorie",
+      "title": "Das Startsignal ansagen",
+      "exercise": {
+        "id": "ex-speak-startsignal",
+        "stable_id": "ex-mtins6590201z",
+        "type": "ext:al-speak-and-record",
+        "prompt": "Listen to the sentence, reveal it, then say it yourself.",
+        "ext_payload": { "sentence": "Leg dein Kinn auf meine Hand, dann untersuchen wir gemeinsam weiter." }
+      }
+    }
+  ]
+}

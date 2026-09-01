@@ -6,19 +6,21 @@
 #
 # Vierter, anspruchsvollster Teil der Reihe (nach Teil 0-3): fortgeschrittene
 # Verhaltensthemen und Problemverhalten — Leinenreaktivität, Ressourcen-
-# verteidigung, Frust/Übererregung sowie Unsicherheit und Selbstvertrauen.
+# verteidigung, Frust/Übererregung sowie Unsicherheit und Selbstvertrauen,
+# plus eine abschließende Wiederholungslektion.
 # Gewaltfrei, mit klaren Hinweisen auf professionelle Hilfe bei ernsten Fällen.
-# Native multiple_choice (Schema v1.6) plus matching, cloze, free_text und
-# word_tiles.
+# Native multiple_choice (Schema v1.6) plus matching, cloze, free_text,
+# word_tiles und ext:al-speak-and-record.
 schema_version: '1.3'
 name: Hundetraining Verhalten verstehen (Teil 4)
 description: >-
   Vierter Teil der Reihe (B2): fortgeschrittene Verhaltensthemen. Leinen-
   reaktivität (Pöbeln an der Leine), Ressourcenverteidigung, Frust und
-  Übererregung sowie Unsicherheit und Selbstvertrauen aufbauen. Gewaltfrei mit
-  positiver Verstärkung und deutlichen Hinweisen auf professionelle Hilfe bei
-  ernsten Fällen. Native multiple_choice plus matching, cloze, free_text und
-  word_tiles.
+  Übererregung sowie Unsicherheit und Selbstvertrauen aufbauen, plus eine
+  abschließende Wiederholungslektion. Gewaltfrei mit positiver Verstärkung
+  und deutlichen Hinweisen auf professionelle Hilfe bei ernsten Fällen.
+  Native multiple_choice plus matching, cloze, free_text, word_tiles und
+  ext:al-speak-and-record.
 sets:
   - id: hundetraining-verhalten-from-de
     title: Hundetraining Verhalten verstehen (Teil 4)
@@ -28,8 +30,8 @@ sets:
     domain: dog-training
     level: B2
     path: sets/de/hundetraining-verhalten
-    version: '1.0.0'
-    lesson_count: 4
+    version: '1.1.0'
+    lesson_count: 5
     description: >-
       Teil 4 der Reihe (B2), aufbauend auf Teil 0-3: fortgeschrittene
       Verhaltensthemen. Leinenreaktivität (Ursachen Frust/Angst, Schwellen-
@@ -37,8 +39,9 @@ sets:
       (Knurren nicht bestrafen, Tauschen, Vorbeugen, Management, Hilfe holen),
       Frust und Übererregung (Frusttoleranz, Trigger-Stacking, Runterfahren,
       Ansprechbarkeit) sowie Unsicherheit und Selbstvertrauen (Vorhersehbar-
-      keit, Wahlmöglichkeit, Erfolgserlebnisse, Konfidenz-Spiele). Native
-      multiple_choice plus matching, cloze, free_text und word_tiles.
+      keit, Wahlmöglichkeit, Erfolgserlebnisse, Konfidenz-Spiele), plus eine
+      abschließende Wiederholungslektion. Native multiple_choice plus
+      matching, cloze, free_text, word_tiles und ext:al-speak-and-record.
     tags:
       - knowledge
       - hundetraining
@@ -53,3 +56,4 @@ metadata:
     - 02-ressourcenverteidigung.json
     - 03-frust-uebererregung.json
     - 04-unsicherheit-selbstvertrauen.json
+    - 05-wiederholung-verhalten.json

@@ -1,0 +1,210 @@
+{
+  "id": "05-wiederholung-verhalten",
+  "title": "Wiederholung: Verhalten verstehen",
+  "description": "Abschließende Wiederholung der vier Themen dieses Sets (Leinenreaktivität, Ressourcenverteidigung, Frust/Übererregung, Unsicherheit) über die gemeinsamen Prinzipien Schwelle, Warnsignale, Management und Wahl statt Zwang, plus zwei ruhige Sprech-Übungen mit realistischen Trainer-Ansagen.",
+  "target_language": "de",
+  "source_language": "de",
+  "domain": "knowledge",
+  "estimated_minutes": 9,
+  "requires_extensions": ["ext:al-speak-and-record@1"],
+  "cards": [
+    {
+      "id": "emotion-nicht-dominanz",
+      "stable_id": "card-mtins65a021mt",
+      "front": "Emotion, nicht Dominanz",
+      "back": "Pöbeln, Verteidigen, Aufdrehen oder Zögern sind Ausdruck von Frust, Angst oder Übererregung, nicht von Rangordnung.",
+      "notes": "Der gemeinsame Ausgangspunkt aller vier Lektionen: Verhalten verstehen heißt, das Gefühl dahinter zu erkennen.",
+      "media_type": "text",
+      "difficulty": 3,
+      "tags": ["synthese", "verhalten"]
+    },
+    {
+      "id": "schwelle-und-distanz",
+      "stable_id": "card-mtins65a022lj",
+      "front": "Schwelle und Distanz",
+      "back": "Genug Abstand zum Auslöser hält den Hund lernfähig; zu nah dran kippt er ins Problemverhalten.",
+      "notes": "Verbindet die Schwellendistanz an der Leine mit dem Trigger-Stacking bei Übererregung: mehrere kleine Reize senken die Schwelle zusätzlich.",
+      "media_type": "text",
+      "difficulty": 3,
+      "tags": ["synthese", "methode"]
+    },
+    {
+      "id": "warnsignale-schuetzen",
+      "stable_id": "card-mtins65a023rk",
+      "front": "Warnsignale schützen, nicht bestrafen",
+      "back": "Knurren, Bellen oder Erstarren sind Warnungen, keine Frechheit; wer sie bestraft, verliert die Vorwarnung, nicht das Gefühl dahinter.",
+      "notes": "Zieht sich von der Leine bis zum Napf durch das ganze Set.",
+      "media_type": "text",
+      "difficulty": 3,
+      "tags": ["synthese", "sicherheit"]
+    },
+    {
+      "id": "management-als-bruecke",
+      "stable_id": "card-mtins65a024vm",
+      "front": "Management als Brücke",
+      "back": "Abstand halten, Situationen entschärfen oder Ressourcen wegräumen verhindert, dass der Hund das Falsche übt, während du am Verhalten arbeitest.",
+      "notes": "Kein Ersatz fürs Training, aber die Sicherheitsbrücke, bis eine neue Reaktion sitzt.",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": ["synthese", "methode"]
+    },
+    {
+      "id": "wahl-und-erfolg",
+      "stable_id": "card-mtins65a025g9",
+      "front": "Wahlmöglichkeit und Erfolgserlebnisse",
+      "back": "Selbst entscheiden dürfen und kleine, lösbare Aufgaben bauen Selbstvertrauen auf; Zwang und Überforderung untergraben es.",
+      "notes": "Wirkt auch beim Tauschen und beim Umorientieren: freiwillig ist stabiler als erzwungen.",
+      "media_type": "text",
+      "difficulty": 3,
+      "tags": ["synthese", "verhalten"]
+    },
+    {
+      "id": "erst-ruhe-dann-uebung",
+      "stable_id": "card-mtins65a026t4",
+      "front": "Erst Ruhe, dann Übung",
+      "back": "Ein Hund über seiner Schwelle oder in Übererregung lernt nichts Neues; erst runterfahren, dann weiterüben.",
+      "notes": "Ansprechbarkeit prüfen ist der gemeinsame erste Schritt vor jeder Trainingseinheit.",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": ["synthese", "methode"]
+    },
+    {
+      "id": "wann-hilfe-holen",
+      "stable_id": "card-mtins65a0273n",
+      "front": "Wann Fachhilfe dazugehört",
+      "back": "Bei Schnappen, Beißen oder wenn du an eigene Grenzen kommst, gehört eine gewaltfrei arbeitende Fachperson dazu.",
+      "notes": "Gilt in diesem Set besonders bei Ressourcenverteidigung, sinngemäß aber bei jedem ernsten Problemverhalten.",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": ["synthese", "sicherheit"]
+    }
+  ],
+  "steps": [
+    {
+      "id": "intro",
+      "type": "theory",
+      "title": "Vier Themen, ein roter Faden",
+      "body": "# Wiederholung: Verhalten verstehen\n\nDie vier Themen dieses Sets, **Leinenreaktivität**, **Ressourcenverteidigung**, **Frust und Übererregung** sowie **Unsicherheit und Selbstvertrauen**, wirken auf den ersten Blick sehr verschieden. Sie folgen aber denselben Grundprinzipien:\n\n- **Emotion, nicht Dominanz**: Pöbeln, Knurren, Aufdrehen oder Zögern sind Ausdruck von Gefühlen, keine Machtfrage.\n- **Schwelle und Distanz**: Genug Abstand zum Auslöser hält den Hund lernfähig, egal ob an der Leine, am Napf oder im Erregungshoch.\n- **Warnsignale schützen**: Knurren oder Bellen wegzubestrafen entfernt nur die Vorwarnung, nicht das Gefühl dahinter.\n- **Management als Brücke**: Abstand halten oder Ressourcen wegräumen verhindert, dass falsches Verhalten geübt wird, während du am eigentlichen Thema arbeitest.\n- **Wahl statt Zwang**: Freiwillige Annäherung, Tauschen und kleine Erfolgserlebnisse bauen Vertrauen auf; Zwang untergräbt es.\n- **Wissen, wann Hilfe nötig ist**: Bei Schnappen, Beißen oder eigenen Grenzen gehört eine gewaltfrei arbeitende Fachperson dazu.\n\n> Diese Lektion prüft, ob du die wichtigsten Begriffe wiedererkennst und in neuen Situationen anwenden kannst."
+    },
+    {
+      "id": "ex-match-begriffe",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Prinzipien zuordnen",
+      "exercise": {
+        "id": "ex-match-begriffe",
+        "stable_id": "ex-mtins65a028wp",
+        "type": "matching",
+        "prompt": "Ordne jedem Prinzip die passende Kurzbeschreibung zu.",
+        "card_ids": ["emotion-nicht-dominanz", "schwelle-und-distanz", "warnsignale-schuetzen", "management-als-bruecke"],
+        "pairs": [
+          {"left": "Emotion, nicht Dominanz", "right": "Frust, Angst oder Übererregung stecken dahinter.", "stable_id": "pair-mtins65a0295p"},
+          {"left": "Schwelle und Distanz", "right": "Genug Abstand hält den Hund lernfähig.", "stable_id": "pair-mtins65a02aew"},
+          {"left": "Warnsignale schützen", "right": "Knurren oder Bellen sind Warnungen, keine Frechheit.", "stable_id": "pair-mtins65a02bfp"},
+          {"left": "Management als Brücke", "right": "Situationen entschärfen, während du am Verhalten arbeitest.", "stable_id": "pair-mtins65a02c3t"}
+        ],
+        "direction": "target_to_source"
+      }
+    },
+    {
+      "id": "ex-mc-gemeinsamer-fehler",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Der gemeinsame Fehler",
+      "exercise": {
+        "id": "ex-mc-gemeinsamer-fehler",
+        "stable_id": "ex-mtins65a02d7t",
+        "type": "multiple_choice",
+        "prompt": "Ein Vorgehen verschlimmert fast jedes Problem aus diesem Set. Welches?",
+        "card_ids": ["warnsignale-schuetzen"],
+        "multiple": false,
+        "options": [
+          {"text": "Den Hund für Knurren, Bellen oder Zögern bestrafen", "correct": true, "stable_id": "opt-mtins65a02eh7"},
+          {"text": "Genug Abstand zum Auslöser halten", "correct": false, "stable_id": "opt-mtins65a02ftm"},
+          {"text": "Kleine, lösbare Erfolgserlebnisse schaffen", "correct": false, "stable_id": "opt-mtins65a02gj7"},
+          {"text": "Gegen etwas Besseres tauschen", "correct": false, "stable_id": "opt-mtins65a02hw7"}
+        ],
+        "hint": "Es unterdrückt nur das Signal, nicht das Gefühl dahinter.",
+        "explanation": "Strafe für Knurren, Bellen oder Zögern nimmt dem Hund die Möglichkeit zu warnen oder auszuweichen, löst aber weder Frust noch Angst noch Übererregung. Das Verhalten kann dadurch sogar gefährlicher werden, weil die Vorwarnung fehlt."
+      }
+    },
+    {
+      "id": "ex-cloze-schwelle-rueckblick",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Der rote Faden",
+      "exercise": {
+        "id": "ex-cloze-schwelle-rueckblick",
+        "stable_id": "ex-mtins65a02iu7",
+        "type": "cloze",
+        "prompt": "Ergänze den Fachbegriff.",
+        "card_ids": ["schwelle-und-distanz", "erst-ruhe-dann-uebung"],
+        "sentence": "Bleibt der Hund unter seiner ___ , kann er noch denken und lernen; darüber übt er nur das Problem.",
+        "blanks": [{"accept": ["Schwelle", "Reizschwelle", "Schwellendistanz"], "stable_id": "blank-mtins65a02jrf"}],
+        "cloze_mode": "type",
+        "hint": "Der Punkt, an dem Ruhe in Reaktion kippt.",
+        "explanation": "Die Schwelle ist kein fester Wert: Nach einem aufregenden Tag liegt sie durch Trigger-Stacking niedriger als sonst, deshalb reicht dann oft ein kleiner Anlass."
+      }
+    },
+    {
+      "id": "ex-tiles-wahl",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Merksatz zur Wahl",
+      "exercise": {
+        "id": "ex-tiles-wahl",
+        "stable_id": "ex-mtins65a02kw4",
+        "type": "word_tiles",
+        "prompt": "Setze den Merksatz zusammen.",
+        "card_ids": ["wahl-und-erfolg"],
+        "tiles": ["Wahl", "und", "Erfolg", "bauen", "mehr", "Vertrauen", "als", "Zwang"],
+        "hint": "Freiwillig wirkt stabiler als erzwungen.",
+        "direction": "target_to_source"
+      }
+    },
+    {
+      "id": "ex-free-hilfe-rueckblick",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Wann Hilfe holen?",
+      "exercise": {
+        "id": "ex-free-hilfe-rueckblick",
+        "stable_id": "ex-mtins65a02l4r",
+        "type": "free_text",
+        "prompt": "Wann solltest du bei einem der vier Themen unbedingt eine Fachperson dazuholen?",
+        "card_ids": ["wann-hilfe-holen"],
+        "accept": ["bei Schnappen oder Beißen", "wenn er schnappt oder beißt", "bei Bissen", "wenn er beißt"],
+        "hint": "Sobald es über Warnsignale hinausgeht und gefährlich wird.",
+        "explanation": "Das gilt nicht nur bei Ressourcenverteidigung: Sobald ein Verhalten dich selbst überfordert oder gefährlich wird, ist geschulte Unterstützung vor Ort wichtiger als jede App.",
+        "distractors": ["gar nicht", "nur bei großen Hunden", "erst nach Jahren"],
+        "direction": "target_to_source"
+      }
+    },
+    {
+      "id": "ex-speak-schau-zurueck",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Ruhig ansagen: Schauen und Zurückkommen",
+      "exercise": {
+        "id": "ex-speak-schau-zurueck",
+        "stable_id": "ex-mtins65a02mwv",
+        "type": "ext:al-speak-and-record",
+        "prompt": "Listen to the sentence, reveal it, then say it yourself.",
+        "ext_payload": {"sentence": "Schau ruhig hin, und jetzt komm zurück zu mir."}
+      }
+    },
+    {
+      "id": "ex-speak-tauschen",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Ruhig ansagen: Tauschen statt wegnehmen",
+      "exercise": {
+        "id": "ex-speak-tauschen",
+        "stable_id": "ex-mtins65a02no2",
+        "type": "ext:al-speak-and-record",
+        "prompt": "Listen to the sentence, reveal it, then say it yourself.",
+        "ext_payload": {"sentence": "Lass das liegen, ich tausche es dir gegen etwas Besseres."}
+      }
+    }
+  ]
+}

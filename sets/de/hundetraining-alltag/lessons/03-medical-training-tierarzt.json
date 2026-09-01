@@ -129,7 +129,8 @@
           {"text": "Das Signal ignorieren und schneller arbeiten"},
           {"text": "Ihn für den Abbruch schimpfen"}
         ],
-        "hint": "Der Abbruch ist Teil des Deals — der Hund darf „nein“ sagen."
+        "hint": "Der Abbruch ist Teil des Deals, der Hund darf „nein“ sagen.",
+        "explanation": "Sofortiges Aufhören ist kein Nachgeben, sondern der Kern des Trainings: Der Hund lernt, dass er die Situation jederzeit beenden kann, und bleibt deshalb entspannter statt in Erwartung von Zwang angespannt zu sein. Wer trotz Abbruch weitermacht, zerstört genau das Vertrauen, auf dem kooperative Pflege beruht."
       }
     },
     {
@@ -179,6 +180,7 @@
         "card_ids": ["abbruch", "kooperative-pflege"],
         "tiles": ["Wer", "abbrechen", "darf", "bleibt", "eher", "ruhig"],
         "hint": "Warum der mögliche Abbruch den Hund entspannt.",
+        "explanation": "Das wirkt zunächst paradox: Ein Hund, der jederzeit abbrechen darf, bleibt ruhiger als einer, der festgehalten wird, weil er nicht in Erwartung von Zwang angespannt sein muss. Kontrolle über die Situation senkt Stress, auch wenn der Hund sie nie tatsächlich nutzt.",
         "direction": "target_to_source"
       }
     },
@@ -202,7 +204,8 @@
           {"text": "Alle Handgriffe auf einmal durchziehen"},
           {"text": "Abbruchsignale des Hundes übergehen"}
         ],
-        "hint": "Denke an Station, Handling und kleine Schritte."
+        "hint": "Denke an Station, Handling und kleine Schritte.",
+        "explanation": "Festhalten und alle Handgriffe auf einmal durchziehen wirken schneller, erzeugen aber genau den Stress, den kooperative Pflege vermeiden soll, und können die Praxis dauerhaft mit Angst verknüpfen. Kleine, freiwillige Schritte unter der Stressschwelle brauchen mehr Zeit, halten den Hund aber langfristig kooperativ."
       }
     }
   ]

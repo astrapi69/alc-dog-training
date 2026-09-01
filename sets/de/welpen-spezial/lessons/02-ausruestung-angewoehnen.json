@@ -129,7 +129,8 @@
           {"text": "Ihn festhalten, bis er stillhält", "correct": false},
           {"text": "Es gleich für mehrere Stunden anlassen", "correct": false}
         ],
-        "hint": "Freiwilligkeit senkt den Stress."
+        "hint": "Freiwilligkeit senkt den Stress.",
+        "explanation": "Wird das Geschirr übergestülpt oder der Welpe festgehalten, lernt er, dass Anziehen mit Kontrollverlust und Stress verbunden ist, das erschwert jedes spätere Anlegen. Freiwilligkeit macht aus der Prozedur eine Wahl statt eines Übergriffs."
       }
     },
     {
@@ -162,6 +163,7 @@
         "card_ids": ["leine-positiv"],
         "accept": ["locker mitschleifen lassen", "unter Aufsicht mitschleifen lassen", "positiv einführen", "locker hinterherziehen lassen"],
         "hint": "Unter Aufsicht, drinnen, ohne Ruckeln.",
+        "explanation": "Ruckt oder zieht man an der Leine, kann das den **Oppositionsreflex** auslösen: Der Hund drückt instinktiv dagegen. Locker mitschleifen lassen vermeidet diesen Reflex von Anfang an.",
         "distractors": ["daran ziehen", "den Welpen festbinden", "daran hochheben"],
         "direction": "target_to_source"
       }
@@ -202,7 +204,8 @@
           {"text": "Von Anfang an den ganzen Tag tragen lassen", "correct": false},
           {"text": "Bei Gegenwehr fester ziehen", "correct": false}
         ],
-        "hint": "Freiwillig, kurz, gut sitzend."
+        "hint": "Freiwillig, kurz, gut sitzend.",
+        "explanation": "Fester ziehen verstärkt genau den Widerstand, den man loswerden will: Der Oppositionsreflex sorgt dafür, dass der Welpe automatisch dagegenhält, statt sich zu entspannen."
       }
     }
   ]

@@ -129,7 +129,8 @@
           {"text": "Ihm sofort den Napf wegnehmen, um dich durchzusetzen", "correct": false},
           {"text": "Ihn beim Fressen immer wieder stören, damit er sich dran gewöhnt", "correct": false}
         ],
-        "hint": "Knurren ist eine Warnung, die man erhalten will."
+        "hint": "Knurren ist eine Warnung, die man erhalten will.",
+        "explanation": "Wird das Knurren bestraft, verschwindet nur das Warnsignal, nicht das unangenehme Gefühl dahinter, und der Hund kann dann ohne Vorwarnung schnappen. Das Knurren zu respektieren ist deshalb die sicherere Wahl, kein Zeichen von Nachgiebigkeit."
       }
     },
     {
@@ -162,6 +163,7 @@
         "card_ids": ["hilfe-holen"],
         "accept": ["bei Schnappen oder Beißen", "wenn er schnappt", "bei Bissen", "wenn er beißt"],
         "hint": "Sobald es über Knurren hinausgeht und gefährlich wird.",
+        "explanation": "Schnappen oder Beißen ist ein Sicherheitsrisiko, das eine App allein nicht mehr auflösen kann. Hier braucht es ein geschultes Auge vor Ort, das Körpersprache und Auslöser individuell einschätzt.",
         "distractors": ["gar nicht", "erst nach Jahren", "nur wenn er bellt"],
         "direction": "target_to_source"
       }
@@ -202,7 +204,8 @@
           {"text": "Das Knurren wegbestrafen", "correct": false},
           {"text": "Kinder unbeaufsichtigt am fressenden Hund lassen", "correct": false}
         ],
-        "hint": "Tauschen, vorbeugen, entschärfen."
+        "hint": "Tauschen, vorbeugen, entschärfen.",
+        "explanation": "Wegnehmen und Bestrafen bestätigen genau die Sorge, die hinter dem Verteidigen steckt: Der Hund lernt, dass Menschennähe Verlust bedeutet. Tauschen, Vorbeugen und Management drehen diese Erwartung um."
       }
     }
   ]

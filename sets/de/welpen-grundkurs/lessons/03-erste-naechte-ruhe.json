@@ -119,7 +119,8 @@
           {"text": "Er ist dominant und will sich durchsetzen"},
           {"text": "Er hat zu viel geschlafen"}
         ],
-        "hint": "Denke an das übermüdete Kind."
+        "hint": "Denke an das übermüdete Kind.",
+        "explanation": "Ein weit verbreiteter Irrtum ist, ein wilder Welpe brauche mehr Auslastung. Tatsächlich ist er meist übermüdet, wie ein Kind, das über den Schlaf hinaus wachgehalten wird, und mehr Action macht es nur schlimmer."
       }
     },
     {
@@ -136,7 +137,8 @@
         "sentence": "Ein Welpe braucht sehr viel ___ — oft 18 bis 20 Stunden am Tag.",
         "blanks": [{"accept": ["Schlaf", "schlaf", "Ruhe"]}],
         "cloze_mode": "type",
-        "hint": "Das, was ihm bei Übermüdung fehlt."
+        "hint": "Das, was ihm bei Übermüdung fehlt.",
+        "explanation": "Der hohe Schlafbedarf ist kein Zufall: Im Schlaf verarbeitet der Welpe neue Eindrücke und sein Nervensystem reift, wird er ständig zu früh geweckt, fehlt genau diese Erholung."
       }
     },
     {
@@ -192,7 +194,8 @@
           {"text": "Ihn den ganzen Tag durchgehend bespaßen"},
           {"text": "Ihn bei Wildheit noch länger toben lassen"}
         ],
-        "hint": "Denke an Nähe, aktive Ruhe und sanftes Alleinsein."
+        "hint": "Denke an Nähe, aktive Ruhe und sanftes Alleinsein.",
+        "explanation": "Den Welpen gleich in der ersten Nacht allein in einem fernen Raum zu lassen, ist bewusst falsch: Der plötzliche Verlust von Nähe kurz nach der Trennung von Mutter und Wurf erzeugt unnötigen Stress, den eine schrittweise Gewöhnung vermeidet."
       }
     }
   ]

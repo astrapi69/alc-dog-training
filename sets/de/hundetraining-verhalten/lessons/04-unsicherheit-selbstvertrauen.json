@@ -129,7 +129,8 @@
           {"text": "Ihn hochheben und direkt hinsetzen", "correct": false},
           {"text": "Warten, bis er von selbst mutig wird, ohne je zu helfen", "correct": false}
         ],
-        "hint": "Wahl statt Zwang macht mutig."
+        "hint": "Wahl statt Zwang macht mutig.",
+        "explanation": "Ziehen oder Hochheben nimmt dem Hund die Wahl und kann die Angst verstärken, während reines Abwarten ohne Unterstützung ihm nicht hilft, neue gute Erfahrungen zu machen. Wahlmöglichkeit lassen heißt, aktiv Gelegenheiten zu schaffen, nicht nichts zu tun."
       }
     },
     {
@@ -179,6 +180,7 @@
         "card_ids": ["wahlmoeglichkeit", "kein-zwang"],
         "tiles": ["Wahl", "lassen", "macht", "mutiger", "als", "Zwang"],
         "hint": "Selbst entscheiden dürfen baut Vertrauen.",
+        "explanation": "Erzwungene Nähe kann kurzfristig wirken, weil der Hund aufgibt, aber das ist keine Entspannung, sondern erlernte Hilflosigkeit. Selbst gewählte Annäherung baut dagegen echtes Vertrauen auf, das auch in neuen Situationen trägt.",
         "direction": "target_to_source"
       }
     },
@@ -202,7 +204,8 @@
           {"text": "Ihn in beängstigende Situationen zwingen", "correct": false},
           {"text": "Unsicherheit ignorieren und einfach abwarten", "correct": false}
         ],
-        "hint": "Erfolge, Spiele, positive Verknüpfung."
+        "hint": "Erfolge, Spiele, positive Verknüpfung.",
+        "explanation": "Überforderung und Zwang wirken wie ein zu großer Sprung: Statt eines Erfolgserlebnisses erlebt der Hund erneut Kontrollverlust, was Unsicherheit eher festigt als löst. Kleine, lösbare Schritte bauen Selbstvertrauen dagegen zuverlässig auf."
       }
     }
   ]

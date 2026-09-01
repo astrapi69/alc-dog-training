@@ -4,12 +4,12 @@
 # Verstärkung. Sechs deutschsprachige Sets bilden eine durchgehende Reihe vom
 # Welpen (Teil 0) bis zu fortgeschrittenen Verhaltensthemen (Teil 4):
 #
-#   Teil 0  Welpenkurs           (welpen-grundkurs,        A1, 4 Lektionen)
-#   Teil 0+ Welpen-Spezial       (welpen-spezial,          A1, 4 Lektionen)
-#   Teil 1  Für Anfänger         (hundetraining-anfaenger, A1, 3 Lektionen)
-#   Teil 2  Aufbaukurs           (hundetraining-aufbau,    A2, 4 Lektionen)
-#   Teil 3  Souverän im Alltag   (hundetraining-alltag,    B1, 4 Lektionen)
-#   Teil 4  Verhalten verstehen  (hundetraining-verhalten, B2, 4 Lektionen)
+#   Teil 0  Welpenkurs           (welpen-grundkurs,        A1, 5 Lektionen)
+#   Teil 0+ Welpen-Spezial       (welpen-spezial,          A1, 5 Lektionen)
+#   Teil 1  Für Anfänger         (hundetraining-anfaenger, A1, 4 Lektionen)
+#   Teil 2  Aufbaukurs           (hundetraining-aufbau,    A2, 5 Lektionen)
+#   Teil 3  Souverän im Alltag   (hundetraining-alltag,    B1, 5 Lektionen)
+#   Teil 4  Verhalten verstehen  (hundetraining-verhalten, B2, 5 Lektionen)
 #
 # Vormals in astrapi69/adaptive-learner-content-test (siehe content-test#54/#65);
 # in dieses eigenständige Repo ausgelagert. Validieren mit:
@@ -33,15 +33,16 @@ sets:
     domain: dog-training
     level: A1
     path: sets/de/welpen-grundkurs
-    version: '1.0.0'
-    lesson_count: 4
+    version: '1.1.0'
+    lesson_count: 5
     description: >-
       Einstiegsteil (Teil 0) der Reihe für die ersten Wochen mit einem Welpen,
       aus Sicht eines neuen Hundebesitzers: Stubenreinheit, Beißhemmung und
       Zähnchen, erste Nächte mit Ruhe und Schlaf sowie Name, Bindung und erste
-      Sozialisierung. Gewaltfrei mit positiver Verstärkung, gemischte
-      Übungstypen (matching, cloze, free_text, word_tiles, multiselect). Führt
-      zum Anfängerkurs (Teil 1) hin.
+      Sozialisierung, plus eine abschließende Wiederholungslektion. Gewaltfrei
+      mit positiver Verstärkung, gemischte Übungstypen (matching, cloze,
+      free_text, word_tiles, multiselect, ext:al-speak-and-record). Führt zum
+      Anfängerkurs (Teil 1) hin.
     tags:
       - knowledge
       - hundetraining
@@ -56,14 +57,15 @@ sets:
     domain: dog-training
     level: A1
     path: sets/de/welpen-spezial
-    version: '1.0.0'
-    lesson_count: 4
+    version: '1.1.0'
+    lesson_count: 5
     description: >-
       Vertiefung zum Welpenkurs (Teil 0): vier Lektionen zu Geräuschen und
       Umweltreizen (Habituation), zum Angewöhnen von Halsband, Geschirr und
-      Leine, zu Angstphasen sowie zu Autofahren und ersten Ausflügen. Native
-      multiple_choice (Schema v1.6) plus matching, cloze, free_text und
-      word_tiles.
+      Leine, zu Angstphasen sowie zu Autofahren und ersten Ausflügen, plus
+      eine abschließende Wiederholungslektion. Native multiple_choice
+      (Schema v1.6) plus matching, cloze, free_text, word_tiles und
+      ext:al-speak-and-record.
     tags:
       - knowledge
       - hundetraining
@@ -78,14 +80,15 @@ sets:
     domain: dog-training
     level: A1
     path: sets/de/hundetraining-anfaenger
-    version: '1.0.0'
-    lesson_count: 3
+    version: '1.1.0'
+    lesson_count: 4
     description: >-
-      Einstieg ins gewaltfreie Hundetraining mit positiver Verstärkung: drei
+      Einstieg ins gewaltfreie Hundetraining mit positiver Verstärkung: vier
       Anfänger-Lektionen zu den Grundlagen (Timing, Markersignal, Belohnung,
       Konsequenz), zu ersten Grundkommandos (Sitz und Platz) sowie zu Rückruf
-      und Leinenführigkeit. Gemischte Übungstypen (matching, cloze, free_text,
-      word_tiles, multiselect).
+      und Leinenführigkeit, plus eine abschließende Wiederholungslektion.
+      Gemischte Übungstypen (matching, cloze, free_text, word_tiles,
+      multiselect, ext:al-speak-and-record).
     tags:
       - knowledge
       - hundetraining
@@ -99,15 +102,16 @@ sets:
     domain: dog-training
     level: A2
     path: sets/de/hundetraining-aufbau
-    version: '1.0.0'
-    lesson_count: 4
+    version: '1.1.0'
+    lesson_count: 5
     description: >-
       Fortsetzung von „Hundetraining für Anfänger“ (Teil 2, Aufbaukurs, A2):
       vier Lektionen zu Impulskontrolle (Bleib und Aus, die drei D), entspanntem
       Alleinbleiben, Begegnungen und Sozialisierung sowie Tricks und geistiger
-      Beschäftigung (Formen, Einfangen, Nasenarbeit). Gewaltfrei mit positiver
-      Verstärkung, gemischte Übungstypen (matching, cloze, free_text,
-      word_tiles, multiselect).
+      Beschäftigung (Formen, Einfangen, Nasenarbeit), plus eine abschließende
+      Wiederholungslektion. Gewaltfrei mit positiver Verstärkung, gemischte
+      Übungstypen (matching, cloze, free_text, word_tiles, multiselect,
+      ext:al-speak-and-record).
     tags:
       - knowledge
       - hundetraining
@@ -122,15 +126,16 @@ sets:
     domain: dog-training
     level: B1
     path: sets/de/hundetraining-alltag
-    version: '1.0.0'
-    lesson_count: 4
+    version: '1.1.0'
+    lesson_count: 5
     description: >-
       Teil 3 der Reihe (B1), aufbauend auf Anfänger- und Aufbaukurs: vier
-      Lektionen zur Alltagssouveränität — Antijagdtraining, Maulkorbtraining,
+      Lektionen zur Alltagssouveränität, Antijagdtraining, Maulkorbtraining,
       kooperatives Medical Training (Tierarzt und Handling) sowie ein
-      bombenfester Notrückruf unter Ablenkung (Pfeife, Jackpot, Rückrufparty).
-      Gewaltfrei mit positiver Verstärkung, gemischte Übungstypen (matching,
-      cloze, free_text, word_tiles, multiselect).
+      bombenfester Notrückruf unter Ablenkung (Pfeife, Jackpot, Rückrufparty),
+      plus eine abschließende Wiederholungslektion. Gewaltfrei mit positiver
+      Verstärkung, gemischte Übungstypen (matching, cloze, free_text,
+      word_tiles, multiselect, ext:al-speak-and-record).
     tags:
       - knowledge
       - hundetraining
@@ -145,15 +150,16 @@ sets:
     domain: dog-training
     level: B2
     path: sets/de/hundetraining-verhalten
-    version: '1.0.0'
-    lesson_count: 4
+    version: '1.1.0'
+    lesson_count: 5
     description: >-
       Teil 4 der Reihe (B2), aufbauend auf Teil 0-3: fortgeschrittene
       Verhaltensthemen — Leinenreaktivität (Pöbeln an der Leine),
       Ressourcenverteidigung, Frust und Übererregung sowie Unsicherheit und
-      Selbstvertrauen aufbauen. Gewaltfrei mit positiver Verstärkung und
-      Hinweisen auf professionelle Hilfe bei ernsten Fällen. Native
-      multiple_choice plus matching, cloze, free_text und word_tiles.
+      Selbstvertrauen aufbauen, plus eine abschließende Wiederholungslektion.
+      Gewaltfrei mit positiver Verstärkung und Hinweisen auf professionelle
+      Hilfe bei ernsten Fällen. Native multiple_choice plus matching, cloze,
+      free_text, word_tiles und ext:al-speak-and-record.
     tags:
       - knowledge
       - hundetraining

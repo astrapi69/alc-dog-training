@@ -7,17 +7,19 @@
 # Fortsetzung von „Hundetraining für Anfänger“ (Teil 1). Vier Aufbau-Lektionen
 # für Hunde, die die Grundlagen und ersten Kommandos schon kennen:
 # Impulskontrolle (Bleib/Aus), entspanntes Alleinbleiben, Begegnungen und
-# Sozialisierung sowie Tricks und geistige Beschäftigung. Übungstypen gemischt:
-# matching, cloze (Freitext-Lücke und Single-Choice als select), free_text,
-# word_tiles und multiselect.
+# Sozialisierung sowie Tricks und geistige Beschäftigung, plus eine
+# abschließende Wiederholungslektion. Übungstypen gemischt: matching, cloze
+# (Freitext-Lücke und Single-Choice als select), free_text, word_tiles,
+# multiselect und ext:al-speak-and-record.
 schema_version: '1.3'
 name: Hundetraining Aufbaukurs (Teil 2)
 description: >-
   Fortsetzung von „Hundetraining für Anfänger“: vier Aufbau-Lektionen für
-  Hund und Halter, die die Grundlagen schon beherrschen. Themen: Impulskontrolle
-  (Bleib und Aus, die drei D), entspanntes Alleinbleiben, Begegnungen und
-  Sozialisierung sowie Tricks und geistige Beschäftigung. Gewaltfrei, mit
-  positiver Verstärkung. Gemischte Übungstypen.
+  Hund und Halter, die die Grundlagen schon beherrschen, plus eine
+  abschließende Wiederholungslektion. Themen: Impulskontrolle (Bleib und Aus,
+  die drei D), entspanntes Alleinbleiben, Begegnungen und Sozialisierung sowie
+  Tricks und geistige Beschäftigung. Gewaltfrei, mit positiver Verstärkung.
+  Gemischte Übungstypen.
 sets:
   - id: hundetraining-aufbau-from-de
     title: Hundetraining Aufbaukurs (Teil 2)
@@ -27,14 +29,15 @@ sets:
     domain: dog-training
     level: A2
     path: sets/de/hundetraining-aufbau
-    version: '1.0.0'
-    lesson_count: 4
+    version: '1.1.0'
+    lesson_count: 5
     description: >-
       Aufbaukurs (Teil 2) für Hunde, die die Anfänger-Grundlagen kennen: vier
       Lektionen zu Impulskontrolle (Bleib und Aus, die drei D Dauer/Distanz/
       Ablenkung), entspanntem Alleinbleiben, Begegnungen und Sozialisierung
-      sowie Tricks und geistiger Beschäftigung (Formen, Einfangen, Nasenarbeit).
-      Gewaltfrei mit positiver Verstärkung, gemischte Übungstypen.
+      sowie Tricks und geistiger Beschäftigung (Formen, Einfangen, Nasenarbeit),
+      plus eine abschließende Wiederholungslektion. Gewaltfrei mit positiver
+      Verstärkung, gemischte Übungstypen.
     tags:
       - knowledge
       - hundetraining
@@ -49,3 +52,4 @@ metadata:
     - 02-alleinbleiben.json
     - 03-begegnungen-sozialisierung.json
     - 04-tricks-beschaeftigung.json
+    - 05-wiederholung-aufbau.json

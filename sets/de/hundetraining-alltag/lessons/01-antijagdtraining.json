@@ -129,7 +129,8 @@
           {"text": "Weil eine Leine das Jagdbedürfnis vollständig löscht"},
           {"text": "Weil man ohne Leine gar nicht spazieren gehen darf"}
         ],
-        "hint": "Denke daran, was jeder gelungene Hetzlauf mit dem Verhalten macht."
+        "hint": "Denke daran, was jeder gelungene Hetzlauf mit dem Verhalten macht.",
+        "explanation": "Jagen ist selbstbelohnend: Der Ablauf selbst, nicht die Beute, belohnt den Hund, und jeder gelungene Hetzlauf festigt das Verhalten weiter. Die Schleppleine ist deshalb kein Strafmittel, sondern verhindert, dass sich dieses Verhalten überhaupt erst einprägen kann."
       }
     },
     {
@@ -179,6 +180,7 @@
         "card_ids": ["ersatzbeschaeftigung", "jagdverhalten"],
         "tiles": ["Den", "Trieb", "lenken", "statt", "ihn", "löschen"],
         "hint": "Der Jagdtrieb lässt sich nicht abstellen, nur kanalisieren.",
+        "explanation": "Ein angeborener Trieb lässt sich nicht löschen, nur kanalisieren. Wer versucht, den Jagdtrieb komplett zu unterdrücken, arbeitet gegen die Natur des Hundes - ein legales Ventil wie Reizangel oder Suchspiele ist der erfolgreichere Weg.",
         "direction": "target_to_source"
       }
     },
@@ -202,7 +204,8 @@
           {"text": "Erst eingreifen, wenn er schon hetzt"},
           {"text": "Das Jagdbedürfnis komplett ignorieren"}
         ],
-        "hint": "Denke an Management, Umorientierung und ein legales Ventil."
+        "hint": "Denke an Management, Umorientierung und ein legales Ventil.",
+        "explanation": "Den Hund frei jagen zu lassen wirkt entspannend, ist aber ein Trugschluss: Jeder erfolgreiche Hetzlauf belohnt sich selbst und macht das Verhalten stärker statt es abzubauen. Ein guter Plan verhindert genau das durch Management, Umorientierung und kontrolliertes Ausleben."
       }
     }
   ]

@@ -129,7 +129,8 @@
           {"text": "Nie, das Wort ist unwichtig"},
           {"text": "Erst nach mehreren Wochen Pause"}
         ],
-        "hint": "Erst die Bewegung, dann das Wort."
+        "hint": "Erst die Bewegung, dann das Wort.",
+        "explanation": "Wird das Wort zu früh gesagt, bevor der Hund die Bewegung sicher zeigt, verknüpft er es nicht zuverlässig mit dem Verhalten, und das Signal verliert an Bedeutung. Erst wenn die Bewegung klappt, sorgt das Wort für eine klare Verknüpfung."
       }
     },
     {
@@ -162,6 +163,7 @@
         "card_ids": ["ausschleichen"],
         "accept": ["Ausschleichen", "ausschleichen", "das Ausschleichen"],
         "hint": "Das Leckerli wird langsam „aus dem Bild“ genommen.",
+        "explanation": "Ohne Ausschleichen gehorcht der Hund oft nur, wenn er ein Leckerli sieht, weil das Futter selbst zum Signal wird. Schrittweises Ausschleichen macht das gesprochene Wort zum eigentlichen Auslöser, die Belohnung kommt weiterhin, nur eben danach statt sichtbar in der Hand.",
         "distractors": ["Locken", "Generalisieren", "Markieren"],
         "direction": "target_to_source"
       }
@@ -203,7 +205,8 @@
           {"text": "Das Signalwort ganz am Anfang ständig wiederholen"},
           {"text": "Immer nur an genau einem Ort üben"}
         ],
-        "hint": "Denke an Ausschleichen, Auflösen und Generalisieren."
+        "hint": "Denke an Ausschleichen, Auflösen und Generalisieren.",
+        "explanation": "Ein Kommando, das nur in der Küche klappt, ist noch nicht wirklich gelernt: Hunde übertragen Gelerntes nicht von selbst auf neue Orte, deshalb ist Generalisieren ein eigener Trainingsschritt. Auflösesignal und Ausschleichen sorgen zusätzlich für klare Struktur und Unabhängigkeit vom sichtbaren Futter."
       }
     }
   ]
