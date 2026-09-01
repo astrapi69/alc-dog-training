@@ -128,11 +128,19 @@ Full authoring walkthrough: [docs/GETTING-STARTED.md](docs/GETTING-STARTED.md).
 
 `scripts/export_set.py` writes all lessons of ONE set into a single
 YAML (or JSON) file so an AI assistant or a human can review the whole
-set in one pass (syntax, correctness, consistency across lessons):
+set in one pass (syntax, correctness, consistency across lessons).
+
+**Recommended (via make; reuses the local environment `make validate` set up):**
+
+```bash
+make export ARGS="welpen-grundkurs"
+# -> exports/welpen-grundkurs-de-<timestamp>.yaml
+```
+
+**Direct (fallback; run it inside the venv from the Quick start):**
 
 ```bash
 python3 scripts/export_set.py welpen-grundkurs
-# -> exports/welpen-grundkurs-de-<timestamp>.yaml
 python3 scripts/export_set.py hundetraining-anfaenger --format json --out /tmp/review.json
 ```
 
@@ -142,6 +150,12 @@ directories, `--lang` (default `de`) picks the `sets/<lang>/` directory.
 Umlauts stay real UTF-8. An unknown slug aborts with a list of the available
 sets. The `exports/` folder is gitignored (read-only snapshot, not a
 re-import format).
+
+For a large set, `--split-size N` writes multiple self-contained files
+of at most N lessons each instead of one huge file, e.g.
+`make export ARGS="welpen-grundkurs --split-size 3"` (each part keeps
+its own `review_instructions` copy, so any one file can be handed to an
+AI on its own). Cannot be combined with `--out`.
 
 Full usage guide: [`docs/export-set-usage.md`](docs/export-set-usage.md)
 (English) / [`docs/export-set-usage.de.md`](docs/export-set-usage.de.md)
