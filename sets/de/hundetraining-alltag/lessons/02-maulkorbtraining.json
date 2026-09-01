@@ -150,7 +150,7 @@
         "type": "free_text",
         "prompt": "Wie nennt man es, wenn der Maulkorb für den Hund zum Vorboten von Futter wird?",
         "card_ids": ["positive-verknuepfung"],
-        "accept": ["Positive Verknüpfung", "positive Verknüpfung", "Verknüpfung"],
+        "accept": ["Positive Verknüpfung", "positive Verknüpfung", "Verknüpfung", "Positivverknüpfung", "positivverknüpfung"],
         "hint": "Der Korb wird positiv mit etwas Gutem verbunden.",
         "distractors": ["Bestrafung", "Gewöhnung", "Management"],
         "direction": "target_to_source"
@@ -167,7 +167,7 @@
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen.",
         "card_ids": ["tragedauer", "gewoehnung"],
-        "tiles": ["Lieber", "oft", "kurz", "als", "einmal", "zu", "lang"],
+        "tiles": ["Lieber", "oft", "ganz", "kurz", "als", "einmal", "zu", "lang"],
         "hint": "Es geht um die Tragedauer beim Üben.",
         "direction": "target_to_source"
       }

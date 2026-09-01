@@ -160,7 +160,7 @@
         "type": "free_text",
         "prompt": "Wie nennt man es, wenn der Hund sich bei einem Reiz zu dir dreht statt zum Wild?",
         "card_ids": ["umorientierung"],
-        "accept": ["Umorientierung", "die Umorientierung", "umorientierung"],
+        "accept": ["Umorientierung", "die Umorientierung", "umorientierung", "Umorientieren", "umorientieren"],
         "hint": "Er orientiert sich neu — weg vom Reiz, hin zu dir.",
         "distractors": ["Abbruchsignal", "Management", "Fixieren"],
         "direction": "target_to_source"
