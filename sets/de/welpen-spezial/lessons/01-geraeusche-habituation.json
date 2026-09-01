@@ -129,7 +129,8 @@
           {"text": "Den Staubsauger absichtlich hinter ihm anschalten", "correct": false},
           {"text": "Ihn ignorieren, bis die Angst von selbst weg ist", "correct": false}
         ],
-        "hint": "Unter der Schwelle bleiben und den Reiz angenehm machen."
+        "hint": "Unter der Schwelle bleiben und den Reiz angenehm machen.",
+        "explanation": "Wird der Reiz zu stark oder zu nah angeboten, spricht man von **Flooding**: Der Welpe ist überfordert und lernt eher Angst als Gelassenheit. Nur unterhalb der Angstschwelle kann die positive Verknüpfung überhaupt wirken."
       }
     },
     {
@@ -162,6 +163,7 @@
         "card_ids": ["positiv-verknuepfen"],
         "accept": ["positiv verknüpfen", "mit Leckerli verknüpfen", "positive Verknüpfung", "belohnen"],
         "hint": "Reiz plus etwas Gutes.",
+        "explanation": "Das ist **klassische Konditionierung**: Reiz und Leckerli werden gemeinsam wahrgenommen, bis der Reiz selbst eine positive Erwartung auslöst, unabhängig davon, was der Welpe gerade tut.",
         "distractors": ["lauter machen", "ignorieren", "wegsperren"],
         "direction": "target_to_source"
       }
@@ -202,7 +204,8 @@
           {"text": "Bei Angst selbst hektisch werden", "correct": false},
           {"text": "Laute Reize komplett vermeiden, bis er erwachsen ist", "correct": false}
         ],
-        "hint": "Leise steigern, früh vorbereiten, Rückzug erlauben."
+        "hint": "Leise steigern, früh vorbereiten, Rückzug erlauben.",
+        "explanation": "Reize komplett zu vermeiden schützt nicht, sondern verpasst das Zeitfenster, in dem der Welpe am leichtesten lernt, Neues gelassen einzuordnen: Die Sozialisierungsphase schließt sich mit zunehmendem Alter."
       }
     }
   ]

@@ -129,7 +129,8 @@
           {"text": "Wenn man ihn nur im Notfall einsetzt"},
           {"text": "Wenn man ihn mit einer Pfeife gibt"}
         ],
-        "hint": "Denke daran, was das Signal entwertet."
+        "hint": "Denke daran, was das Signal entwertet.",
+        "explanation": "Wird das Notsignal oft benutzt oder beendet es regelmäßig den Spaß, etwa vor dem Leineanlegen, verliert es seine besondere Bedeutung - der Hund lernt, dass Kommen sich manchmal nicht lohnt. Genau diese Verknüpfung muss beim Notrückruf unbedingt vermieden werden."
       }
     },
     {
@@ -162,6 +163,7 @@
         "card_ids": ["pfeife"],
         "accept": ["Pfeife", "die Pfeife", "eine Pfeife", "Hundepfeife"],
         "hint": "Man bläst hinein, um einen gleichbleibenden Ton zu erzeugen.",
+        "explanation": "Eine Pfeife klingt jeden Tag exakt gleich, egal wie gestresst oder aufgeregt du selbst gerade bist - die Stimme dagegen verrät oft unbewusst Anspannung, was der Hund wahrnimmt. Ein gleichbleibendes Signal macht den Notrückruf zuverlässiger.",
         "distractors": ["Stimme", "Klicker", "Leckerli"],
         "direction": "target_to_source"
       }
@@ -202,7 +204,8 @@
           {"text": "Das Signal mehrmals täglich für Kleinigkeiten nutzen"},
           {"text": "Bei Fehlversuchen den Hund schimpfen"}
         ],
-        "hint": "Denke an Ablenkung steigern, Schleppleine und Jackpot."
+        "hint": "Denke an Ablenkung steigern, Schleppleine und Jackpot.",
+        "explanation": "Die Schleppleine sorgt dafür, dass der Rückruf in der Übungsphase immer gelingt - jeder ignorierte Rückruf ohne Konsequenz würde das Signal dagegen schwächen. Schimpfen bei einem Fehlversuch wäre kontraproduktiv: Ankommen muss immer positiv besetzt bleiben, auch wenn es zu langsam war."
       }
     }
   ]

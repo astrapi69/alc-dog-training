@@ -1,20 +1,23 @@
-# Set-Manifest: Hundetraining für Anfänger — deutschsprachig.
+# Set-Manifest: Hundetraining für Anfänger, deutschsprachig.
 #
 # Sachthema-Set (domain: dog-training): Material und Erklärung sind beide auf
 # Deutsch (source_language == target_language); der Set-Ordner trägt einen
 # Themennamen. Der Content-Loader liest metadata.lessons für die Dateiliste.
 #
-# Inhalt: drei Anfänger-Lektionen zu gewaltfreiem Hundetraining mit positiver
-# Verstärkung — Grundlagen, erste Grundkommandos (Sitz/Platz) sowie Rückruf
-# und Leinenführigkeit. Übungstypen gemischt: matching, cloze (Freitext-Lücke
-# und Single-Choice als select), free_text, word_tiles und multiselect.
+# Inhalt: vier Anfänger-Lektionen zu gewaltfreiem Hundetraining mit positiver
+# Verstärkung, Grundlagen, erste Grundkommandos (Sitz/Platz), Rückruf und
+# Leinenführigkeit sowie eine abschließende Wiederholungslektion. Übungstypen
+# gemischt: matching, cloze (Freitext-Lücke und Single-Choice als select),
+# free_text, word_tiles, multiselect sowie ext:al-speak-and-record (Sprechen
+# und Nachsprechen).
 schema_version: '1.3'
 name: Hundetraining für Anfänger
 description: >-
-  Einstieg ins gewaltfreie Hundetraining mit positiver Verstärkung. Drei
+  Einstieg ins gewaltfreie Hundetraining mit positiver Verstärkung. Vier
   Anfänger-Lektionen: Grundlagen der Hundeerziehung, erste Grundkommandos
-  (Sitz und Platz) sowie Rückruf und Leinenführigkeit. Gemischte Übungstypen
-  (matching, cloze, free_text, word_tiles, multiselect).
+  (Sitz und Platz), Rückruf und Leinenführigkeit sowie eine abschließende
+  Wiederholungslektion. Gemischte Übungstypen (matching, cloze, free_text,
+  word_tiles, multiselect, ext:al-speak-and-record).
 sets:
   - id: hundetraining-anfaenger-from-de
     title: Hundetraining für Anfänger
@@ -24,13 +27,14 @@ sets:
     domain: dog-training
     level: A1
     path: sets/de/hundetraining-anfaenger
-    version: '1.0.0'
-    lesson_count: 3
+    version: '1.1.0'
+    lesson_count: 4
     description: >-
-      Drei Anfänger-Lektionen zu gewaltfreiem Hundetraining mit positiver
+      Vier Anfänger-Lektionen zu gewaltfreiem Hundetraining mit positiver
       Verstärkung: Grundlagen (Timing, Markersignal, Belohnung, Konsequenz),
-      erste Grundkommandos (Sitz und Platz über Locken und Ausschleichen)
-      sowie Rückruf und Leinenführigkeit. Gemischte Übungstypen.
+      erste Grundkommandos (Sitz und Platz über Locken und Ausschleichen),
+      Rückruf und Leinenführigkeit sowie eine abschließende Wiederholung mit
+      Sprech- und Nachsprech-Übungen. Gemischte Übungstypen.
     tags:
       - knowledge
       - hundetraining
@@ -43,3 +47,4 @@ metadata:
     - 01-grundlagen-hundeerziehung.json
     - 02-grundkommandos-sitz-platz.json
     - 03-rueckruf-leinenfuehrigkeit.json
+    - 04-wiederholung-grundlagen.json

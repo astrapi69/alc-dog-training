@@ -1,0 +1,208 @@
+{
+  "id": "05-wiederholung-welpen-spezial",
+  "title": "Wiederholung: Welpen-Spezial",
+  "description": "Abschließende Wiederholung der vier Welpen-Spezial-Lektionen: die gemeinsamen Prinzipien hinter Geräusch-Gewöhnung, Ausrüstung, Angstphasen und ersten Ausflügen, mit Übungen zum Anwenden statt nur Erinnern.",
+  "target_language": "de",
+  "source_language": "de",
+  "domain": "knowledge",
+  "estimated_minutes": 8,
+  "requires_extensions": ["ext:al-speak-and-record@1"],
+  "cards": [
+    {
+      "id": "schwelle-prinzip",
+      "stable_id": "card-mtins65b03aiz",
+      "front": "Unter der Schwelle bleiben",
+      "back": "Reize so dosieren, dass der Hund sie wahrnimmt, aber nicht in Panik gerät.",
+      "notes": "Das gemeinsame Prinzip hinter Habituation, Gegenkonditionierung und dem Umgang mit Angstphasen.",
+      "media_type": "text",
+      "difficulty": 3,
+      "tags": ["synthese"]
+    },
+    {
+      "id": "freiwilligkeit-prinzip",
+      "stable_id": "card-mtins65b03b94",
+      "front": "Freiwilligkeit als Prinzip",
+      "back": "Der Hund darf selbst entscheiden, sich zu nähern, statt zum Reiz gezwungen zu werden.",
+      "notes": "Gilt für Ausrüstung genauso wie für neue Orte oder Angstauslöser.",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": ["synthese"]
+    },
+    {
+      "id": "ruhe-vorbild",
+      "stable_id": "card-mtins65b03cx5",
+      "front": "Die eigene Ruhe als Vorbild",
+      "back": "Bleibt der Mensch gelassen, orientiert sich der Hund daran, und der Reiz wirkt weniger bedrohlich.",
+      "notes": "Hektik oder übertriebenes Bemitleiden macht einen Reiz größer, als er ist.",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": ["synthese"]
+    },
+    {
+      "id": "dosieren-und-pausen",
+      "stable_id": "card-mtins65b03d9q",
+      "front": "Dosieren und Pausen einbauen",
+      "back": "Kurze Einheiten mit Rückzugsmöglichkeit verhindern, dass sich viele kleine Reize zu einer Überforderung summieren.",
+      "notes": "Auch für sich harmlose Einzelreize können sich addieren, wenn keine Pause dazwischenliegt.",
+      "media_type": "text",
+      "difficulty": 3,
+      "tags": ["synthese"]
+    },
+    {
+      "id": "ersteindruck-praegt",
+      "stable_id": "card-mtins65b03e6r",
+      "front": "Der erste Eindruck prägt",
+      "back": "Frühe Erfahrungen mit einem neuen Reiz wirken lange nach, weil noch wenig Gegenerfahrung existiert.",
+      "notes": "Deshalb sollte die erste Begegnung mit Ausrüstung, Auto oder neuem Ort positiv enden.",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": ["synthese"]
+    },
+    {
+      "id": "gewoehnung-vs-gegenkonditionierung",
+      "stable_id": "card-mtins65b03fct",
+      "front": "Gewöhnung oder Gegenkonditionierung?",
+      "back": "Gewöhnung passt zu neuen, neutralen Reizen, Gegenkonditionierung braucht es bei bereits angstbesetzten Reizen.",
+      "notes": "Beide nutzen denselben Trick, Reiz plus etwas Gutes, nur der Ausgangspunkt unterscheidet sich.",
+      "media_type": "text",
+      "difficulty": 3,
+      "tags": ["synthese"]
+    }
+  ],
+  "steps": [
+    {
+      "id": "intro",
+      "type": "theory",
+      "title": "Was diese vier Lektionen verbindet",
+      "body": "# Wiederholung: Welpen-Spezial\n\nGeräusche, Ausrüstung, Angstphasen, erste Ausflüge: vier verschiedene Themen, aber ein gemeinsamer roter Faden.\n\n- **Unter der Schwelle bleiben**: Reize so dosieren, dass der Welpe sie wahrnimmt, ohne in Panik zu geraten.\n- **Freiwilligkeit**: Der Welpe darf sich selbst annähern, statt gezwungen zu werden.\n- **Die eigene Ruhe als Vorbild**: Gelassenheit überträgt sich, Hektik verstärkt den Reiz.\n- **Dosieren und Pausen**: Kurze Einheiten mit Rückzugsmöglichkeit, damit sich kleine Reize nicht zu Überforderung summieren.\n- **Der erste Eindruck prägt**: Frühe Erfahrungen wirken lange nach, deshalb sollte die erste Begegnung positiv enden.\n\nOb Staubsauger, Geschirr, ein plötzlicher Schreck oder die erste Autofahrt: Die Werkzeuge bleiben dieselben, nur der Auslöser wechselt."
+    },
+    {
+      "id": "ex-match-prinzipien",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Prinzipien zuordnen",
+      "exercise": {
+        "id": "ex-match-prinzipien",
+        "stable_id": "ex-mtins65b03gnl",
+        "type": "matching",
+        "prompt": "Ordne jedem Prinzip die passende Kurzbeschreibung zu.",
+        "card_ids": ["schwelle-prinzip", "freiwilligkeit-prinzip", "ruhe-vorbild", "dosieren-und-pausen"],
+        "pairs": [
+          {"left": "Unter der Schwelle bleiben", "right": "Reize dosieren, ohne den Hund in Panik zu versetzen.", "stable_id": "pair-mtins65b03h20"},
+          {"left": "Freiwilligkeit als Prinzip", "right": "Der Hund entscheidet selbst, ob er sich nähert.", "stable_id": "pair-mtins65b03ibd"},
+          {"left": "Die eigene Ruhe als Vorbild", "right": "Gelassenheit des Menschen überträgt sich auf den Hund.", "stable_id": "pair-mtins65b03j7t"},
+          {"left": "Dosieren und Pausen einbauen", "right": "Kurze Einheiten mit Rückzugsmöglichkeit.", "stable_id": "pair-mtins65b03kyf"}
+        ],
+        "direction": "target_to_source"
+      }
+    },
+    {
+      "id": "ex-cloze-methode",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Welche Methode passt?",
+      "exercise": {
+        "id": "ex-cloze-methode",
+        "stable_id": "ex-mtins65b03lor",
+        "type": "cloze",
+        "prompt": "Ergänze die beiden Fachbegriffe.",
+        "card_ids": ["gewoehnung-vs-gegenkonditionierung"],
+        "sentence": "Bei einem neuen, neutralen Reiz reicht oft einfache ___ , bei einem bereits angstbesetzten Reiz braucht es aktive ___ .",
+        "blanks": [
+          {"accept": ["Gewöhnung", "gewöhnung", "Habituation", "habituation"], "stable_id": "blank-mtins65b03m2q"},
+          {"accept": ["Gegenkonditionierung", "gegenkonditionierung"], "stable_id": "blank-mtins65b03neb"}
+        ],
+        "cloze_mode": "type",
+        "hint": "Der eine Begriff kommt aus der Geräusch-Lektion, der andere aus der Angstphasen-Lektion.",
+        "explanation": "Beide Methoden verknüpfen einen Reiz mit etwas Gutem. Der Unterschied liegt im Ausgangspunkt: Gewöhnung setzt bei einem neutralen Reiz an, Gegenkonditionierung bei einem Reiz, der bereits Angst auslöst."
+      }
+    },
+    {
+      "id": "ex-tiles-merksatz",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Setze den Merksatz zusammen",
+      "exercise": {
+        "id": "ex-tiles-merksatz",
+        "stable_id": "ex-mtins65b03ogh",
+        "type": "word_tiles",
+        "prompt": "Setze den Merksatz zu neuen Erfahrungen zusammen.",
+        "card_ids": ["ersteindruck-praegt", "dosieren-und-pausen"],
+        "tiles": ["Kurz", "beginnen", "und", "positiv", "enden"],
+        "hint": "Die Reihenfolge der zwei Prinzipien aus diesem Set.",
+        "direction": "target_to_source"
+      }
+    },
+    {
+      "id": "ex-mc-baustelle",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Die neue Baustelle nebenan",
+      "exercise": {
+        "id": "ex-mc-baustelle",
+        "stable_id": "ex-mtins65b03pqx",
+        "type": "multiple_choice",
+        "prompt": "Vor eurem Haus beginnt eine laute Baustelle. Was setzt die Prinzipien aus diesem Set richtig um?",
+        "card_ids": ["schwelle-prinzip", "freiwilligkeit-prinzip", "ruhe-vorbild", "dosieren-und-pausen"],
+        "multiple": true,
+        "options": [
+          {"text": "Erst aus sicherer Distanz beobachten lassen, unter der Schwelle bleiben", "correct": true, "stable_id": "opt-mtins65b03qlw"},
+          {"text": "Ihm die Wahl lassen, ob und wie nah er herangeht", "correct": true, "stable_id": "opt-mtins65b03rdm"},
+          {"text": "Selbst gelassen bleiben, damit sich die Ruhe überträgt", "correct": true, "stable_id": "opt-mtins65b03suo"},
+          {"text": "Ihn direkt an den Bauzaun führen, damit er sich schneller gewöhnt", "correct": false, "stable_id": "opt-mtins65b03t5s"},
+          {"text": "Gleich mehrere neue Reize an einem Tag draufpacken", "correct": false, "stable_id": "opt-mtins65b03uwd"}
+        ],
+        "hint": "Schwelle, Freiwilligkeit, Vorbild, keine Reizfülle an einem Tag.",
+        "explanation": "Zwang zur Nähe oder mehrere neue Reize gleichzeitig wirken wie Flooding: Der Welpe hat keine Chance, unter der Schwelle zu bleiben, selbst wenn jeder einzelne Reiz für sich allein harmlos wäre."
+      }
+    },
+    {
+      "id": "ex-free-ersteindruck",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Warum der erste Eindruck zählt",
+      "exercise": {
+        "id": "ex-free-ersteindruck",
+        "stable_id": "ex-mtins65b03vxq",
+        "type": "free_text",
+        "prompt": "Warum sollte die allererste Begegnung mit einem neuen Reiz, etwa Ausrüstung, Auto oder ein neuer Ort, positiv enden?",
+        "card_ids": ["ersteindruck-praegt"],
+        "accept": ["weil der erste Eindruck prägt", "weil die erste Erfahrung lange nachwirkt", "der erste Eindruck bleibt hängen", "erste Erfahrungen prägen die spätere Reaktion"],
+        "hint": "Erste Erfahrungen wiegen besonders schwer.",
+        "explanation": "Frühe Assoziationen sind besonders stabil, weil noch keine Gegenerfahrung existiert, die sie ausgleichen könnte. Eine einzige schlechte erste Erfahrung kann deshalb überproportional lange nachwirken.",
+        "distractors": ["weil später sowieso nichts mehr zählt", "weil der Hund es sonst vergisst", "das spielt keine Rolle"],
+        "direction": "target_to_source"
+      }
+    },
+    {
+      "id": "ex-speak-staubsauger",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Nachsprechen: Beruhigend begleiten",
+      "exercise": {
+        "id": "ex-speak-staubsauger",
+        "stable_id": "ex-mtins65b03w87",
+        "type": "ext:al-speak-and-record",
+        "prompt": "Listen to the sentence, reveal it, then say it yourself.",
+        "ext_payload": {
+          "sentence": "Ruhig, das ist nur der Staubsauger."
+        }
+      }
+    },
+    {
+      "id": "ex-speak-einsteigen",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Nachsprechen: Positiv einsteigen",
+      "exercise": {
+        "id": "ex-speak-einsteigen",
+        "stable_id": "ex-mtins65b03xgh",
+        "type": "ext:al-speak-and-record",
+        "prompt": "Listen to the sentence, reveal it, then say it yourself.",
+        "ext_payload": {
+          "sentence": "Fein gemacht, jetzt steigen wir ein."
+        }
+      }
+    }
+  ]
+}

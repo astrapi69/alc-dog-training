@@ -119,7 +119,8 @@
           {"text": "Wilder weiterspielen, damit er sich austobt"},
           {"text": "Ihn anschreien und wegstoßen"}
         ],
-        "hint": "Zu fest beißen soll den Spaß beenden, nicht steigern."
+        "hint": "Zu fest beißen soll den Spaß beenden, nicht steigern.",
+        "explanation": "Den Fang zuzudrücken ist eine aversive Methode: Sie kann Angst oder Abwehrschnappen auslösen und ersetzt die Rückmeldung durchs Spiel, mit der Welpen unter sich Beißhemmung lernen. Ein kurzer Spielabbruch ist genauso wirksam und bleibt gewaltfrei."
       }
     },
     {
@@ -136,7 +137,8 @@
         "sentence": "Wenn der Welpe lernt, seine Beißkraft zu kontrollieren, nennt man das ___ .",
         "blanks": [{"accept": ["Beißhemmung", "beißhemmung", "Beisshemmung"]}],
         "cloze_mode": "type",
-        "hint": "Das Beißen wird gehemmt, also gebremst."
+        "hint": "Das Beißen wird gehemmt, also gebremst.",
+        "explanation": "Beißhemmung bleibt ein Leben lang wichtig: Ein Hund, der als Welpe nie gelernt hat, seine Kraft zu dosieren, kann als Erwachsener bei einem kurzen Konflikt ernsthaft verletzen, selbst wenn er es gar nicht so meint."
       }
     },
     {
@@ -192,7 +194,8 @@
           {"text": "Zu festes Beißen mit Schmerz bestrafen"},
           {"text": "Immer noch wilder weiterspielen"}
         ],
-        "hint": "Denke an Spielabbruch, Alternative und die Hand-Regel."
+        "hint": "Denke an Spielabbruch, Alternative und die Hand-Regel.",
+        "explanation": "Schmerz als Strafe fürs Beißen ist bewusst falsch: Er unterbricht die natürliche Rückmeldung, mit der Welpen Kraftdosierung lernen, und kann stattdessen Angst oder Abwehrverhalten erzeugen."
       }
     }
   ]

@@ -119,7 +119,8 @@
           {"text": "Um ihn danach zu belohnen"},
           {"text": "Um mit ihm Kontakt aufzunehmen"}
         ],
-        "hint": "Der Name soll immer etwas Gutes bedeuten."
+        "hint": "Der Name soll immer etwas Gutes bedeuten.",
+        "explanation": "Wird der Name zum Rufen vor einer unangenehmen Handlung benutzt, verknüpft der Welpe ihn irgendwann mit Gefahr und reagiert seltener freudig darauf, deshalb bleibt der Name ausschließlich positiv besetzt."
       }
     },
     {
@@ -136,7 +137,8 @@
         "sentence": "Die sensible Zeit im Welpenalter für positive Eindrücke heißt ___ .",
         "blanks": [{"accept": ["Prägephase", "prägephase", "Prägungsphase"]}],
         "cloze_mode": "type",
-        "hint": "In dieser Phase wird der Welpe fürs Leben geprägt."
+        "hint": "In dieser Phase wird der Welpe fürs Leben geprägt.",
+        "explanation": "In der Prägephase ist das Gehirn besonders empfänglich dafür, neue Reize als normal und ungefährlich einzustufen. Nach dieser Phase fällt es deutlich schwerer, Unbekanntes noch entspannt kennenzulernen, deshalb sollte diese Zeit aktiv genutzt werden."
       }
     },
     {
@@ -192,7 +194,8 @@
           {"text": "Den Namen häufig zum Schimpfen nutzen"},
           {"text": "Berührungen am Körper ganz vermeiden"}
         ],
-        "hint": "Denke an positive Eindrücke, Handling und Bindung."
+        "hint": "Denke an positive Eindrücke, Handling und Bindung.",
+        "explanation": "Den Welpen mit vielen Reizen auf einmal zu überfluten, ist bewusst falsch: Statt sich an Neues zu gewöhnen, wird er überfordert und lernt eher, Angst zu haben, kleine gute Dosen wirken zuverlässiger."
       }
     }
   ]

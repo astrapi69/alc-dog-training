@@ -129,7 +129,8 @@
           {"text": "Ungesichert auf dem Schoß des Beifahrers", "correct": false},
           {"text": "Direkt nach einer großen Mahlzeit", "correct": false}
         ],
-        "hint": "Kurz, gesichert, positiv."
+        "hint": "Kurz, gesichert, positiv.",
+        "explanation": "Eine lange Fahrt gleich zum Tierarzt oder ungesichertes Mitfahren verknüpft das Auto direkt mit Stress oder Gefahr, und diese erste Erfahrung prägt oft, wie der Hund sein ganzes Leben lang aufs Autofahren reagiert."
       }
     },
     {
@@ -179,6 +180,7 @@
         "card_ids": ["dosieren", "neue-orte"],
         "tiles": ["Kurze", "Ausflüge", "mit", "Pausen", "statt", "Reizgewitter"],
         "hint": "Weniger, aber gut.",
+        "explanation": "Viele kleine Reize addieren sich zu einem Effekt, den man **Trigger-Stacking** nennt: Jeder einzelne Auslöser wäre für sich harmlos, aber in Summe reicht die Reizmenge, um den Welpen zu überfordern. Pausen bauen diesen Stau wieder ab.",
         "direction": "target_to_source"
       }
     },
@@ -202,7 +204,8 @@
           {"text": "Ihn viele Treppen steigen lassen, obwohl er sehr jung ist", "correct": false},
           {"text": "Ihn zu jedem Reiz hinzwingen", "correct": false}
         ],
-        "hint": "Kurz, freiwillig, positiv."
+        "hint": "Kurz, freiwillig, positiv.",
+        "explanation": "Bei jungen und großen Welpen sind die Wachstumsfugen noch nicht geschlossen: Viele Treppen oder Sprünge belasten die Gelenke und können sie dauerhaft schädigen, unabhängig davon, ob der Welpe die Treppen mental gut wegsteckt."
       }
     }
   ]

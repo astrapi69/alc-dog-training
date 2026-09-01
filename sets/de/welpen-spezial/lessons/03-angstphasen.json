@@ -129,7 +129,8 @@
           {"text": "Selbst aufgeregt mitleiden und hochheben", "correct": false},
           {"text": "Ihn zum Auslöser hinschieben, damit er sieht: harmlos", "correct": false}
         ],
-        "hint": "Ruhige Sicherheit verstärkt keine Angst; Hektik und Zwang schaden."
+        "hint": "Ruhige Sicherheit verstärkt keine Angst; Hektik und Zwang schaden.",
+        "explanation": "Der weitverbreitete Satz „Trösten verstärkt Angst“ gilt für Hunde nicht: Angst ist eine Emotion, kein erlerntes Verhalten, das man durch Aufmerksamkeit belohnt. Ruhige Nähe signalisiert Sicherheit, ohne die Angstreaktion selbst zu verstärken."
       }
     },
     {
@@ -162,6 +163,7 @@
         "card_ids": ["gegenkonditionierung"],
         "accept": ["Gegenkonditionierung", "positive Gegenkonditionierung", "gegenkonditionierung"],
         "hint": "Man konditioniert die Reaktion in die Gegenrichtung.",
+        "explanation": "**Gegenkonditionierung** unterscheidet sich von **Habituation**: Bei der Habituation gewöhnt sich der Hund einfach an einen neutralen Reiz, bei der Gegenkonditionierung wird ein bereits angstbesetzter Reiz aktiv mit etwas Positivem neu verknüpft.",
         "distractors": ["Habituation", "Bestrafung", "Generalisierung"],
         "direction": "target_to_source"
       }
@@ -202,7 +204,8 @@
           {"text": "Bei jedem Schreck selbst in Hektik verfallen", "correct": false},
           {"text": "So viele Auslöser wie möglich auf einmal zeigen", "correct": false}
         ],
-        "hint": "Ruhe, Freiwilligkeit, Geduld."
+        "hint": "Ruhe, Freiwilligkeit, Geduld.",
+        "explanation": "Zwang oder zu viele Reize auf einmal können eine ohnehin sensible Angstphase verfestigen statt sie zu überwinden: Der Hund macht dann genau in dieser empfindlichen Zeit eine schlechte Erfahrung, die lange nachwirkt."
       }
     }
   ]

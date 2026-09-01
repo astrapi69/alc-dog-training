@@ -129,7 +129,8 @@
           {"text": "Der Hund ist einfach böse", "correct": false},
           {"text": "Der Hund braucht mehr Strenge", "correct": false}
         ],
-        "hint": "Zwei Gefühle, keine Rangordnung."
+        "hint": "Zwei Gefühle, keine Rangordnung.",
+        "explanation": "Die alte Vorstellung vom „dominanten“ Hund gilt als überholt: Pöbeln ist Ausdruck von Emotion, keine Rangordnungsfrage. Wer das falsch deutet, greift oft zu Strenge statt zu Distanz, was das Problem meist verschlimmert."
       }
     },
     {
@@ -162,6 +163,7 @@
         "card_ids": ["lat"],
         "accept": ["Look at That", "LAT", "look at that", "Schau-das-an"],
         "hint": "Ein englischer Name, Abkürzung LAT.",
+        "explanation": "LAT nutzt klassische Konditionierung: Das Anschauen des Auslösers selbst wird zum Signal für eine Belohnung, nicht das Wegschauen. So verknüpft der Hund den Trigger nach und nach mit etwas Gutem, statt ihn zu fürchten oder zu meiden.",
         "distractors": ["Sitz", "Bei Fuß", "Platz"],
         "direction": "target_to_source"
       }
@@ -202,7 +204,8 @@
           {"text": "Den Hund für das Bellen bestrafen", "correct": false},
           {"text": "Frontal und stur auf den Auslöser zusteuern", "correct": false}
         ],
-        "hint": "Distanz, Umorientierung, Management."
+        "hint": "Distanz, Umorientierung, Management.",
+        "explanation": "Strafe für das Bellen unterdrückt nur das sichtbare Verhalten, nicht Frust oder Angst dahinter, und kann die Reaktivität sogar verstärken, weil der Hund den Auslöser zusätzlich mit der Strafe verknüpft."
       }
     }
   ]

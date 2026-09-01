@@ -8,14 +8,17 @@
 # Welpenzeit, die der Grundkurs nicht abdeckt — Geräusche/Umweltreize
 # (Habituation), Ausrüstung angewöhnen (Halsband/Geschirr/Leine), Angstphasen
 # ruhig begleiten sowie Autofahren und erste Ausflüge. Native multiple_choice
-# (Schema v1.6) plus matching, cloze, free_text und word_tiles.
+# (Schema v1.6) plus matching, cloze, free_text und word_tiles. Dazu eine
+# abschließende Wiederholungslektion (05), die die vier Themen mit neuen
+# Synthese-Karten verbindet und ext:al-speak-and-record nutzt.
 schema_version: '1.3'
 name: Hundetraining Welpen-Spezial
 description: >-
   Vertiefung zum Welpenkurs: vier Spezial-Lektionen zu Geräuschen und
   Umweltreizen (Habituation), zum Angewöhnen von Halsband, Geschirr und Leine,
-  zu Angstphasen sowie zu Autofahren und ersten Ausflügen. Gewaltfrei mit
-  positiver Verstärkung, gemischte Übungstypen mit nativem multiple_choice.
+  zu Angstphasen sowie zu Autofahren und ersten Ausflügen, plus eine
+  abschließende Wiederholungslektion. Gewaltfrei mit positiver Verstärkung,
+  gemischte Übungstypen mit nativem multiple_choice.
 sets:
   - id: welpen-spezial-from-de
     title: Hundetraining Welpen-Spezial
@@ -25,8 +28,8 @@ sets:
     domain: dog-training
     level: A1
     path: sets/de/welpen-spezial
-    version: '1.0.0'
-    lesson_count: 4
+    version: '1.1.0'
+    lesson_count: 5
     description: >-
       Vertiefung zum Welpenkurs (Teil 0): vier Lektionen zu Themen der
       Welpenzeit jenseits des Grundkurses — Geräusche und Umweltreize
@@ -35,7 +38,8 @@ sets:
       begleiten (souverän bleiben, Distanz, positive Gegenkonditionierung)
       sowie Autofahren und erste Ausflüge (sicher transportieren, dosieren,
       positive Ersterfahrung). Native multiple_choice plus matching, cloze,
-      free_text und word_tiles.
+      free_text und word_tiles. Dazu eine abschließende Wiederholungslektion
+      mit Nachsprechübungen (ext:al-speak-and-record).
     tags:
       - knowledge
       - hundetraining
@@ -50,3 +54,4 @@ metadata:
     - 02-ausruestung-angewoehnen.json
     - 03-angstphasen.json
     - 04-autofahren-ausfluege.json
+    - 05-wiederholung-welpen-spezial.json

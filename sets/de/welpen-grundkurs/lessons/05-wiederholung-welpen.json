@@ -1,0 +1,204 @@
+{
+  "id": "05-wiederholung-welpen",
+  "title": "Wiederholung: Die ersten Wochen mit dem Welpen",
+  "description": "Welpenkurs (Teil 0): Abschließende Wiederholung von Stubenreinheit, Beißhemmung, Ruhe/Schlaf sowie Name, Bindung und Sozialisierung, mit dem gemeinsamen Faden positiver Verstärkung und gutem Timing.",
+  "target_language": "de",
+  "source_language": "de",
+  "domain": "knowledge",
+  "estimated_minutes": 8,
+  "requires_extensions": ["ext:al-speak-and-record@1"],
+  "cards": [
+    {
+      "id": "positive-verstaerkung",
+      "stable_id": "card-mtins65a02oyz",
+      "front": "Positive Verstärkung",
+      "back": "Erwünschtes Verhalten wird direkt belohnt, unerwünschtes wird ignoriert oder umgelenkt statt bestraft.",
+      "notes": "Der rote Faden durch den ganzen Kurs: Vom Lösen draußen bis zum sanften Spiel lohnt sich für den Welpen immer das ruhige, erwünschte Verhalten.",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": ["synthese", "methode"]
+    },
+    {
+      "id": "timing-beim-loben",
+      "stable_id": "card-mtins65a02pm0",
+      "front": "Timing beim Loben",
+      "back": "Lob und Belohnung wirken nur, wenn sie sehr nah am gewünschten Verhalten erfolgen.",
+      "notes": "Ob beim Lösen draußen oder bei freiwilligem Blickkontakt: Ein Lob erst Minuten später verknüpft der Welpe mit dem falschen Moment.",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": ["synthese", "methode"]
+    },
+    {
+      "id": "ruhe-als-grundbeduerfnis",
+      "stable_id": "card-mtins65a02qhj",
+      "front": "Ruhe als Grundbedürfnis",
+      "back": "Welpen brauchen enorm viel Schlaf; wilde Zwickigkeit ist meist Übermüdung, kein Ungehorsam.",
+      "notes": "Wer einem wilden Welpen mehr Ruhe statt mehr Action anbietet, liegt fast immer richtig.",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": ["synthese", "welpe"]
+    },
+    {
+      "id": "spielabbruch-und-alternative",
+      "stable_id": "card-mtins65a02r5v",
+      "front": "Spielabbruch und Alternative",
+      "back": "Zu festes Beißen beendet kurz das Spiel; ein Kauspielzeug lenkt den Kaudrang auf ein erlaubtes Ziel.",
+      "notes": "Beide Bausteine wirken zusammen: Der eine bremst zu festes Beißen, der andere gibt dem Kaudrang ein Ventil.",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": ["synthese", "methode"]
+    },
+    {
+      "id": "praegephase-und-bindung",
+      "stable_id": "card-mtins65a02srs",
+      "front": "Prägephase und Bindung",
+      "back": "In der sensiblen Zeit (etwa 3. bis 14. Woche) entstehen durch positive, dosierte Erlebnisse Vertrauen und eine stabile Bindung.",
+      "notes": "Positive Eindrücke und verlässliche, freundliche Führung wirken zusammen und legen das Fundament für alles weitere Training.",
+      "media_type": "text",
+      "difficulty": 3,
+      "tags": ["synthese", "entwicklung"]
+    },
+    {
+      "id": "nie-strafen",
+      "stable_id": "card-mtins65a02ty1",
+      "front": "Nie strafen",
+      "back": "Ob Pfütze, Zwicken oder Unruhe: Strafe löst keines dieser Verhaltensweisen, sondern erzeugt nur Angst oder Vermeidung.",
+      "notes": "Die vier Lektionen zeigen dasselbe Muster: Wer bestraft, bekommt einen ängstlichen, heimlichen Welpen statt eines gelernten Verhaltens.",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": ["synthese", "methode"]
+    }
+  ],
+  "steps": [
+    {
+      "id": "intro",
+      "type": "theory",
+      "title": "Was die vier Lektionen verbindet",
+      "body": "# Wiederholung: Die ersten Wochen mit dem Welpen\n\nVier Themen, ein gemeinsamer Faden: **positive Verstärkung statt Strafe**.\n\n- **Stubenreinheit**: Timing beim Rausbringen und beim Loben draußen, niemals Schimpfen bei Missgeschicken.\n- **Beißhemmung und Zähnchen**: Spielabbruch und ein Kauspielzeug lenken die Beißkraft, statt sie mit Schmerz zu unterdrücken.\n- **Erste Nächte, Ruhe und Schlaf**: Ein wilder, zwickiger Welpe ist meist übermüdet, Ruhe hilft mehr als noch mehr Beschäftigung.\n- **Name, Bindung und Sozialisierung**: Der Name bleibt positiv besetzt, und die Prägephase legt durch kleine, gute Erlebnisse das Fundament für Vertrauen.\n\n> Egal ob Pfütze, Zwicken oder Unruhe: Strafe löst keines davon, sie macht den Welpen nur ängstlich oder heimlich. Belohnen, was du willst, und gutes Timing bringen dich weiter."
+    },
+    {
+      "id": "ex-match-begriffe",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Begriffe zuordnen",
+      "exercise": {
+        "id": "ex-match-begriffe",
+        "stable_id": "ex-mtins65a02u89",
+        "type": "matching",
+        "prompt": "Ordne jedem Begriff die passende Kurzbeschreibung zu.",
+        "card_ids": ["positive-verstaerkung", "timing-beim-loben", "ruhe-als-grundbeduerfnis", "praegephase-und-bindung"],
+        "pairs": [
+          {"left": "Positive Verstärkung", "right": "Erwünschtes Verhalten belohnen statt unerwünschtes bestrafen.", "stable_id": "pair-mtins65a02vrw"},
+          {"left": "Timing beim Loben", "right": "Belohnung muss nah am gewünschten Verhalten erfolgen.", "stable_id": "pair-mtins65a02wy1"},
+          {"left": "Ruhe als Grundbedürfnis", "right": "Wilde Zwickigkeit ist meist Übermüdung, kein Ungehorsam.", "stable_id": "pair-mtins65a02xzy"},
+          {"left": "Prägephase und Bindung", "right": "Positive, dosierte Erlebnisse bauen Vertrauen auf.", "stable_id": "pair-mtins65a02y3y"}
+        ],
+        "direction": "target_to_source"
+      }
+    },
+    {
+      "id": "ex-mc-abend",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Ein wilder Abend",
+      "exercise": {
+        "id": "ex-mc-abend",
+        "stable_id": "ex-mtins65a02znb",
+        "type": "multiple_choice",
+        "prompt": "Dein Welpe ist am Abend übermüdet, tobt wild und zwickt dabei fest zu. Was machst du?",
+        "card_ids": ["ruhe-als-grundbeduerfnis", "spielabbruch-und-alternative"],
+        "multiple": false,
+        "options": [
+          {"text": "Das Spiel kurz unterbrechen und danach für Ruhe statt für mehr Action sorgen", "correct": true, "stable_id": "opt-mtins65a030ql"},
+          {"text": "Noch wilder mit ihm toben, damit er sich auspowert", "stable_id": "opt-mtins65a031ob"},
+          {"text": "Ihn für das Zwicken schimpfen und dann weiterspielen", "stable_id": "opt-mtins65a032n7"},
+          {"text": "Ihn einfach machen lassen, Ruhe kommt von allein", "stable_id": "opt-mtins65a033z3"}
+        ],
+        "hint": "Zwei Bausteine helfen hier gleichzeitig: kurz stoppen und dann echte Ruhe.",
+        "explanation": "Übermüdung und zu festes Beißen hängen oft zusammen, ein erschöpfter Welpe hat weniger Selbstkontrolle. Deshalb wirkt die Kombination aus kurzem Spielabbruch und anschließender Ruhephase besser als Weitertoben oder Schimpfen."
+      }
+    },
+    {
+      "id": "ex-cloze-timing",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Wann wirkt Lob?",
+      "exercise": {
+        "id": "ex-cloze-timing",
+        "stable_id": "ex-mtins65a034zi",
+        "type": "cloze",
+        "prompt": "Ergänze den Satz.",
+        "card_ids": ["timing-beim-loben"],
+        "sentence": "Ob draußen beim Lösen oder bei freiwilligem Blickkontakt: Lob wirkt nur, wenn es ___ auf das erwünschte Verhalten folgt.",
+        "blanks": [{"accept": ["unmittelbar", "sofort", "direkt"], "stable_id": "blank-mtins65a035rf"}],
+        "cloze_mode": "type",
+        "hint": "Je näher am Verhalten, desto besser die Verknüpfung.",
+        "explanation": "Verzögertes Lob verknüpft der Welpe eher mit dem, was gerade passiert, wenn das Lob kommt, nicht mit dem Verhalten davor. Genau deshalb taucht dieses Prinzip in mehreren Lektionen auf: beim Lösen draußen, beim Blickkontakt und beim ruhigen Spiel."
+      }
+    },
+    {
+      "id": "ex-tiles-merksatz",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Merksatz zur Ruhe",
+      "exercise": {
+        "id": "ex-tiles-merksatz",
+        "stable_id": "ex-mtins65a0363y",
+        "type": "word_tiles",
+        "prompt": "Setze den Merksatz zusammen.",
+        "card_ids": ["ruhe-als-grundbeduerfnis"],
+        "tiles": ["Ruhe", "wirkt", "besser", "als", "mehr", "Spiel"],
+        "hint": "Was braucht ein übermüdeter Welpe wirklich?",
+        "direction": "target_to_source"
+      }
+    },
+    {
+      "id": "ex-free-bindung",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Woher kommt Vertrauen?",
+      "exercise": {
+        "id": "ex-free-bindung",
+        "stable_id": "ex-mtins65a037gr",
+        "type": "free_text",
+        "prompt": "Wodurch entsteht vor allem die Bindung zwischen dir und deinem Welpen?",
+        "card_ids": ["praegephase-und-bindung", "nie-strafen"],
+        "accept": ["Durch positive Erlebnisse", "positive Erlebnisse", "verlässliche, freundliche Führung", "durch verlässliche, freundliche Führung"],
+        "hint": "Denke an kleine, gute Erlebnisse statt große Reize.",
+        "explanation": "Bindung entsteht nicht durch Gehorsam unter Druck, sondern durch verlässliche, freundliche Führung und gute gemeinsame Erlebnisse, das genaue Gegenteil von Strafe, die nur Angst und Vermeidung erzeugt.",
+        "distractors": ["Durch strenge Erziehung", "Durch häufiges Schimpfen", "Durch viel Kommandotraining"],
+        "direction": "target_to_source"
+      }
+    },
+    {
+      "id": "ex-speak-loesewort",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Das Lösewort sagen",
+      "exercise": {
+        "id": "ex-speak-loesewort",
+        "stable_id": "ex-mtins65a038ty",
+        "type": "ext:al-speak-and-record",
+        "prompt": "Listen to the sentence, reveal it, then say it yourself.",
+        "ext_payload": {
+          "sentence": "Fein gemacht, mach schnell!"
+        }
+      }
+    },
+    {
+      "id": "ex-speak-name-blick",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Den Namen freundlich rufen",
+      "exercise": {
+        "id": "ex-speak-name-blick",
+        "stable_id": "ex-mtins65a0398e",
+        "type": "ext:al-speak-and-record",
+        "prompt": "Listen to the sentence, reveal it, then say it yourself.",
+        "ext_payload": {
+          "sentence": "Bello, schau mal her!"
+        }
+      }
+    }
+  ]
+}

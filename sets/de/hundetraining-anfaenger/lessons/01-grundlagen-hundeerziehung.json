@@ -135,7 +135,8 @@
         "sentence": "Belohne dein Verhalten im richtigen Moment — das nennt man gutes ___ .",
         "blanks": [{"accept": ["Timing", "timing"]}],
         "cloze_mode": "type",
-        "hint": "Ein englisches Wort für „richtiger Zeitpunkt“."
+        "hint": "Ein englisches Wort für „richtiger Zeitpunkt“.",
+        "explanation": "Der Hund verknüpft die Belohnung mit dem, was er im Moment der Belohnung gerade tut, nicht mit dem, was Sekunden vorher war. Kommt die Belohnung zu spät, lernt er leicht das falsche Verhalten, zum Beispiel das Aufstehen statt das Sitzen."
       }
     },
     {
@@ -156,7 +157,8 @@
           {"text": "Ihn wegschubsen"},
           {"text": "Ihm sofort ein Leckerli geben"}
         ],
-        "hint": "Aufmerksamkeit ist für viele Hunde selbst eine Belohnung."
+        "hint": "Aufmerksamkeit ist für viele Hunde selbst eine Belohnung.",
+        "explanation": "Schimpfen oder Wegschubsen liefert dem Hund trotzdem Aufmerksamkeit, und Aufmerksamkeit wirkt für viele Hunde selbst als Belohnung. Wer stattdessen konsequent ignoriert und erst bei vier Pfoten am Boden belohnt, verstärkt gezielt das ruhige Verhalten statt es unbeabsichtigt zu bestärken."
       }
     },
     {
@@ -213,7 +215,8 @@
           {"text": "Jeden Tag ein anderes Signal für „Sitz“"},
           {"text": "Einmal pro Woche eine Stunde am Stück üben"}
         ],
-        "hint": "Denke an positive Verstärkung, Konsequenz und kurze Einheiten."
+        "hint": "Denke an positive Verstärkung, Konsequenz und kurze Einheiten.",
+        "explanation": "Strenge Strafen unterdrücken oft nur kurzfristig ein Verhalten, ohne dem Hund zu zeigen, was er stattdessen tun soll, und können Angst oder Vermeidungsverhalten auslösen. Positive Verstärkung, feste Signale und kurze Einheiten bauen dagegen Vertrauen auf und fördern echtes Lernen."
       }
     }
   ]

@@ -129,7 +129,8 @@
           {"text": "Noch wilder mit ihm spielen", "correct": false},
           {"text": "Ihn strafen, weil er nicht hört", "correct": false}
         ],
-        "hint": "Im Erregungshoch ist Üben zwecklos."
+        "hint": "Im Erregungshoch ist Üben zwecklos.",
+        "explanation": "Lautere Kommandos oder mehr Aktion verlangen von einem übererregten Hund genau das, wozu er gerade nicht fähig ist: klar denken. Runterfahren ist deshalb kein Nachgeben, sondern die einzige Option, die im Moment wirklich funktioniert."
       }
     },
     {
@@ -146,7 +147,8 @@
         "sentence": "Dass sich mehrere Reize summieren und die Schwelle senken, nennt man ___ .",
         "blanks": [{"accept": ["Trigger-Stacking", "trigger-stacking", "Trigger Stacking"]}],
         "cloze_mode": "type",
-        "hint": "Englisch: Auslöser stapeln sich."
+        "hint": "Englisch: Auslöser stapeln sich.",
+        "explanation": "An einem ruhigen Tag liegt die Schwelle für Überreaktion höher als nach vielen kleinen Aufregungen. Deshalb kann ein harmloser letzter Reiz ausreichen, obwohl er allein nie ein Problem gewesen wäre."
       }
     },
     {
@@ -202,7 +204,8 @@
           {"text": "Ihn im Erregungshoch neue Kommandos üben lassen", "correct": false},
           {"text": "Ihn für die Aufregung bestrafen", "correct": false}
         ],
-        "hint": "Ruhe, Alternative, Pause."
+        "hint": "Ruhe, Alternative, Pause.",
+        "explanation": "Neue Übungen oder wildere Spiele erhöhen die Erregung weiter, statt sie zu senken. Im Erregungshoch braucht der Hund zuerst Ruhe, keine zusätzliche Reizung, egal wie gut gemeint."
       }
     }
   ]
