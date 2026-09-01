@@ -1,6 +1,6 @@
 {
   "repo": "astrapi69/alc-dog-training",
-  "generated": "2026-07-31T16:09:03Z",
+  "generated": "2026-09-01T11:56:04Z",
   "schema_version": "1.0",
   "sets": [
     {
@@ -120,7 +120,7 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-07-31T17:49:04+02:00"
+      "updated_at": "2026-09-01T13:55:52+02:00"
     },
     {
       "id": "hundetraining-verhalten-from-de",
