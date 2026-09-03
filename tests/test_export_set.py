@@ -261,7 +261,7 @@ def test_split_size_writes_one_file_per_chunk_with_correct_lesson_counts(
     tmp_path: Path,
 ) -> None:
     source_lessons = load_source_lessons()
-    assert len(source_lessons) == 4  # KNOWN_SLUG fixture assumption
+    assert len(source_lessons) == 5  # KNOWN_SLUG fixture assumption
 
     created_files = run_split_export(tmp_path, 3)
     assert len(created_files) == 2
@@ -269,9 +269,9 @@ def test_split_size_writes_one_file_per_chunk_with_correct_lesson_counts(
     part_1 = yaml.safe_load(created_files[0].read_text(encoding="utf-8"))
     part_2 = yaml.safe_load(created_files[1].read_text(encoding="utf-8"))
     assert part_1["lesson_count"] == 3
-    assert part_2["lesson_count"] == 1
-    assert part_1["total_lesson_count"] == 4
-    assert part_2["total_lesson_count"] == 4
+    assert part_2["lesson_count"] == 2
+    assert part_1["total_lesson_count"] == 5
+    assert part_2["total_lesson_count"] == 5
     assert part_1["part"] == 1
     assert part_1["of"] == 2
     assert part_2["part"] == 2
