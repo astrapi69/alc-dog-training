@@ -26,8 +26,8 @@ sets:
     domain: dog-training
     level: B1
     path: sets/de/hundetraining-alltag
-    version: '1.0.0'
-    lesson_count: 4
+    version: '1.1.0'
+    lesson_count: 5
     description: >-
       Teil 3 (B1) der Reihe, aufbauend auf Anfänger- und Aufbaukurs: vier
       Lektionen zur Alltagssouveränität — Antijagdtraining (Verhaltenskette,
@@ -50,3 +50,4 @@ metadata:
     - 02-maulkorbtraining.json
     - 03-medical-training-tierarzt.json
     - 04-notrueckruf-ablenkung.json
+    - 05-wiederholung-alltag.json

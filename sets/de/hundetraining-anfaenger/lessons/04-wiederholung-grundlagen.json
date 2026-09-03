@@ -1,0 +1,211 @@
+{
+  "id": "04-wiederholung-grundlagen",
+  "title": "Wiederholung: Grundlagen, Kommandos und Alltag",
+  "description": "Wiederholt die drei Anfänger-Lektionen in einer Lektion: Timing und Markersignal, der Aufbau von Sitz und Platz sowie Rückruf und lockere Leine, dazu Sprech- und Nachsprech-Übungen für typische Trainingskommandos.",
+  "target_language": "de",
+  "source_language": "de",
+  "domain": "knowledge",
+  "estimated_minutes": 8,
+  "requires_extensions": ["ext:al-speak-and-record@1"],
+  "cards": [
+    {
+      "id": "rep-timing-marker",
+      "stable_id": "card-mtins657001vu",
+      "front": "Timing und Markersignal",
+      "back": "Belohnung folgt sofort auf das richtige Verhalten, ein kurzes Signal wie ein Klick oder ein Markerwort überbrückt die Zeit bis zum Leckerli.",
+      "notes": "Beide Bausteine zusammen zeigen dem Hund genau, welches Verhalten sich gerade gelohnt hat.",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": ["grundlagen", "wiederholung"]
+    },
+    {
+      "id": "rep-verstaerkung-vs-strafe",
+      "stable_id": "card-mtins6570028x",
+      "front": "Positive Verstärkung statt Strafe",
+      "back": "Erwünschtes Verhalten wird belohnt und dadurch häufiger gezeigt, statt unerwünschtes Verhalten zu bestrafen.",
+      "notes": "Strafe kann Angst auslösen, ohne dem Hund zu zeigen, was er stattdessen tun soll.",
+      "media_type": "text",
+      "difficulty": 1,
+      "tags": ["grundlagen", "wiederholung"]
+    },
+    {
+      "id": "rep-locken-signalwort",
+      "stable_id": "card-mtins657003kx",
+      "front": "Vom Locken zum Signalwort",
+      "back": "Erst führt das Leckerli den Hund in die Position, erst wenn die Bewegung sicher klappt, kommt das Signalwort dazu.",
+      "notes": "Ein häufiger Anfängerfehler ist es, das Wort zu früh und zu oft zu sagen, bevor der Hund die Bewegung kennt.",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": ["kommandos", "wiederholung"]
+    },
+    {
+      "id": "rep-ausschleichen",
+      "stable_id": "card-mtins65700493",
+      "front": "Leckerli ausschleichen",
+      "back": "Nach und nach ohne sichtbares Leckerli in der Hand üben, damit das Wort statt das Futter zum eigentlichen Signal wird.",
+      "notes": "Belohnt wird weiterhin, aber erst nach dem Verhalten, nicht mehr vorher gezeigt.",
+      "media_type": "text",
+      "difficulty": 3,
+      "tags": ["methode", "wiederholung"]
+    },
+    {
+      "id": "rep-generalisieren",
+      "stable_id": "card-mtins657005aa",
+      "front": "Generalisieren",
+      "back": "Ein Kommando an vielen verschiedenen Orten und in vielen Situationen üben, nicht nur dort, wo es zuerst gelernt wurde.",
+      "notes": "Ein Hund, der Sitz nur in der Küche kann, hat es noch nicht wirklich gelernt.",
+      "media_type": "text",
+      "difficulty": 3,
+      "tags": ["methode", "wiederholung"]
+    },
+    {
+      "id": "rep-rueckrufwort-schuetzen",
+      "stable_id": "card-mtins6570060b",
+      "front": "Das Rückrufwort schützen",
+      "back": "Das Rückrufwort niemals für Schimpfen oder etwas Unangenehmes verwenden, Kommen muss sich für den Hund immer lohnen.",
+      "notes": "Wird das Wort einmal negativ verknüpft, reagiert der Hund künftig langsamer oder gar nicht mehr darauf.",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": ["alltag", "wiederholung"]
+    },
+    {
+      "id": "rep-lockere-leine-methode",
+      "stable_id": "card-mtins657007ae",
+      "front": "Lockere Leine ohne Zwang",
+      "back": "Bei Zug stehen bleiben, bei lockerer Leine weitergehen, und neben dem Bein belohnen statt vorne an gespannter Leine.",
+      "notes": "So lernt der Hund durch die natürliche Folge seines eigenen Verhaltens, ganz ohne Leinenruck.",
+      "media_type": "text",
+      "difficulty": 3,
+      "tags": ["methode", "wiederholung"]
+    }
+  ],
+  "steps": [
+    {
+      "id": "recap",
+      "type": "theory",
+      "title": "Was du bisher gelernt hast",
+      "body": "# Wiederholung: Die Grundlagen im Überblick\n\nDrei Bausteine tragen dein Training von Anfang bis Ende:\n\n- **Lernen über Belohnung**: Timing und Markersignal zeigen dem Hund genau, welches Verhalten sich gerade gelohnt hat, positive Verstärkung macht daraus eine Gewohnheit statt Strafe einzusetzen.\n- **Kommandos sauber aufbauen**: erst locken, dann markieren und belohnen, erst danach das Signalwort dazu nehmen, und das Leckerli in der Hand früh ausschleichen.\n- **Alltag absichern**: ein geschütztes Rückrufwort, das sich immer lohnt, eine lockere Leine ohne Zwang, und Generalisieren an vielen Orten, damit das Gelernte wirklich sitzt.\n\nDiese Lektion prüft, ob die wichtigsten Begriffe und Zusammenhänge sitzen, und übt zwei typische Kommandos laut gesprochen."
+    },
+    {
+      "id": "ex-match-review",
+      "type": "exercise",
+      "theory_ref": "recap",
+      "title": "Begriffe aus allen drei Lektionen",
+      "exercise": {
+        "id": "ex-match-review",
+        "stable_id": "ex-mtins657008vj",
+        "type": "matching",
+        "prompt": "Ordne jeden Begriff der passenden Kurzerklärung zu.",
+        "card_ids": ["rep-timing-marker", "rep-verstaerkung-vs-strafe", "rep-generalisieren", "rep-rueckrufwort-schuetzen"],
+        "pairs": [
+          {"left": "Timing und Markersignal", "right": "Belohnung im richtigen Moment, überbrückt durch ein kurzes Signal.", "stable_id": "pair-mtins657009o6"},
+          {"left": "Positive Verstärkung", "right": "Erwünschtes Verhalten wird belohnt statt Fehler zu bestrafen.", "stable_id": "pair-mtins65700aut"},
+          {"left": "Generalisieren", "right": "Ein Kommando an vielen Orten üben, nicht nur an einem.", "stable_id": "pair-mtins65700bxd"},
+          {"left": "Rückrufwort schützen", "right": "Nie zum Schimpfen nutzen, Kommen muss sich immer lohnen.", "stable_id": "pair-mtins65700cwi"}
+        ],
+        "direction": "target_to_source"
+      }
+    },
+    {
+      "id": "ex-mc-review-praxis",
+      "type": "exercise",
+      "theory_ref": "recap",
+      "title": "Gutes Training erkennen",
+      "exercise": {
+        "id": "ex-mc-review-praxis",
+        "stable_id": "ex-mtins65700diz",
+        "type": "multiple_choice",
+        "prompt": "Welche Vorgehensweisen passen zu gewaltfreiem, positivem Training?",
+        "card_ids": ["rep-verstaerkung-vs-strafe", "rep-ausschleichen", "rep-lockere-leine-methode"],
+        "multiple": true,
+        "options": [
+          {"text": "Erwünschtes Verhalten sofort belohnen", "correct": true, "stable_id": "opt-mtins65700e7i"},
+          {"text": "Das Leckerli in der Hand nach und nach ausschleichen", "correct": true, "stable_id": "opt-mtins65700ff1"},
+          {"text": "Bei Leinenzug stehen bleiben statt zu reißen", "correct": true, "stable_id": "opt-mtins65700glk"},
+          {"text": "Fehler mit einem Leinenruck bestrafen", "stable_id": "opt-mtins65700hee"},
+          {"text": "Immer nur mit sichtbarem Leckerli in der Hand üben", "stable_id": "opt-mtins65700i91"},
+          {"text": "Den Hund bei jedem Zug einfach nach vorne ziehen lassen", "stable_id": "opt-mtins65700jwv"}
+        ],
+        "hint": "Denke an Belohnung, Ausschleichen und die lockere Leine ohne Zwang.",
+        "explanation": "Ein Leinenruck oder dauerhaftes Festhalten am sichtbaren Leckerli lösen das eigentliche Problem nicht, sie können Angst auslösen oder den Hund vom Futter abhängig machen. Positive Verstärkung und schrittweises Ausschleichen bauen dagegen zuverlässiges Verhalten auf, das auch ohne Zwang und ohne Futter in der Hand hält."
+      }
+    },
+    {
+      "id": "ex-cloze-review-generalisieren",
+      "type": "exercise",
+      "theory_ref": "recap",
+      "title": "An vielen Orten üben",
+      "exercise": {
+        "id": "ex-cloze-review-generalisieren",
+        "stable_id": "ex-mtins65700kgy",
+        "type": "cloze",
+        "prompt": "Ergänze den Fachbegriff.",
+        "card_ids": ["rep-generalisieren", "rep-locken-signalwort"],
+        "sentence": "Ein Kommando an vielen verschiedenen Orten zu üben, nennt man ___ .",
+        "blanks": [{"accept": ["Generalisieren", "generalisieren"], "stable_id": "blank-mtins65700l5q"}],
+        "cloze_mode": "type",
+        "hint": "Das Gegenteil von „nur an einem Ort üben“.",
+        "explanation": "Hunde übertragen ein gelerntes Verhalten nicht automatisch auf neue Orte oder Situationen. Erst das gezielte Üben an vielen verschiedenen Orten macht ein Kommando wirklich zuverlässig."
+      }
+    },
+    {
+      "id": "ex-free-review-marker",
+      "type": "exercise",
+      "theory_ref": "recap",
+      "title": "Der richtige Moment",
+      "exercise": {
+        "id": "ex-free-review-marker",
+        "stable_id": "ex-mtins65700m1t",
+        "type": "free_text",
+        "prompt": "Wie nennt man das kurze Signal, das den Moment des richtigen Verhaltens markiert, bevor die Belohnung kommt?",
+        "card_ids": ["rep-timing-marker", "rep-verstaerkung-vs-strafe"],
+        "accept": ["Markersignal", "Marker", "das Markersignal"],
+        "hint": "Ein Klick oder ein festes Wort wie „Fein“.",
+        "distractors": ["Belohnung", "Kommando", "Auflösesignal"],
+        "direction": "target_to_source"
+      }
+    },
+    {
+      "id": "ex-tiles-review-leine",
+      "type": "exercise",
+      "theory_ref": "recap",
+      "title": "Merksatz zur lockeren Leine",
+      "exercise": {
+        "id": "ex-tiles-review-leine",
+        "stable_id": "ex-mtins65700n8t",
+        "type": "word_tiles",
+        "prompt": "Setze den Merksatz zusammen.",
+        "card_ids": ["rep-lockere-leine-methode", "rep-verstaerkung-vs-strafe"],
+        "tiles": ["Ziehen", "bringt", "dich", "nicht", "voran,", "eine", "lockere", "Leine", "schon."],
+        "hint": "Was passiert bei Zug, und was passiert bei einer lockeren Leine?",
+        "direction": "target_to_source"
+      }
+    },
+    {
+      "id": "ex-speak-freundlicher-rueckruf",
+      "type": "exercise",
+      "theory_ref": "recap",
+      "title": "Ein fröhlicher Rückruf",
+      "exercise": {
+        "id": "ex-speak-freundlicher-rueckruf",
+        "stable_id": "ex-mtins65700okq",
+        "type": "ext:al-speak-and-record",
+        "prompt": "Listen to the sentence, reveal it, then say it yourself.",
+        "ext_payload": { "sentence": "Hier, komm her, das hast du toll gemacht!" }
+      }
+    },
+    {
+      "id": "ex-speak-sitz-und-ausloesen",
+      "type": "exercise",
+      "theory_ref": "recap",
+      "title": "Kommando und Auflösesignal",
+      "exercise": {
+        "id": "ex-speak-sitz-und-ausloesen",
+        "stable_id": "ex-mtins65700pe5",
+        "type": "ext:al-speak-and-record",
+        "prompt": "Listen to the sentence, reveal it, then say it yourself.",
+        "ext_payload": { "sentence": "Sitz, bleib. Okay, lauf!" }
+      }
+    }
+  ]
+}

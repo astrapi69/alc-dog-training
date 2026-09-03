@@ -129,7 +129,8 @@
           {"text": "Ihm die Nase hineindrücken"},
           {"text": "Ihn für eine Weile allein einsperren"}
         ],
-        "hint": "Strafe für Vergangenes versteht der Welpe nicht."
+        "hint": "Strafe für Vergangenes versteht der Welpe nicht.",
+        "explanation": "Ein Welpe kann eine Pfütze nicht mit einer Handlung von vor Minuten verknüpfen, Strafe im Nachhinein wirkt willkürlich und macht ihn nur ängstlich oder heimlich. Schneller sauber wird er durch mehr Rausbringen und Loben draußen, nicht durch Schimpfen drinnen."
       }
     },
     {
@@ -162,6 +163,7 @@
         "card_ids": ["loben-draussen"],
         "accept": ["Draußen", "draußen", "im Freien", "direkt draußen"],
         "hint": "Am selben Ort, an dem er sich gerade gelöst hat.",
+        "explanation": "Lob wirkt nur, wenn es unmittelbar auf das Verhalten folgt, erst zu Hause zu loben verknüpft der Welpe eher mit dem Reinkommen als mit dem Lösen draußen.",
         "distractors": ["Zu Hause", "Gar nicht", "Erst am Abend"],
         "direction": "target_to_source"
       }
@@ -202,7 +204,8 @@
           {"text": "Nur zweimal am Tag rausgehen"},
           {"text": "Erst zu Hause loben, lange nach dem Lösen"}
         ],
-        "hint": "Denke an Timing, Loben draußen und kein Schimpfen."
+        "hint": "Denke an Timing, Loben draußen und kein Schimpfen.",
+        "explanation": "Bestrafung für Pfützen gehört bewusst zu den falschen Antworten: Sie verzögert die Stubenreinheit eher, weil der Welpe aus Angst zu verstecken lernt, statt draußen sicherer zu werden."
       }
     }
   ]

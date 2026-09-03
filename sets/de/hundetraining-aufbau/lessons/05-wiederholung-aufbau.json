@@ -1,0 +1,204 @@
+{
+  "id": "05-wiederholung-aufbau",
+  "title": "Wiederholung Aufbaukurs",
+  "description": "Wiederholung der vier Aufbaulektionen: Impulskontrolle, Alleinbleiben, Begegnungen und Tricks in gemischten Übungen zusammengeführt, plus zwei Sätze zum lauten Nachsprechen.",
+  "target_language": "de",
+  "source_language": "de",
+  "domain": "knowledge",
+  "estimated_minutes": 8,
+  "requires_extensions": ["ext:al-speak-and-record@1"],
+  "cards": [
+    {
+      "id": "rev-drei-d",
+      "stable_id": "card-mtins65800qks",
+      "front": "Die drei D steigern",
+      "back": "Ein „Bleib“ wird über drei Stellschrauben schwerer: Dauer (wie lange), Distanz (wie weit weg) und Ablenkung (wie viel drumherum). Immer nur eine gleichzeitig erhöhen.",
+      "notes": "Steigt der Hund an einer Stufe aus, geht man eine Stufe zurück statt weiterzudrängen.",
+      "media_type": "text",
+      "difficulty": 3,
+      "tags": ["aufbau", "methode"]
+    },
+    {
+      "id": "rev-tausch",
+      "stable_id": "card-mtins65800r32",
+      "front": "Tauschen statt wegnehmen",
+      "back": "Beim „Aus“ bekommt der Hund für das Hergeben etwas Gleichwertiges oder Besseres, statt dass man es ihm entreißt.",
+      "notes": "Wegreißen untergräbt Vertrauen und kann Ressourcenverteidigung auslösen.",
+      "media_type": "text",
+      "difficulty": 3,
+      "tags": ["kommandos", "methode"]
+    },
+    {
+      "id": "rev-stressschwelle",
+      "stable_id": "card-mtins65800sg4",
+      "front": "Unter der Stressschwelle üben",
+      "back": "Trainingsschritte so kurz und leicht halten, dass der Hund entspannt bleibt, statt in Panik oder Überforderung zu geraten.",
+      "notes": "Gilt fürs Alleinbleiben genauso wie für neue Begegnungen und Reize.",
+      "media_type": "text",
+      "difficulty": 3,
+      "tags": ["methode", "alltag"]
+    },
+    {
+      "id": "rev-ruhiger-abschied",
+      "stable_id": "card-mtins65800tl3",
+      "front": "Ruhiger Abschied und Rückkehr",
+      "back": "Gehen und Zurückkommen beiläufig gestalten, damit das Alleinsein kein emotionales Ereignis wird.",
+      "notes": "Große Begrüßungsszenen machen die Abwesenheit im Kontrast dramatischer, nicht leichter.",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": ["alltag"]
+    },
+    {
+      "id": "rev-positive-verknuepfung",
+      "stable_id": "card-mtins65800uv0",
+      "front": "Positive Verknüpfung",
+      "back": "Einen neuen, zunächst neutralen oder mulmigen Reiz gezielt mit etwas Angenehmem koppeln, bis er zum Nicht-Ereignis wird.",
+      "notes": "Grundprinzip der Sozialisierung: aus unbekannt und beängstigend wird bekannt und entspannt.",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": ["sozialisierung", "methode"]
+    },
+    {
+      "id": "rev-beschwichtigung",
+      "stable_id": "card-mtins65800vgh",
+      "front": "Beschwichtigungssignale lesen",
+      "back": "Kleine Signale wie Gähnen, Schnüffeln oder Blickabwenden zeigen frühes Unbehagen, lange bevor ein Hund knurrt oder schnappt.",
+      "notes": "Wer sie erkennt, kann rechtzeitig Distanz schaffen statt zu eskalieren.",
+      "media_type": "text",
+      "difficulty": 3,
+      "tags": ["koerpersprache", "begegnung"]
+    },
+    {
+      "id": "rev-formen-einfangen",
+      "stable_id": "card-mtins65800w4w",
+      "front": "Formen und Einfangen",
+      "back": "Zwei Wege zu neuen Tricks: Formen belohnt kleine Schritte in Richtung Ziel, Einfangen markiert ein spontan gezeigtes Verhalten im richtigen Moment.",
+      "notes": "Beide bauen auf Markersignal und Belohnung aus dem Anfängerkurs auf.",
+      "media_type": "text",
+      "difficulty": 3,
+      "tags": ["tricks", "methode"]
+    },
+    {
+      "id": "rev-kopfarbeit",
+      "stable_id": "card-mtins65800xq7",
+      "front": "Kopfarbeit als Auslastung",
+      "back": "Nasenarbeit, Tricks und kleine Denkaufgaben ermüden einen Hund oft nachhaltiger als reines Rennen und beugen Unterforderung vor.",
+      "notes": "Ein ausgelasteter Hund sucht sich seltener selbst - meist unerwünschte - Beschäftigung.",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": ["beschaeftigung"]
+    }
+  ],
+  "steps": [
+    {
+      "id": "step-recap",
+      "type": "theory",
+      "title": "Vier Lektionen, ein Prinzip",
+      "body": "# Wiederholung: was du im Aufbaukurs gelernt hast\n\nVier Themen, ein rotes Prinzip: **positive Verstärkung statt Druck**. Ein kurzer Rückblick:\n\n- **Impulskontrolle** (Lektion 01) - Bleib und Aus, gesteigert über die drei D (Dauer, Distanz, Ablenkung), und Tauschen statt Wegnehmen beim Aus.\n- **Alleinbleiben** (Lektion 02) - kleinschrittig und unter der Stressschwelle üben, mit ruhigem Abschied und einem sicheren Ruheplatz.\n- **Begegnungen und Sozialisierung** (Lektion 03) - im Bogen statt frontal, Beschwichtigungssignale lesen, neue Reize positiv verknüpfen statt zu überfluten.\n- **Tricks und Beschäftigung** (Lektion 04) - Formen und Einfangen als zwei Wege zum neuen Trick, Nasenarbeit und Kopfarbeit als Auslastung.\n\nIn dieser Lektion prüfst du, ob die Begriffe sitzen, und übst zwei typische Sätze laut auszusprechen."
+    },
+    {
+      "id": "ex-match-begriffe",
+      "type": "exercise",
+      "theory_ref": "step-recap",
+      "title": "Begriffe aus vier Lektionen zuordnen",
+      "exercise": {
+        "id": "ex-match-begriffe",
+        "stable_id": "ex-mtins65800y59",
+        "type": "matching",
+        "prompt": "Ordne jedem Begriff die passende Erklärung zu.",
+        "card_ids": ["rev-drei-d", "rev-tausch", "rev-positive-verknuepfung", "rev-formen-einfangen"],
+        "pairs": [
+          {"left": "Die drei D", "right": "Dauer, Distanz und Ablenkung - immer nur eine auf einmal steigern.", "stable_id": "pair-mtins65800zy7"},
+          {"left": "Tauschen statt wegnehmen", "right": "Beim Aus etwas Gleichwertiges oder Besseres anbieten.", "stable_id": "pair-mtins658010f3"},
+          {"left": "Positive Verknüpfung", "right": "Einen neuen Reiz mit etwas Angenehmem koppeln.", "stable_id": "pair-mtins658011mb"},
+          {"left": "Formen und Einfangen", "right": "Kleine Schritte belohnen oder spontanes Verhalten markieren.", "stable_id": "pair-mtins658012db"}
+        ],
+        "direction": "target_to_source"
+      }
+    },
+    {
+      "id": "ex-cloze-schwelle",
+      "type": "exercise",
+      "theory_ref": "step-recap",
+      "title": "Die wichtigste Leitplanke",
+      "exercise": {
+        "id": "ex-cloze-schwelle",
+        "stable_id": "ex-mtins658013n2",
+        "type": "cloze",
+        "prompt": "Ergänze den Fachbegriff.",
+        "card_ids": ["rev-stressschwelle", "rev-ruhiger-abschied"],
+        "sentence": "Damit ein Hund beim Training entspannt bleibt statt in Panik zu geraten, übst du immer unter der ___ .",
+        "blanks": [{"accept": ["Stressschwelle", "stressschwelle"], "stable_id": "blank-mtins658014m5"}],
+        "cloze_mode": "type",
+        "hint": "Der Fachbegriff aus Lektion 02 zum Alleinbleiben, gilt aber überall im Training.",
+        "explanation": "Übungen über der Schwelle prägen eher Angst als Gelassenheit, weil der Hund dabei nichts Gutes lernt, nur Stress. Deshalb ist die Stressschwelle die wichtigste Leitplanke im ganzen Training, nicht nur beim Alleinbleiben."
+      }
+    },
+    {
+      "id": "ex-tiles-merksatz",
+      "type": "exercise",
+      "theory_ref": "step-recap",
+      "title": "Merksatz zur Auslastung",
+      "exercise": {
+        "id": "ex-tiles-merksatz",
+        "stable_id": "ex-mtins65801550",
+        "type": "word_tiles",
+        "prompt": "Setze den Merksatz zusammen.",
+        "card_ids": ["rev-kopfarbeit", "rev-formen-einfangen"],
+        "tiles": ["Kopfarbeit", "ermüdet", "oft", "nachhaltiger", "als", "nur", "Rennen"],
+        "hint": "Denk an Nasenarbeit, Tricks und kleine Denkaufgaben.",
+        "direction": "target_to_source"
+      }
+    },
+    {
+      "id": "ex-ms-flooding",
+      "type": "exercise",
+      "theory_ref": "step-recap",
+      "title": "Entspanntes Training erkennen",
+      "exercise": {
+        "id": "ex-ms-flooding",
+        "stable_id": "ex-mtins65801607",
+        "type": "multiple_choice",
+        "prompt": "Welche dieser Maßnahmen unterstützen entspanntes, gewaltfreies Training?",
+        "card_ids": ["rev-tausch", "rev-positive-verknuepfung", "rev-stressschwelle", "rev-beschwichtigung"],
+        "multiple": true,
+        "options": [
+          {"text": "Beim Aus etwas Gleichwertiges anbieten, statt es wegzureißen", "correct": true, "stable_id": "opt-mtins658017n2"},
+          {"text": "Neue Reize gezielt mit etwas Angenehmem verknüpfen", "correct": true, "stable_id": "opt-mtins658018ur"},
+          {"text": "Trainingsschritte so kurz halten, dass der Hund entspannt bleibt", "correct": true, "stable_id": "opt-mtins658019t7"},
+          {"text": "Beschwichtigungssignale wie Gähnen ernst nehmen und Distanz geben", "correct": true, "stable_id": "opt-mtins65801aqa"},
+          {"text": "Dem Hund Dinge notfalls wegnehmen, damit er gehorcht", "stable_id": "opt-mtins65801beu"},
+          {"text": "Den Hund bewusst mit Reizen überfluten, damit er sich daran gewöhnt", "stable_id": "opt-mtins65801cu5"}
+        ],
+        "hint": "Denk an Tausch, positive Verknüpfung, Stressschwelle und Beschwichtigungssignale.",
+        "explanation": "Reizüberflutung (Flooding) verstärkt Angst oft dauerhaft, statt sie abzubauen, weil der Hund keine Möglichkeit hat, sich zu entziehen. Fortschritt entsteht über kleine, positive Schritte unter der Schwelle, nicht über Zwang oder Überforderung."
+      }
+    },
+    {
+      "id": "ex-speak-abschied",
+      "type": "exercise",
+      "theory_ref": "step-recap",
+      "title": "Ruhiger Abschied laut sprechen",
+      "exercise": {
+        "id": "ex-speak-abschied",
+        "stable_id": "ex-mtins65801d0l",
+        "type": "ext:al-speak-and-record",
+        "prompt": "Listen to the sentence, reveal it, then say it yourself.",
+        "ext_payload": { "sentence": "Ich geh jetzt kurz raus, bleib einfach entspannt liegen." }
+      }
+    },
+    {
+      "id": "ex-speak-tausch",
+      "type": "exercise",
+      "theory_ref": "step-recap",
+      "title": "Tausch-Signal laut sprechen",
+      "exercise": {
+        "id": "ex-speak-tausch",
+        "stable_id": "ex-mtins65801e39",
+        "type": "ext:al-speak-and-record",
+        "prompt": "Listen to the sentence, reveal it, then say it yourself.",
+        "ext_payload": { "sentence": "Aus, dafür bekommst du etwas Besseres." }
+      }
+    }
+  ]
+}

@@ -119,7 +119,8 @@
           {"text": "Dass er möglichst eng und leicht ist"},
           {"text": "Dass er in einer auffälligen Farbe ist"}
         ],
-        "hint": "Denke an Hecheln und Wärmeregulierung."
+        "hint": "Denke an Hecheln und Wärmeregulierung.",
+        "explanation": "Ein zu enger Maulkorb verhindert das Hecheln - und Hecheln ist die einzige Möglichkeit des Hundes, seine Körpertemperatur zu regulieren. Ein enger Maulkorb ist deshalb kein Sicherheitsplus, sondern ein echtes Überhitzungsrisiko."
       }
     },
     {
@@ -136,7 +137,8 @@
         "sentence": "Beim Aufbau steckt der Hund die ___ am besten selbst in den Maulkorb, um ein Leckerli zu holen.",
         "blanks": [{"accept": ["Nase", "nase", "Schnauze"]}],
         "cloze_mode": "type",
-        "hint": "Damit riecht und schnüffelt er."
+        "hint": "Damit riecht und schnüffelt er.",
+        "explanation": "Steckt der Hund die Nase selbst hinein, bleibt die Kontrolle bei ihm - das verhindert die Angst- und Fluchtreaktion, die beim Überstülpen entstehen kann. So wird der Maulkorb zu etwas, das der Hund aktiv aufsucht, statt es zu meiden."
       }
     },
     {
@@ -192,7 +194,8 @@
           {"text": "Um dem Hund das Hecheln abzugewöhnen"},
           {"text": "Damit er nachts nicht bellt"}
         ],
-        "hint": "Denke an Tierarzt, Bahn und Reisen — nie an Strafe."
+        "hint": "Denke an Tierarzt, Bahn und Reisen, nie an Strafe.",
+        "explanation": "Der Maulkorb wird ausschließlich mit guten Situationen verknüpft, niemals mit einer Strafe. Würde man ihn nach unerwünschtem Verhalten aufsetzen, verknüpft der Hund ihn mit Ärger statt mit Futter - und die ganze Gewöhnungsarbeit wäre entwertet."
       }
     }
   ]

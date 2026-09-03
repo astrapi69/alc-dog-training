@@ -162,6 +162,7 @@
         "card_ids": ["formen"],
         "accept": ["Formen", "Shaping", "formen", "shaping"],
         "hint": "Der englische Begriff lautet Shaping.",
+        "explanation": "Beim Formen probiert der Hund selbst aktiv aus, statt nur einem Leckerli zu folgen wie beim Locken, das fördert eigenständiges Denken und sitzt oft nachhaltiger. Deshalb ist Formen mehr als nur eine andere Wortwahl für Locken.",
         "distractors": ["Einfangen", "Locken", "Generalisieren"],
         "direction": "target_to_source"
       }
@@ -179,6 +180,7 @@
         "card_ids": ["koepfchen", "auslastung"],
         "tiles": ["Kopfarbeit", "ermüdet", "oft", "mehr", "als", "reines", "Rennen"],
         "hint": "Es geht um geistige gegenüber rein körperlicher Auslastung.",
+        "explanation": "Reines Rennen macht einen Hund vor allem fitter und dadurch mit der Zeit sogar ausdauernder statt müder, ein Trainingseffekt, der immer mehr Bewegung verlangt. Denkaufgaben ermüden dagegen ohne diesen Gewöhnungseffekt.",
         "direction": "target_to_source"
       }
     },
@@ -202,7 +204,8 @@
           {"text": "Den Hund den ganzen Tag sich selbst überlassen"},
           {"text": "Immer nur dieselbe Runde ohne jede Aufgabe"}
         ],
-        "hint": "Denke an Nase, Tricks und Kopfarbeit."
+        "hint": "Denke an Nase, Tricks und Kopfarbeit.",
+        "explanation": "Stundenlanges Ballwerfen wirkt wie Ausdauertraining und kann den Hund eher fitter und aufgedrehter machen, statt ihn wirklich zu entspannen. Unterforderung und immer dieselbe Routine führen dagegen oft zu unerwünschtem Eigenbeschäftigen wie Bellen oder Buddeln."
       }
     }
   ]

@@ -129,7 +129,8 @@
           {"text": "Die Hunde direkt Nase an Nase führen"},
           {"text": "An kurzer, straffer Leine stehen bleiben"}
         ],
-        "hint": "Frontal ist für Hunde unhöflich."
+        "hint": "Frontal ist für Hunde unhöflich.",
+        "explanation": "Für Hunde ist ein frontales, geradliniges Zulaufen unter Artgenossen unhöflich bis bedrohlich, auch wenn es für uns Menschen wie ein netter Kontakt aussieht. Der Bogen ist die höfliche, hundetypische Begrüßungsform und senkt die Spannung."
       }
     },
     {
@@ -162,6 +163,7 @@
         "card_ids": ["beschwichtigung"],
         "accept": ["Beschwichtigungssignale", "Beschwichtigungssignal", "beschwichtigungssignale"],
         "hint": "Sie beschwichtigen, also beruhigen die Lage.",
+        "explanation": "Aggression kommt selten aus dem Nichts, meist gehen ihr übersehene Beschwichtigungssignale wie Gähnen oder Blickabwenden voraus. Wer sie erkennt, kann rechtzeitig Distanz schaffen, bevor der Hund knurren oder schnappen muss.",
         "distractors": ["Drohsignale", "Kommandos", "Markersignale"],
         "direction": "target_to_source"
       }
@@ -202,7 +204,8 @@
           {"text": "Den Hund zum direkten Nasenkontakt zwingen"},
           {"text": "Bei Unsicherheit an straffer Leine festhalten"}
         ],
-        "hint": "Denke an Bogen, Distanz und positive Verknüpfung."
+        "hint": "Denke an Bogen, Distanz und positive Verknüpfung.",
+        "explanation": "Eine straffe Leine überträgt die eigene Anspannung direkt auf den Hund und nimmt ihm die Möglichkeit, selbst Abstand zu wählen, das kann Unsicherheit eher verstärken als beruhigen. Auch erzwungener Nasenkontakt und zu viele Reize auf einmal wirken gegen die entspannte Begegnung, die du eigentlich willst."
       }
     }
   ]

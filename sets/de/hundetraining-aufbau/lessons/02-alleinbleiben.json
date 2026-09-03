@@ -129,7 +129,8 @@
           {"text": "Erst zurückkommen, wenn der Hund lange gebellt hat"},
           {"text": "Den Hund bewusst an seine Grenze bringen"}
         ],
-        "hint": "Panik soll gar nicht erst entstehen."
+        "hint": "Panik soll gar nicht erst entstehen.",
+        "explanation": "Übst du bis zur Panik, verknüpft der Hund das Alleinsein mit Angst statt mit Ruhe, genau das Gegenteil vom Ziel. Kurze, entspannte Wiederholungen bauen echte Gelassenheit auf, lange Angstmomente bauen sie ab."
       }
     },
     {
@@ -162,6 +163,7 @@
         "card_ids": ["trennungsstress"],
         "accept": ["Trennungsstress", "der Trennungsstress", "Trennungsangst"],
         "hint": "Er entsteht bei der Trennung von der Bezugsperson.",
+        "explanation": "Bellen, Zerstören oder Unsauberkeit beim Alleinsein sind keine Sturheit oder Rache, sondern Stresssymptome echter Angst. Wer das als Trennungsstress erkennt, trainiert kleinschrittig statt zu strafen.",
         "distractors": ["Impulskontrolle", "Sozialisierung", "Generalisieren"],
         "direction": "target_to_source"
       }
@@ -203,7 +205,8 @@
           {"text": "Sich vor dem Gehen ausgiebig und emotional verabschieden"},
           {"text": "Erst zurückkommen, wenn er lange gebellt hat"}
         ],
-        "hint": "Denke an kleine Schritte, Ruheplatz und Beschäftigung."
+        "hint": "Denke an kleine Schritte, Ruheplatz und Beschäftigung.",
+        "explanation": "Strafendes Alleinlassen oder das Warten, bis der Hund endlich aufhört zu bellen, verschlimmert Trennungsstress meist zusätzlich, statt ihn zu lösen. Auch große Abschiedsszenen wirken kontraproduktiv, weil sie das Gehen zum emotionalen Ereignis machen statt zur Nebensächlichkeit."
       }
     }
   ]
