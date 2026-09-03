@@ -1,18 +1,18 @@
 {
   "repo": "astrapi69/alc-dog-training",
-  "generated": "2026-09-01T11:56:04Z",
+  "generated": "2026-09-03T07:19:22Z",
   "schema_version": "1.0",
   "sets": [
     {
       "id": "welpen-grundkurs-from-de",
       "name": "Hundetraining Welpenkurs (Teil 0)",
-      "description": "Einstiegsteil (Teil 0) für die ersten Wochen mit einem Welpen, aus Sicht eines neuen Hundebesitzers: Stubenreinheit (Timing, Loben draußen, kein Schimpfen), Beißhemmung und Zähnchen (Spielabbruch, Alternativen), erste Nächte mit Ruhe und Schlaf (Schlafbedarf, Überdrehen, Nähe) sowie Name, Bindung und erste Sozialisierung (Namensaufbau, Blickkontakt, Prägephase, frühes Handling). Gewaltfrei, gemischte Übungstypen.",
+      "description": "Einstiegsteil (Teil 0) für die ersten Wochen mit einem Welpen, aus Sicht eines neuen Hundebesitzers: Stubenreinheit (Timing, Loben draußen, kein Schimpfen), Beißhemmung und Zähnchen (Spielabbruch, Alternativen), erste Nächte mit Ruhe und Schlaf (Schlafbedarf, Überdrehen, Nähe) sowie Name, Bindung und erste Sozialisierung (Namensaufbau, Blickkontakt, Prägephase, frühes Handling). Gewaltfrei, gemischte Übungstypen. Schließt mit einer Wiederholungslektion (Synthese plus Nachsprech-Übungen).",
       "source_language": "de",
       "target_language": "de",
       "level": "a1",
       "domain": "dog-training",
-      "lesson_count": 4,
-      "card_count": 25,
+      "lesson_count": 5,
+      "card_count": 31,
       "tags": [
         "knowledge",
         "hundetraining",
@@ -25,18 +25,18 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-07-31T17:49:04+02:00"
+      "updated_at": "2026-09-03T09:19:02+02:00"
     },
     {
       "id": "welpen-spezial-from-de",
       "name": "Hundetraining Welpen-Spezial",
-      "description": "Vertiefung zum Welpenkurs (Teil 0): vier Lektionen zu Themen der Welpenzeit jenseits des Grundkurses — Geräusche und Umweltreize (Habituation, leise anfangen, positiv verknüpfen), Ausrüstung angewöhnen (Halsband, Geschirr, Leine, freiwillig und passend), Angstphasen ruhig begleiten (souverän bleiben, Distanz, positive Gegenkonditionierung) sowie Autofahren und erste Ausflüge (sicher transportieren, dosieren, positive Ersterfahrung). Native multiple_choice plus matching, cloze, free_text und word_tiles.",
+      "description": "Vertiefung zum Welpenkurs (Teil 0): vier Lektionen zu Themen der Welpenzeit jenseits des Grundkurses — Geräusche und Umweltreize (Habituation, leise anfangen, positiv verknüpfen), Ausrüstung angewöhnen (Halsband, Geschirr, Leine, freiwillig und passend), Angstphasen ruhig begleiten (souverän bleiben, Distanz, positive Gegenkonditionierung) sowie Autofahren und erste Ausflüge (sicher transportieren, dosieren, positive Ersterfahrung). Native multiple_choice plus matching, cloze, free_text und word_tiles. Dazu eine abschließende Wiederholungslektion mit Nachsprechübungen (ext:al-speak-and-record).",
       "source_language": "de",
       "target_language": "de",
       "level": "a1",
       "domain": "dog-training",
-      "lesson_count": 4,
-      "card_count": 28,
+      "lesson_count": 5,
+      "card_count": 34,
       "tags": [
         "knowledge",
         "hundetraining",
@@ -49,18 +49,18 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-07-31T17:49:04+02:00"
+      "updated_at": "2026-09-03T09:19:02+02:00"
     },
     {
       "id": "hundetraining-anfaenger-from-de",
       "name": "Hundetraining für Anfänger",
-      "description": "Drei Anfänger-Lektionen zu gewaltfreiem Hundetraining mit positiver Verstärkung: Grundlagen (Timing, Markersignal, Belohnung, Konsequenz), erste Grundkommandos (Sitz und Platz über Locken und Ausschleichen) sowie Rückruf und Leinenführigkeit. Gemischte Übungstypen.",
+      "description": "Vier Anfänger-Lektionen zu gewaltfreiem Hundetraining mit positiver Verstärkung: Grundlagen (Timing, Markersignal, Belohnung, Konsequenz), erste Grundkommandos (Sitz und Platz über Locken und Ausschleichen), Rückruf und Leinenführigkeit sowie eine abschließende Wiederholung mit Sprech- und Nachsprech-Übungen. Gemischte Übungstypen.",
       "source_language": "de",
       "target_language": "de",
       "level": "a1",
       "domain": "dog-training",
-      "lesson_count": 3,
-      "card_count": 22,
+      "lesson_count": 4,
+      "card_count": 29,
       "tags": [
         "knowledge",
         "hundetraining",
@@ -72,18 +72,18 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-07-31T17:49:04+02:00"
+      "updated_at": "2026-09-03T09:19:02+02:00"
     },
     {
       "id": "hundetraining-aufbau-from-de",
       "name": "Hundetraining Aufbaukurs (Teil 2)",
-      "description": "Aufbaukurs (Teil 2) für Hunde, die die Anfänger-Grundlagen kennen: vier Lektionen zu Impulskontrolle (Bleib und Aus, die drei D Dauer/Distanz/ Ablenkung), entspanntem Alleinbleiben, Begegnungen und Sozialisierung sowie Tricks und geistiger Beschäftigung (Formen, Einfangen, Nasenarbeit). Gewaltfrei mit positiver Verstärkung, gemischte Übungstypen.",
+      "description": "Aufbaukurs (Teil 2) für Hunde, die die Anfänger-Grundlagen kennen: vier Lektionen zu Impulskontrolle (Bleib und Aus, die drei D Dauer/Distanz/ Ablenkung), entspanntem Alleinbleiben, Begegnungen und Sozialisierung sowie Tricks und geistiger Beschäftigung (Formen, Einfangen, Nasenarbeit), plus eine abschließende Wiederholungslektion. Gewaltfrei mit positiver Verstärkung, gemischte Übungstypen.",
       "source_language": "de",
       "target_language": "de",
       "level": "a2",
       "domain": "dog-training",
-      "lesson_count": 4,
-      "card_count": 29,
+      "lesson_count": 5,
+      "card_count": 37,
       "tags": [
         "knowledge",
         "hundetraining",
@@ -96,7 +96,7 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-07-31T17:49:04+02:00"
+      "updated_at": "2026-09-03T09:19:02+02:00"
     },
     {
       "id": "hundetraining-alltag-from-de",
@@ -106,8 +106,8 @@
       "target_language": "de",
       "level": "b1",
       "domain": "dog-training",
-      "lesson_count": 4,
-      "card_count": 27,
+      "lesson_count": 5,
+      "card_count": 34,
       "tags": [
         "knowledge",
         "hundetraining",
@@ -120,18 +120,18 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-09-01T13:55:52+02:00"
+      "updated_at": "2026-09-03T09:19:02+02:00"
     },
     {
       "id": "hundetraining-verhalten-from-de",
       "name": "Hundetraining Verhalten verstehen (Teil 4)",
-      "description": "Teil 4 der Reihe (B2), aufbauend auf Teil 0-3: fortgeschrittene Verhaltensthemen. Leinenreaktivität (Ursachen Frust/Angst, Schwellen- distanz, Engage-Disengage, „Look at That“), Ressourcenverteidigung (Knurren nicht bestrafen, Tauschen, Vorbeugen, Management, Hilfe holen), Frust und Übererregung (Frusttoleranz, Trigger-Stacking, Runterfahren, Ansprechbarkeit) sowie Unsicherheit und Selbstvertrauen (Vorhersehbar- keit, Wahlmöglichkeit, Erfolgserlebnisse, Konfidenz-Spiele). Native multiple_choice plus matching, cloze, free_text und word_tiles.",
+      "description": "Teil 4 der Reihe (B2), aufbauend auf Teil 0-3: fortgeschrittene Verhaltensthemen. Leinenreaktivität (Ursachen Frust/Angst, Schwellen- distanz, Engage-Disengage, „Look at That“), Ressourcenverteidigung (Knurren nicht bestrafen, Tauschen, Vorbeugen, Management, Hilfe holen), Frust und Übererregung (Frusttoleranz, Trigger-Stacking, Runterfahren, Ansprechbarkeit) sowie Unsicherheit und Selbstvertrauen (Vorhersehbar- keit, Wahlmöglichkeit, Erfolgserlebnisse, Konfidenz-Spiele), plus eine abschließende Wiederholungslektion. Native multiple_choice plus matching, cloze, free_text, word_tiles und ext:al-speak-and-record.",
       "source_language": "de",
       "target_language": "de",
       "level": "b2",
       "domain": "dog-training",
-      "lesson_count": 4,
-      "card_count": 28,
+      "lesson_count": 5,
+      "card_count": 35,
       "tags": [
         "knowledge",
         "hundetraining",
@@ -144,9 +144,9 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-07-31T17:49:04+02:00"
+      "updated_at": "2026-09-03T09:19:02+02:00"
     }
   ],
-  "total_lessons": 23,
-  "total_cards": 159
+  "total_lessons": 29,
+  "total_cards": 200
 }
