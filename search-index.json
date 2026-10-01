@@ -1,6 +1,6 @@
 {
   "repo": "astrapi69/alc-dog-training",
-  "generated": "2026-09-24T06:33:25Z",
+  "generated": "2026-10-01T11:13:55Z",
   "schema_version": "1.0",
   "sets": [
     {
@@ -25,12 +25,12 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-09-03T07:19:02Z"
+      "updated_at": "2026-10-01T11:13:22Z"
     },
     {
       "id": "welpen-spezial-from-de",
       "name": "Hundetraining Welpen-Spezial",
-      "description": "Vertiefung zum Welpenkurs (Teil 0): vier Lektionen zu Themen der Welpenzeit jenseits des Grundkurses — Geräusche und Umweltreize (Habituation, leise anfangen, positiv verknüpfen), Ausrüstung angewöhnen (Halsband, Geschirr, Leine, freiwillig und passend), Angstphasen ruhig begleiten (souverän bleiben, Distanz, positive Gegenkonditionierung) sowie Autofahren und erste Ausflüge (sicher transportieren, dosieren, positive Ersterfahrung). Native multiple_choice plus matching, cloze, free_text und word_tiles. Dazu eine abschließende Wiederholungslektion mit Nachsprechübungen (ext:al-speak-and-record).",
+      "description": "Vertiefung zum Welpenkurs (Teil 0): vier Lektionen zu Themen der Welpenzeit jenseits des Grundkurses, Geräusche und Umweltreize (Habituation, leise anfangen, positiv verknüpfen), Ausrüstung angewöhnen (Halsband, Geschirr, Leine, freiwillig und passend), Angstphasen ruhig begleiten (souverän bleiben, Distanz, positive Gegenkonditionierung) sowie Autofahren und erste Ausflüge (sicher transportieren, dosieren, positive Ersterfahrung). Native multiple_choice plus matching, cloze, free_text und word_tiles. Dazu eine abschließende Wiederholungslektion mit Nachsprechübungen (ext:al-speak-and-record).",
       "source_language": "de",
       "target_language": "de",
       "level": "a1",
@@ -49,7 +49,7 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-09-03T07:19:02Z"
+      "updated_at": "2026-10-01T11:13:22Z"
     },
     {
       "id": "hundetraining-anfaenger-from-de",
@@ -72,7 +72,7 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-09-03T07:19:02Z"
+      "updated_at": "2026-10-01T11:13:22Z"
     },
     {
       "id": "hundetraining-aufbau-from-de",
@@ -96,12 +96,12 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-09-03T07:19:02Z"
+      "updated_at": "2026-10-01T11:13:22Z"
     },
     {
       "id": "hundetraining-alltag-from-de",
       "name": "Hundetraining Souverän im Alltag (Teil 3)",
-      "description": "Teil 3 (B1) der Reihe, aufbauend auf Anfänger- und Aufbaukurs: vier Lektionen zur Alltagssouveränität — Antijagdtraining (Verhaltenskette, Abbruchsignal, Umorientierung, Management), Maulkorbtraining (Passform, schrittweise Gewöhnung), kooperatives Medical Training (Cooperative Care, Start-/Abbruchsignal, Stationstraining, Handling) und Notrückruf unter Ablenkung (Pfeife, Jackpot, Rückrufparty). Gewaltfrei, gemischte Übungstypen (matching, cloze, free_text, word_tiles, multiselect).",
+      "description": "Teil 3 (B1) der Reihe, aufbauend auf Anfänger- und Aufbaukurs: vier Lektionen zur Alltagssouveränität, Antijagdtraining (Verhaltenskette, Abbruchsignal, Umorientierung, Management), Maulkorbtraining (Passform, schrittweise Gewöhnung), kooperatives Medical Training (Cooperative Care, Start-/Abbruchsignal, Stationstraining, Handling) und Notrückruf unter Ablenkung (Pfeife, Jackpot, Rückrufparty). Gewaltfrei, gemischte Übungstypen (matching, cloze, free_text, word_tiles, multiselect).",
       "source_language": "de",
       "target_language": "de",
       "level": "b1",
@@ -120,7 +120,7 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-09-03T07:19:02Z"
+      "updated_at": "2026-10-01T11:13:22Z"
     },
     {
       "id": "hundetraining-verhalten-from-de",
@@ -144,7 +144,7 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-09-03T07:19:02Z"
+      "updated_at": "2026-10-01T11:13:22Z"
     }
   ],
   "total_lessons": 29,
