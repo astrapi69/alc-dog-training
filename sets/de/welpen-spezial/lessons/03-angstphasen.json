@@ -31,7 +31,7 @@
       "id": "sicherheit-geben",
       "stable_id": "card-ms942lof07mue",
       "front": "Ruhig Sicherheit geben",
-      "back": "Nähe und eine ruhige Stimme sind erlaubt und gut — das verstärkt keine Angst.",
+      "back": "Nähe und eine ruhige Stimme sind erlaubt und gut, das verstärkt keine Angst.",
       "notes": "Der alte Mythos „Trösten verstärkt Angst“ stimmt so nicht. Nur hektisches Bemitleiden hilft nicht.",
       "media_type": "text",
       "difficulty": 3,
@@ -83,13 +83,13 @@
       "id": "intro",
       "type": "theory",
       "title": "Wenn plötzlich alles gruselig ist",
-      "body": "# Angstphasen ruhig begleiten\n\nWelpen und Junghunde durchlaufen **Angstphasen**: Zeiten, in denen sie plötzlich vorsichtiger und schreckhafter sind — manchmal sogar vor Dingen, die sie schon kannten. Das ist **normal und vorübergehend**.\n\nWie du gut durch so eine Phase kommst:\n\n- **Souverän bleiben**: Deine Ruhe überträgt sich.\n- **Ruhig Sicherheit geben**: Nähe und eine ruhige Stimme sind **erlaubt** — das verstärkt keine Angst. (Der alte Satz „Trösten verstärkt Angst“ stimmt so nicht.)\n- **Nicht in die Angst zwingen**: Der Hund darf Abstand nehmen.\n\n> Was NICHT hilft: den Hund zum Auslöser zerren oder selbst hektisch werden."
+      "body": "# Angstphasen ruhig begleiten\n\nWelpen und Junghunde durchlaufen **Angstphasen**: Zeiten, in denen sie plötzlich vorsichtiger und schreckhafter sind, manchmal sogar vor Dingen, die sie schon kannten. Das ist **normal und vorübergehend**.\n\nWie du gut durch so eine Phase kommst:\n\n- **Souverän bleiben**: Deine Ruhe überträgt sich.\n- **Ruhig Sicherheit geben**: Nähe und eine ruhige Stimme sind **erlaubt**, das verstärkt keine Angst. (Der alte Satz „Trösten verstärkt Angst“ stimmt so nicht.)\n- **Nicht in die Angst zwingen**: Der Hund darf Abstand nehmen.\n\n> Was NICHT hilft: den Hund zum Auslöser zerren oder selbst hektisch werden."
     },
     {
       "id": "step-gegenkond",
       "type": "theory",
       "title": "Aus Angst wird Vorfreude",
-      "body": "## Distanz und positive Gegenkonditionierung\n\nHat der Hund vor etwas Angst, arbeitest du mit **Distanz** und **positiver Gegenkonditionierung**:\n\n1. Genug **Abstand**, damit der Hund unter seiner Angstschwelle bleibt.\n2. Taucht der Auslöser auf, gibt es aus der Distanz etwas **Gutes** (Leckerli).\n3. Mit der Zeit den Abstand ganz langsam verringern — nur so weit, wie der Hund entspannt bleibt.\n\nSo wird aus „Achtung, gefährlich“ ein „Oh, das bringt Futter“. Dazu gehört **Geduld**: keine großen Sprünge, lieber kurz und gut."
+      "body": "## Distanz und positive Gegenkonditionierung\n\nHat der Hund vor etwas Angst, arbeitest du mit **Distanz** und **positiver Gegenkonditionierung**:\n\n1. Genug **Abstand**, damit der Hund unter seiner Angstschwelle bleibt.\n2. Taucht der Auslöser auf, gibt es aus der Distanz etwas **Gutes** (Leckerli).\n3. Mit der Zeit den Abstand ganz langsam verringern, nur so weit, wie der Hund entspannt bleibt.\n\nSo wird aus „Achtung, gefährlich“ ein „Oh, das bringt Futter“. Dazu gehört **Geduld**: keine großen Sprünge, lieber kurz und gut."
     },
     {
       "id": "ex-match-begriffe",
@@ -124,7 +124,7 @@
         "card_ids": ["sicherheit-geben", "souveraen-bleiben"],
         "multiple": false,
         "options": [
-          {"text": "Ruhig Sicherheit geben — Nähe und ruhige Stimme sind okay", "correct": true},
+          {"text": "Ruhig Sicherheit geben, Nähe und ruhige Stimme sind okay", "correct": true},
           {"text": "Ihn wegschicken, damit die Angst nicht verstärkt wird", "correct": false},
           {"text": "Selbst aufgeregt mitleiden und hochheben", "correct": false},
           {"text": "Ihn zum Auslöser hinschieben, damit er sieht: harmlos", "correct": false}

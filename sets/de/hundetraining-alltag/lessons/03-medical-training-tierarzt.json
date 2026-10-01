@@ -1,7 +1,7 @@
 {
   "id": "03-medical-training-tierarzt",
   "title": "Kooperatives Medical Training",
-  "description": "Teil 3 (B1): Wie dein Hund Tierarzt, Pflege und Handling entspannt mitmacht — mit kooperativer Pflege, Startsignal, jederzeit möglichem Abbruch und Stationstraining.",
+  "description": "Teil 3 (B1): Wie dein Hund Tierarzt, Pflege und Handling entspannt mitmacht, mit kooperativer Pflege, Startsignal, jederzeit möglichem Abbruch und Stationstraining.",
   "target_language": "de",
   "source_language": "de",
   "domain": "knowledge",
@@ -11,7 +11,7 @@
       "id": "kooperative-pflege",
       "stable_id": "card-ms942lo700q7l",
       "front": "Kooperative Pflege",
-      "back": "Pflege und Untersuchung mit Beteiligung des Hundes — er darf mitbestimmen statt festgehalten zu werden.",
+      "back": "Pflege und Untersuchung mit Beteiligung des Hundes, er darf mitbestimmen statt festgehalten zu werden.",
       "notes": "Englisch „Cooperative Care“. Weniger Stress, weniger Zwang, sicherere Behandlung.",
       "media_type": "text",
       "difficulty": 3,
@@ -41,8 +41,8 @@
       "id": "abbruch",
       "stable_id": "card-ms942lo700tqi",
       "front": "Abbruch durch den Hund",
-      "back": "Nimmt der Hund die Position weg, hörst du sofort auf — er darf „nein“ sagen.",
-      "notes": "Das Gegenstück zum Startsignal. Der Hund lernt: Ich kann die Lage jederzeit beenden — und entspannt gerade deshalb.",
+      "back": "Nimmt der Hund die Position weg, hörst du sofort auf, er darf „nein“ sagen.",
+      "notes": "Das Gegenstück zum Startsignal. Der Hund lernt: Ich kann die Lage jederzeit beenden, und entspannt gerade deshalb.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["medical"]
@@ -51,7 +51,7 @@
       "id": "station-target",
       "stable_id": "card-ms942lo700url",
       "front": "Stationstraining",
-      "back": "Ein fester Punkt — Matte oder Kinntarget — an dem der Hund freiwillig verharrt.",
+      "back": "Ein fester Punkt, Matte oder Kinntarget, an dem der Hund freiwillig verharrt.",
       "notes": "Die Station wird zum sicheren Ausgangspunkt, von dem aus untersucht wird.",
       "media_type": "text",
       "difficulty": 3,
@@ -72,7 +72,7 @@
       "stable_id": "card-ms942lo700wfb",
       "front": "Kleinschrittig aufbauen",
       "back": "Jeden Handgriff in winzige Schritte zerlegen und unter der Stressschwelle bleiben.",
-      "notes": "Erst die Pfote berühren, dann heben, dann halten — jeder Schritt einzeln und belohnt.",
+      "notes": "Erst die Pfote berühren, dann heben, dann halten, jeder Schritt einzeln und belohnt.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["methode"]
@@ -83,13 +83,13 @@
       "id": "intro",
       "type": "theory",
       "title": "Der Hund darf mitreden",
-      "body": "# Kooperatives Medical Training\n\nBeim Tierarzt wird ein Hund oft **festgehalten** — das macht Stress und im schlimmsten Fall Angst vor der Praxis. Die **kooperative Pflege** (englisch *Cooperative Care*) dreht das um: Der Hund **beteiligt sich** an Untersuchung und Pflege.\n\nDas Herzstück ist ein Paar aus zwei Signalen:\n\n- **Startsignal des Hundes** — eine Position wie *Kinn ablegen*, mit der er sagt: „Ich bin bereit.“\n- **Abbruch durch den Hund** — nimmt er die Position weg, hörst du **sofort** auf.\n\n> Paradox, aber wahr: Weil der Hund die Lage jederzeit **beenden** darf, bleibt er viel eher ruhig — er muss nicht flüchten, er kann einfach pausieren."
+      "body": "# Kooperatives Medical Training\n\nBeim Tierarzt wird ein Hund oft **festgehalten**, das macht Stress und im schlimmsten Fall Angst vor der Praxis. Die **kooperative Pflege** (englisch *Cooperative Care*) dreht das um: Der Hund **beteiligt sich** an Untersuchung und Pflege.\n\nDas Herzstück ist ein Paar aus zwei Signalen:\n\n- **Startsignal des Hundes**: eine Position wie *Kinn ablegen*, mit der er sagt: „Ich bin bereit.“\n- **Abbruch durch den Hund**: nimmt er die Position weg, hörst du **sofort** auf.\n\n> Paradox, aber wahr: Weil der Hund die Lage jederzeit **beenden** darf, bleibt er viel eher ruhig, er muss nicht flüchten, er kann einfach pausieren."
     },
     {
       "id": "step-aufbau",
       "type": "theory",
       "title": "Handling und Stationen",
-      "body": "## Bausteine des Trainings\n\nAufbauend auf Start- und Abbruchsignal:\n\n- **Stationstraining** — eine Matte oder ein **Kinntarget** als sicherer Punkt, an dem der Hund freiwillig bleibt.\n- **Handling** — Pfoten, Ohren, Maul und Körper anfassen üben, jeden Schritt belohnen.\n- **Kleinschrittig aufbauen** — jeden Handgriff in winzige Schritte zerlegen und **unter der Stressschwelle** bleiben (wie beim Alleinbleiben in Teil 2).\n\nSo wird aus „Der Tierarzt muss ihn festhalten“ ein „Der Hund macht ruhig mit“."
+      "body": "## Bausteine des Trainings\n\nAufbauend auf Start- und Abbruchsignal:\n\n- **Stationstraining**: eine Matte oder ein **Kinntarget** als sicherer Punkt, an dem der Hund freiwillig bleibt.\n- **Handling**: Pfoten, Ohren, Maul und Körper anfassen üben, jeden Schritt belohnen.\n- **Kleinschrittig aufbauen**: jeden Handgriff in winzige Schritte zerlegen und **unter der Stressschwelle** bleiben (wie beim Alleinbleiben in Teil 2).\n\nSo wird aus „Der Tierarzt muss ihn festhalten“ ein „Der Hund macht ruhig mit“."
     },
     {
       "id": "ex-match-begriffe",

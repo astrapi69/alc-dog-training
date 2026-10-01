@@ -1,7 +1,7 @@
 {
   "id": "04-autofahren-ausfluege",
   "title": "Autofahren und erste Ausflüge",
-  "description": "Welpen-Spezial: Wie dein Welpe entspannt Auto fährt und die Welt kennenlernt — mit kurzen positiven Fahrten, sicherem Transport und ruhigen, dosierten Ausflügen.",
+  "description": "Welpen-Spezial: Wie dein Welpe entspannt Auto fährt und die Welt kennenlernt, mit kurzen positiven Fahrten, sicherem Transport und ruhigen, dosierten Ausflügen.",
   "target_language": "de",
   "source_language": "de",
   "domain": "knowledge",
@@ -21,7 +21,7 @@
       "id": "sicherung",
       "stable_id": "card-ms942log07ygg",
       "front": "Sicher transportieren",
-      "back": "Der Welpe fährt gesichert mit — in einer Transportbox oder mit Sicherheitsgurt.",
+      "back": "Der Welpe fährt gesichert mit, in einer Transportbox oder mit Sicherheitsgurt.",
       "notes": "Schützt bei einer Bremsung und gibt dem Welpen einen festen, ruhigen Platz.",
       "media_type": "text",
       "difficulty": 2,
@@ -52,7 +52,7 @@
       "stable_id": "card-ms942log081m1",
       "front": "Neue Orte ruhig zeigen",
       "back": "Verschiedene Umgebungen wie Stadt, Wald oder Café gelassen kennenlernen lassen.",
-      "notes": "Beobachten aus sicherer Entfernung reicht oft — nicht jeder Reiz muss berührt werden.",
+      "notes": "Beobachten aus sicherer Entfernung reicht oft, nicht jeder Reiz muss berührt werden.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["alltag"]
@@ -72,7 +72,7 @@
       "stable_id": "card-ms942log083db",
       "front": "Treppen und Untergründe",
       "back": "Unbekannte Böden und Treppen ruhig und freiwillig erkunden lassen.",
-      "notes": "Bei sehr jungen oder großen Welpen viele Treppen meiden — die Gelenke wachsen noch.",
+      "notes": "Bei sehr jungen oder großen Welpen viele Treppen meiden, die Gelenke wachsen noch.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["alltag"]
@@ -83,13 +83,13 @@
       "id": "intro",
       "type": "theory",
       "title": "Das Auto wird zum normalen Ort",
-      "body": "# Autofahren und erste Ausflüge\n\nAuto fahren muss ein Welpe **lernen** — am besten, bevor die erste lange Fahrt ansteht.\n\n- **Sicher transportieren**: in einer **Transportbox** oder mit **Sicherheitsgurt**. Das schützt und gibt einen ruhigen Platz.\n- **Autofahren angewöhnen**: mit **ganz kurzen** Fahrten beginnen, dann langsam steigern.\n- **Gute erste Erfahrung**: Die Fahrt endet mit etwas Schönem. Wer nur zum Tierarzt fährt, dessen Hund verknüpft das Auto schnell negativ.\n\n> Manchen Welpen wird anfangs übel (**Reiseübelkeit**) — kurze Fahrten und nicht direkt nach dem Fressen helfen; meist legt es sich mit der Zeit."
+      "body": "# Autofahren und erste Ausflüge\n\nAuto fahren muss ein Welpe **lernen**, am besten, bevor die erste lange Fahrt ansteht.\n\n- **Sicher transportieren**: in einer **Transportbox** oder mit **Sicherheitsgurt**. Das schützt und gibt einen ruhigen Platz.\n- **Autofahren angewöhnen**: mit **ganz kurzen** Fahrten beginnen, dann langsam steigern.\n- **Gute erste Erfahrung**: Die Fahrt endet mit etwas Schönem. Wer nur zum Tierarzt fährt, dessen Hund verknüpft das Auto schnell negativ.\n\n> Manchen Welpen wird anfangs übel (**Reiseübelkeit**) - kurze Fahrten und nicht direkt nach dem Fressen helfen; meist legt es sich mit der Zeit."
     },
     {
       "id": "step-ausfluege",
       "type": "theory",
       "title": "Die Welt in kleinen Portionen",
-      "body": "## Ausflüge richtig dosieren\n\nNeue Orte sind spannend, aber ein Welpe ist schnell **überreizt**. Deshalb:\n\n- **Neue Orte ruhig zeigen**: Stadt, Wald, Café — oft reicht **Beobachten aus der Distanz**.\n- **Ausflüge dosieren**: kurz, mit Pausen, mit Rückzugsmöglichkeit.\n- **Treppen und Untergründe** freiwillig erkunden lassen — bei sehr jungen oder großen Welpen viele Treppen aber noch meiden, die Gelenke wachsen.\n\nWeniger, aber gut, ist mehr wert als ein Reizgewitter."
+      "body": "## Ausflüge richtig dosieren\n\nNeue Orte sind spannend, aber ein Welpe ist schnell **überreizt**. Deshalb:\n\n- **Neue Orte ruhig zeigen**: Stadt, Wald, Café, oft reicht **Beobachten aus der Distanz**.\n- **Ausflüge dosieren**: kurz, mit Pausen, mit Rückzugsmöglichkeit.\n- **Treppen und Untergründe** freiwillig erkunden lassen, bei sehr jungen oder großen Welpen viele Treppen aber noch meiden, die Gelenke wachsen.\n\nWeniger, aber gut, ist mehr wert als ein Reizgewitter."
     },
     {
       "id": "ex-match-begriffe",
@@ -144,7 +144,7 @@
         "type": "cloze",
         "prompt": "Ergänze den Satz.",
         "card_ids": ["sicherung"],
-        "sentence": "Im Auto fährt der Welpe gesichert — in einer Transportbox oder mit einem ___ .",
+        "sentence": "Im Auto fährt der Welpe gesichert, in einer Transportbox oder mit einem ___ .",
         "blanks": [{"accept": ["Sicherheitsgurt", "sicherheitsgurt", "Gurt", "Anschnallgurt"]}],
         "cloze_mode": "type",
         "hint": "Auch Menschen schnallen sich damit an."

@@ -1,7 +1,7 @@
 {
   "id": "02-beisshemmung",
   "title": "Beißhemmung und Zähnchen",
-  "description": "Welpenkurs (Teil 0): Warum Welpen mit dem Maul spielen und wie dein Welpe lernt, seine Beißkraft zu kontrollieren — mit Spielabbruch, Alternativen und klaren Regeln für die Hände.",
+  "description": "Welpenkurs (Teil 0): Warum Welpen mit dem Maul spielen und wie dein Welpe lernt, seine Beißkraft zu kontrollieren, mit Spielabbruch, Alternativen und klaren Regeln für die Hände.",
   "target_language": "de",
   "source_language": "de",
   "domain": "knowledge",
@@ -11,7 +11,7 @@
       "id": "welpenbeissen",
       "stable_id": "card-ms942loe05ui5",
       "front": "Welpenbeißen",
-      "back": "Welpen erkunden die Welt und spielen mit dem Maul — das ist normales Verhalten.",
+      "back": "Welpen erkunden die Welt und spielen mit dem Maul, das ist normales Verhalten.",
       "notes": "Kein Zeichen von Aggression. Der Welpe muss erst lernen, wie fest er darf.",
       "media_type": "text",
       "difficulty": 1,
@@ -22,7 +22,7 @@
       "stable_id": "card-ms942loe05vuy",
       "front": "Beißhemmung",
       "back": "Der Welpe lernt, seine Beißkraft zu kontrollieren und nicht fest zuzubeißen.",
-      "notes": "Eine der wichtigsten Lektionen der Welpenzeit — normalerweise über Rückmeldung beim Spielen gelernt.",
+      "notes": "Eine der wichtigsten Lektionen der Welpenzeit, normalerweise über Rückmeldung beim Spielen gelernt.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["welpe"]
@@ -73,13 +73,13 @@
       "id": "intro",
       "type": "theory",
       "title": "Warum Welpen beißen",
-      "body": "# Beißhemmung und Zähnchen\n\nWelpen **spielen mit dem Maul** und erkunden so ihre Welt — das ist völlig **normal** und kein Zeichen von Aggression. Der kleine Hund muss aber erst lernen, **wie fest** er zubeißen darf. Genau das ist die **Beißhemmung**.\n\nUnter Wurfgeschwistern lernt er das durch Rückmeldung: Beißt einer zu fest, quietscht der andere und das Spiel stockt. Genau dieses Prinzip nutzt du auch zu Hause.\n\n> Wichtig beim **Zahnwechsel** (ab etwa dem vierten Monat): Der Welpe kaut noch mehr und braucht **erlaubte Kauobjekte**."
+      "body": "# Beißhemmung und Zähnchen\n\nWelpen **spielen mit dem Maul** und erkunden so ihre Welt, das ist völlig **normal** und kein Zeichen von Aggression. Der kleine Hund muss aber erst lernen, **wie fest** er zubeißen darf. Genau das ist die **Beißhemmung**.\n\nUnter Wurfgeschwistern lernt er das durch Rückmeldung: Beißt einer zu fest, quietscht der andere und das Spiel stockt. Genau dieses Prinzip nutzt du auch zu Hause.\n\n> Wichtig beim **Zahnwechsel** (ab etwa dem vierten Monat): Der Welpe kaut noch mehr und braucht **erlaubte Kauobjekte**."
     },
     {
       "id": "step-methode",
       "type": "theory",
       "title": "So lernt er Maßhalten",
-      "body": "## Der Umgang mit dem Zwicken\n\nDrei einfache Regeln:\n\n1. **Spielabbruch**: Wird es zu fest, endet das Spiel **sofort** für einen kurzen Moment. Keine Aufregung — einfach kurz die Aufmerksamkeit entziehen.\n2. **Alternative anbieten**: Lenk den Kaudrang auf ein **Kauspielzeug** statt auf Hand oder Hose.\n3. **Hände sind kein Spielzeug**: Nicht mit den Fingern reizen oder raufen. Hände bringen immer nur Gutes.\n\nSo lernt der Welpe: Sanft spielen hält den Spaß am Laufen, zu fest beenden ihn."
+      "body": "## Der Umgang mit dem Zwicken\n\nDrei einfache Regeln:\n\n1. **Spielabbruch**: Wird es zu fest, endet das Spiel **sofort** für einen kurzen Moment. Keine Aufregung, einfach kurz die Aufmerksamkeit entziehen.\n2. **Alternative anbieten**: Lenk den Kaudrang auf ein **Kauspielzeug** statt auf Hand oder Hose.\n3. **Hände sind kein Spielzeug**: Nicht mit den Fingern reizen oder raufen. Hände bringen immer nur Gutes.\n\nSo lernt der Welpe: Sanft spielen hält den Spaß am Laufen, zu fest beenden ihn."
     },
     {
       "id": "ex-match-begriffe",

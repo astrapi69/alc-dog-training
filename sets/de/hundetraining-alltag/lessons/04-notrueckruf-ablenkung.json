@@ -1,7 +1,7 @@
 {
   "id": "04-notrueckruf-ablenkung",
   "title": "Notrückruf unter Ablenkung",
-  "description": "Teil 3 (B1): Wie du aus dem Rückruf aus Teil 1 ein bombenfestes Notsignal machst — mit Pfeife, Jackpot, Rückrufparty und schrittweisem Training unter starker Ablenkung.",
+  "description": "Teil 3 (B1): Wie du aus dem Rückruf aus Teil 1 ein bombenfestes Notsignal machst, mit Pfeife, Jackpot, Rückrufparty und schrittweisem Training unter starker Ablenkung.",
   "target_language": "de",
   "source_language": "de",
   "domain": "knowledge",
@@ -21,8 +21,8 @@
       "id": "pfeife",
       "stable_id": "card-ms942lo8014d0",
       "front": "Pfeifsignal",
-      "back": "Ein konditioniertes Pfeifsignal — immer gleich, weit hörbar und unabhängig von deiner Stimmung.",
-      "notes": "Eine Pfeife klingt jeden Tag gleich, auch wenn du aufgeregt bist — anders als die Stimme.",
+      "back": "Ein konditioniertes Pfeifsignal, immer gleich, weit hörbar und unabhängig von deiner Stimmung.",
+      "notes": "Eine Pfeife klingt jeden Tag gleich, auch wenn du aufgeregt bist, anders als die Stimme.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["rueckruf"]
@@ -32,7 +32,7 @@
       "stable_id": "card-ms942lo8015k3",
       "front": "Jackpot",
       "back": "Eine besonders große Belohnung für herausragendes Verhalten.",
-      "notes": "Beim Notrückruf gibt es das Beste vom Besten — nicht ein einzelnes Trockenleckerli.",
+      "notes": "Beim Notrückruf gibt es das Beste vom Besten, nicht ein einzelnes Trockenleckerli.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["belohnung"]
@@ -61,7 +61,7 @@
       "id": "generalisieren-reiz",
       "stable_id": "card-ms942lo8018ae",
       "front": "Unter Ablenkung festigen",
-      "back": "Den Rückruf mit langsam wachsender Ablenkung üben — von ruhig bis reizvoll.",
+      "back": "Den Rückruf mit langsam wachsender Ablenkung üben, von ruhig bis reizvoll.",
       "notes": "Anschluss an Teil 1: erst zu Hause, dann im Garten, dann im Park mit Hunden und Wild.",
       "media_type": "text",
       "difficulty": 3,
@@ -83,13 +83,13 @@
       "id": "intro",
       "type": "theory",
       "title": "Vom Rückruf zum Notsignal",
-      "body": "# Notrückruf unter Ablenkung\n\nIn Teil 1 hast du den **Rückruf** aufgebaut: Kommen lohnt sich immer. Der **Notrückruf** ist die B1-Steigerung — ein **eigenes Super-Signal** nur für den Ernstfall.\n\nDrei Eigenschaften machen ihn stark:\n\n- **Eigenes Signal**, getrennt vom Alltagsrückruf — oft eine **Pfeife**, weil sie jeden Tag gleich klingt und weit trägt.\n- **Immer Jackpot** — die größte, beste Belohnung, jedes Mal.\n- **Selten benutzt** und **nie verbrannt** — nicht fürs Leineanlegen am Ende, nicht für Unangenehmes.\n\n> Ein Notrückruf, den du zehnmal am Tag rufst oder mit dem der Spaß endet, verliert genau dann seine Kraft, wenn du ihn brauchst."
+      "body": "# Notrückruf unter Ablenkung\n\nIn Teil 1 hast du den **Rückruf** aufgebaut: Kommen lohnt sich immer. Der **Notrückruf** ist die B1-Steigerung, ein **eigenes Super-Signal** nur für den Ernstfall.\n\nDrei Eigenschaften machen ihn stark:\n\n- **Eigenes Signal**, getrennt vom Alltagsrückruf, oft eine **Pfeife**, weil sie jeden Tag gleich klingt und weit trägt.\n- **Immer Jackpot**: die größte, beste Belohnung, jedes Mal.\n- **Selten benutzt** und **nie verbrannt**, nicht fürs Leineanlegen am Ende, nicht für Unangenehmes.\n\n> Ein Notrückruf, den du zehnmal am Tag rufst oder mit dem der Spaß endet, verliert genau dann seine Kraft, wenn du ihn brauchst."
     },
     {
       "id": "step-aufbau",
       "type": "theory",
       "title": "Aufbauen und absichern",
-      "body": "## So festigst du ihn\n\n1. **Konditionieren**: Pfeifton → sofort **Jackpot**, viele Wiederholungen, ganz ohne Ablenkung.\n2. **Rückrufparty**: Kommt der Hund, feierst du ehrlich und groß.\n3. **Unter Ablenkung festigen**: die Ablenkung **langsam** steigern — Garten, Park, andere Hunde, Wild.\n4. **Mit Schleppleine absichern**, bis es unter Reiz sicher sitzt — so **gelingt** jeder Rückruf und keiner schwächt das Signal.\n\nSteigere immer nur so weit, dass dein Hund noch zuverlässig kommt. Klappt eine Stufe nicht: einen Schritt zurück."
+      "body": "## So festigst du ihn\n\n1. **Konditionieren**: Pfeifton → sofort **Jackpot**, viele Wiederholungen, ganz ohne Ablenkung.\n2. **Rückrufparty**: Kommt der Hund, feierst du ehrlich und groß.\n3. **Unter Ablenkung festigen**: die Ablenkung **langsam** steigern, Garten, Park, andere Hunde, Wild.\n4. **Mit Schleppleine absichern**, bis es unter Reiz sicher sitzt, so **gelingt** jeder Rückruf und keiner schwächt das Signal.\n\nSteigere immer nur so weit, dass dein Hund noch zuverlässig kommt. Klappt eine Stufe nicht: einen Schritt zurück."
     },
     {
       "id": "ex-match-begriffe",
@@ -159,7 +159,7 @@
         "id": "ex-free-pfeife",
         "stable_id": "ex-ms942lo801d54",
         "type": "free_text",
-        "prompt": "Welches Hilfsmittel klingt jeden Tag gleich und trägt weit — ideal für den Notrückruf?",
+        "prompt": "Welches Hilfsmittel klingt jeden Tag gleich und trägt weit, ideal für den Notrückruf?",
         "card_ids": ["pfeife"],
         "accept": ["Pfeife", "die Pfeife", "eine Pfeife", "Hundepfeife"],
         "hint": "Man bläst hinein, um einen gleichbleibenden Ton zu erzeugen.",

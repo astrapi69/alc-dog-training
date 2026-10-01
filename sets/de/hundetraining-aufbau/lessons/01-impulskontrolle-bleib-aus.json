@@ -1,7 +1,7 @@
 {
   "id": "01-impulskontrolle-bleib-aus",
   "title": "Impulskontrolle: Bleib und Aus",
-  "description": "Aufbaukurs Teil 2: Wie dein Hund lernt zu warten statt sofort zu reagieren — mit „Bleib“ und „Aus“, gesteigert über die drei D (Dauer, Distanz, Ablenkung).",
+  "description": "Aufbaukurs Teil 2: Wie dein Hund lernt zu warten statt sofort zu reagieren, mit „Bleib“ und „Aus“, gesteigert über die drei D (Dauer, Distanz, Ablenkung).",
   "target_language": "de",
   "source_language": "de",
   "domain": "knowledge",
@@ -51,7 +51,7 @@
       "id": "drei-d",
       "stable_id": "card-ms942loa02osg",
       "front": "Die drei D",
-      "back": "Dauer, Distanz und Ablenkung — die drei Stufen, die man einzeln und langsam steigert.",
+      "back": "Dauer, Distanz und Ablenkung, die drei Stufen, die man einzeln und langsam steigert.",
       "notes": "Immer nur eine der drei D auf einmal erhöhen, sonst überfordert man den Hund.",
       "media_type": "text",
       "difficulty": 3,
@@ -93,13 +93,13 @@
       "id": "intro",
       "type": "theory",
       "title": "Warten will gelernt sein",
-      "body": "# Impulskontrolle\n\n**Impulskontrolle** heißt: Der Hund lernt zu **warten**, statt auf jeden Reiz sofort loszustürmen. Zwei Aufbaukommandos gehören dazu:\n\n- **Bleib** — der Hund hält seine Position (aus „Sitz“ oder „Platz“), bis dein **Auflösesignal** kommt.\n- **Aus** — der Hund gibt etwas her, das er im Maul hat.\n\nBeim **„Aus“** gilt: **tauschen statt wegnehmen**. Biete etwas Gleichwertiges oder Besseres an, dann lohnt sich das Abgeben. Wer dem Hund Dinge wegreißt, macht ihn misstrauisch."
+      "body": "# Impulskontrolle\n\n**Impulskontrolle** heißt: Der Hund lernt zu **warten**, statt auf jeden Reiz sofort loszustürmen. Zwei Aufbaukommandos gehören dazu:\n\n- **Bleib**: der Hund hält seine Position (aus „Sitz“ oder „Platz“), bis dein **Auflösesignal** kommt.\n- **Aus**: der Hund gibt etwas her, das er im Maul hat.\n\nBeim **„Aus“** gilt: **tauschen statt wegnehmen**. Biete etwas Gleichwertiges oder Besseres an, dann lohnt sich das Abgeben. Wer dem Hund Dinge wegreißt, macht ihn misstrauisch."
     },
     {
       "id": "step-drei-d",
       "type": "theory",
       "title": "Die drei D",
-      "body": "## Schwieriger machen: die drei D\n\nEin „Bleib“ steigerst du über die **drei D** — und immer nur **eine** davon auf einmal:\n\n| D | Bedeutung | Beispiel |\n|---|---|---|\n| **Dauer** | wie lange | 3 s → 10 s → 30 s |\n| **Distanz** | wie weit weg | ein Schritt → drei Schritte |\n| **Ablenkung** | wie viel drumherum | Küche → Garten → Park |\n\nErhöhst du zwei D gleichzeitig, wird es meist zu schwer. Klappt eine Stufe nicht, gehst du **einen Schritt zurück**.\n\n> **„Lass es“** (etwas gar nicht erst aufnehmen) ist die Steigerung von „Aus“ und besonders wichtig gegen aufgenommenes Fressbares draußen."
+      "body": "## Schwieriger machen: die drei D\n\nEin „Bleib“ steigerst du über die **drei D**, und immer nur **eine** davon auf einmal:\n\n| D | Bedeutung | Beispiel |\n|---|---|---|\n| **Dauer** | wie lange | 3 s → 10 s → 30 s |\n| **Distanz** | wie weit weg | ein Schritt → drei Schritte |\n| **Ablenkung** | wie viel drumherum | Küche → Garten → Park |\n\nErhöhst du zwei D gleichzeitig, wird es meist zu schwer. Klappt eine Stufe nicht, gehst du **einen Schritt zurück**.\n\n> **„Lass es“** (etwas gar nicht erst aufnehmen) ist die Steigerung von „Aus“ und besonders wichtig gegen aufgenommenes Fressbares draußen."
     },
     {
       "id": "ex-match-begriffe",
@@ -134,10 +134,10 @@
         "card_ids": ["aus", "lass-es"],
         "multiple": false,
         "options": [
-          {"text": "„Aus“ — er soll loslassen, was er im Maul hat", "correct": true},
-          {"text": "„Lass es“ — er soll es gar nicht erst aufnehmen"},
-          {"text": "„Bleib“ — er soll die Position halten"},
-          {"text": "„Hier“ — er soll zurückkommen"}
+          {"text": "„Aus“, er soll loslassen, was er im Maul hat", "correct": true},
+          {"text": "„Lass es“, er soll es gar nicht erst aufnehmen"},
+          {"text": "„Bleib“, er soll die Position halten"},
+          {"text": "„Hier“, er soll zurückkommen"}
         ],
         "hint": "„Lass es“ greift, bevor etwas im Maul ist.",
         "explanation": "„Aus“ setzt du ein, sobald der Hund etwas bereits im Maul hat; „Lass es“ wirkt davor, damit er es gar nicht erst aufnimmt. Wer die beiden vertauscht, trainiert oft ein Signal auf den falschen Moment, und der Hund lernt es nicht sauber."

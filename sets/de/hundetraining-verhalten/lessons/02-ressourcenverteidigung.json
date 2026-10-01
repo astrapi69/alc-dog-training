@@ -1,7 +1,7 @@
 {
   "id": "02-ressourcenverteidigung",
   "title": "Ressourcenverteidigung",
-  "description": "Teil 4 (B2): Warum Hunde Futter, Objekte oder Plätze verteidigen, warum Knurren nicht bestraft werden darf und wie du mit Tauschen, Vorbeugen und Management sicher gegensteuerst — plus wann professionelle Hilfe nötig ist.",
+  "description": "Teil 4 (B2): Warum Hunde Futter, Objekte oder Plätze verteidigen, warum Knurren nicht bestraft werden darf und wie du mit Tauschen, Vorbeugen und Management sicher gegensteuerst, plus wann professionelle Hilfe nötig ist.",
   "target_language": "de",
   "source_language": "de",
   "domain": "knowledge",
@@ -11,7 +11,7 @@
       "id": "ressourcenverteidigung",
       "stable_id": "card-ms942loc04eci",
       "front": "Ressourcenverteidigung",
-      "back": "Der Hund verteidigt Futter, Objekte oder Plätze — durch Erstarren, Knurren oder Schnappen.",
+      "back": "Der Hund verteidigt Futter, Objekte oder Plätze, durch Erstarren, Knurren oder Schnappen.",
       "notes": "Englisch „Resource Guarding“. Häufig und oft gut behandelbar, wenn man es ernst nimmt.",
       "media_type": "text",
       "difficulty": 3,
@@ -21,7 +21,7 @@
       "id": "knurren-nicht-strafen",
       "stable_id": "card-ms942loc04fhp",
       "front": "Knurren nicht bestrafen",
-      "back": "Knurren ist Kommunikation, keine Frechheit — bestraft man es weg, warnt der Hund nicht mehr.",
+      "back": "Knurren ist Kommunikation, keine Frechheit, bestraft man es weg, warnt der Hund nicht mehr.",
       "notes": "Ein Hund, dem das Knurren „abtrainiert“ wurde, schnappt oft ohne Vorwarnung. Gefährlich.",
       "media_type": "text",
       "difficulty": 3,
@@ -32,7 +32,7 @@
       "stable_id": "card-ms942loc04g61",
       "front": "Nicht einfach wegnehmen",
       "back": "Dem Hund Dinge wegzunehmen bestätigt seine Sorge und verschärft das Verteidigen.",
-      "notes": "Jede Wegnahme lehrt: „Menschen klauen meine Sachen“ — genau das Gegenteil vom Ziel.",
+      "notes": "Jede Wegnahme lehrt: „Menschen klauen meine Sachen“, genau das Gegenteil vom Ziel.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["verhalten"]
@@ -52,7 +52,7 @@
       "stable_id": "card-ms942loc04il0",
       "front": "Vorbeugen am Napf",
       "back": "Früh üben, dass die Annäherung an Napf oder Kauartikel etwas Gutes ankündigt.",
-      "notes": "Beim Vorbeigehen ein Extra-Leckerli in den Napf werfen — Menschennähe wird zur guten Nachricht.",
+      "notes": "Beim Vorbeigehen ein Extra-Leckerli in den Napf werfen, Menschennähe wird zur guten Nachricht.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["methode"]
@@ -72,7 +72,7 @@
       "stable_id": "card-ms942loc04k29",
       "front": "Hilfe holen",
       "back": "Bei Schnappen oder Beißen eine gewaltfrei arbeitende Fachperson hinzuziehen.",
-      "notes": "Ressourcenverteidigung mit Bissen ist nichts für Alleingänge — Sicherheit geht vor.",
+      "notes": "Ressourcenverteidigung mit Bissen ist nichts für Alleingänge, Sicherheit geht vor.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["sicherheit"]
@@ -83,13 +83,13 @@
       "id": "intro",
       "type": "theory",
       "title": "Wenn der Hund verteidigt",
-      "body": "# Ressourcenverteidigung\n\n**Ressourcenverteidigung** (englisch *Resource Guarding*) heißt: Der Hund verteidigt **Futter, Objekte oder Plätze** — durch Erstarren, Knurren oder Schnappen. Bis zu einem Grad ist das **normales** Verhalten; entscheidend ist, wie wir reagieren.\n\nDie zwei wichtigsten Regeln:\n\n- **Knurren nicht bestrafen**: Knurren ist **Kommunikation**. Bestraft man es weg, warnt der Hund irgendwann nicht mehr und schnappt ohne Vorzeichen.\n- **Nicht einfach wegnehmen**: Jede Wegnahme bestätigt die Sorge „Menschen klauen meine Sachen“ und verschärft das Problem.\n\n> Knurren ist also wertvolle Information — nicht der Feind."
+      "body": "# Ressourcenverteidigung\n\n**Ressourcenverteidigung** (englisch *Resource Guarding*) heißt: Der Hund verteidigt **Futter, Objekte oder Plätze**, durch Erstarren, Knurren oder Schnappen. Bis zu einem Grad ist das **normales** Verhalten; entscheidend ist, wie wir reagieren.\n\nDie zwei wichtigsten Regeln:\n\n- **Knurren nicht bestrafen**: Knurren ist **Kommunikation**. Bestraft man es weg, warnt der Hund irgendwann nicht mehr und schnappt ohne Vorzeichen.\n- **Nicht einfach wegnehmen**: Jede Wegnahme bestätigt die Sorge „Menschen klauen meine Sachen“ und verschärft das Problem.\n\n> Knurren ist also wertvolle Information, nicht der Feind."
     },
     {
       "id": "step-loesung",
       "type": "theory",
       "title": "Abgeben lohnt sich",
-      "body": "## Tauschen, vorbeugen, managen\n\nStatt Wegnehmen arbeitest du an einer neuen Erwartung:\n\n- **Tauschen statt wegnehmen**: gegen etwas **Gleichwertiges oder Besseres** — Abgeben lohnt sich.\n- **Vorbeugen am Napf**: beim Vorbeigehen ein Extra-Leckerli in den Napf werfen. Menschennähe wird zur **guten Nachricht**.\n- **Situationen entschärfen** (Management): getrennt füttern, Wertobjekte wegräumen, Kinder und Hund beim Fressen trennen.\n\n> Bei **Schnappen oder Beißen**: unbedingt eine gewaltfrei arbeitende Fachperson dazuholen. Sicherheit geht vor."
+      "body": "## Tauschen, vorbeugen, managen\n\nStatt Wegnehmen arbeitest du an einer neuen Erwartung:\n\n- **Tauschen statt wegnehmen**: gegen etwas **Gleichwertiges oder Besseres**, Abgeben lohnt sich.\n- **Vorbeugen am Napf**: beim Vorbeigehen ein Extra-Leckerli in den Napf werfen. Menschennähe wird zur **guten Nachricht**.\n- **Situationen entschärfen** (Management): getrennt füttern, Wertobjekte wegräumen, Kinder und Hund beim Fressen trennen.\n\n> Bei **Schnappen oder Beißen**: unbedingt eine gewaltfrei arbeitende Fachperson dazuholen. Sicherheit geht vor."
     },
     {
       "id": "ex-match-begriffe",

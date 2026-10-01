@@ -1,7 +1,7 @@
 {
   "id": "03-erste-naechte-ruhe",
   "title": "Erste Nächte, Ruhe und Schlaf",
-  "description": "Welpenkurs (Teil 0): Warum Welpen enorm viel Schlaf brauchen, wie du die ersten Nächte gestaltest und Ruhe aktiv förderst — und wie du das Alleinsein sanft anbahnst.",
+  "description": "Welpenkurs (Teil 0): Warum Welpen enorm viel Schlaf brauchen, wie du die ersten Nächte gestaltest und Ruhe aktiv förderst, und wie du das Alleinsein sanft anbahnst.",
   "target_language": "de",
   "source_language": "de",
   "domain": "knowledge",
@@ -11,7 +11,7 @@
       "id": "schlafbedarf",
       "stable_id": "card-ms942loe066rm",
       "front": "Schlafbedarf",
-      "back": "Welpen brauchen sehr viel Schlaf — oft rund 18 bis 20 Stunden am Tag.",
+      "back": "Welpen brauchen sehr viel Schlaf, oft rund 18 bis 20 Stunden am Tag.",
       "notes": "Im Schlaf verarbeiten sie Eindrücke und wachsen. Zu wenig Ruhe schadet dem Lernen.",
       "media_type": "text",
       "difficulty": 2,
@@ -21,7 +21,7 @@
       "id": "ueberdrehen",
       "stable_id": "card-ms942loe067hq",
       "front": "Überdrehen",
-      "back": "Zu wenig Ruhe macht den Welpen wild, zappelig und zwickig — wie ein übermüdetes Kind.",
+      "back": "Zu wenig Ruhe macht den Welpen wild, zappelig und zwickig, wie ein übermüdetes Kind.",
       "notes": "Viele „ungezogene“ Welpen sind schlicht übermüdet. Dann hilft Ruhe, nicht mehr Action.",
       "media_type": "text",
       "difficulty": 3,
@@ -32,7 +32,7 @@
       "stable_id": "card-ms942loe068od",
       "front": "Sicherer Schlafplatz",
       "back": "Ein fester, ruhiger Platz, an dem der Welpe ungestört schlafen kann.",
-      "notes": "Ein Rückzugsort, an dem er nicht bedrängt wird — Kinder sollen ihn dort in Ruhe lassen.",
+      "notes": "Ein Rückzugsort, an dem er nicht bedrängt wird, Kinder sollen ihn dort in Ruhe lassen.",
       "media_type": "text",
       "difficulty": 1,
       "tags": ["welpe"]
@@ -52,7 +52,7 @@
       "stable_id": "card-ms942loe06avh",
       "front": "Ruhe aktiv fördern",
       "back": "Ruhe gehört ins Programm: bewusst Pausen anbieten, nicht nur Beschäftigung.",
-      "notes": "Ein Welpe kann noch nicht gut selbst herunterfahren — du hilfst ihm dabei.",
+      "notes": "Ein Welpe kann noch nicht gut selbst herunterfahren, du hilfst ihm dabei.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["methode"]
@@ -62,7 +62,7 @@
       "stable_id": "card-ms942loe06bp0",
       "front": "Alleinsein anbahnen",
       "back": "Ganz sanft üben, dass der Welpe auch mal kurz und entspannt allein bleibt.",
-      "notes": "Die Basis für das spätere Alleinbleiben (Aufbaukurs, Teil 2) — in winzigen Schritten.",
+      "notes": "Die Basis für das spätere Alleinbleiben (Aufbaukurs, Teil 2) - in winzigen Schritten.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["methode"]
@@ -73,13 +73,13 @@
       "id": "intro",
       "type": "theory",
       "title": "Schlaf ist kein Luxus",
-      "body": "# Erste Nächte, Ruhe und Schlaf\n\nWelpen brauchen **enorm viel Schlaf** — oft **18 bis 20 Stunden** am Tag. Im Schlaf verarbeiten sie Eindrücke, wachsen und lernen. Fehlt die Ruhe, **überdrehen** sie: Sie werden wild, zappelig und zwickig, ganz wie ein übermüdetes Kind.\n\nDas ist eine der wichtigsten Erkenntnisse für neue Welpenbesitzer:\n\n> Viele „ungezogene“ Welpen sind einfach **übermüdet**. Dann hilft **Ruhe**, nicht noch mehr Beschäftigung.\n\nEin **sicherer Schlafplatz**, an dem er ungestört ist, gehört deshalb zum Wichtigsten im neuen Zuhause."
+      "body": "# Erste Nächte, Ruhe und Schlaf\n\nWelpen brauchen **enorm viel Schlaf**, oft **18 bis 20 Stunden** am Tag. Im Schlaf verarbeiten sie Eindrücke, wachsen und lernen. Fehlt die Ruhe, **überdrehen** sie: Sie werden wild, zappelig und zwickig, ganz wie ein übermüdetes Kind.\n\nDas ist eine der wichtigsten Erkenntnisse für neue Welpenbesitzer:\n\n> Viele „ungezogene“ Welpen sind einfach **übermüdet**. Dann hilft **Ruhe**, nicht noch mehr Beschäftigung.\n\nEin **sicherer Schlafplatz**, an dem er ungestört ist, gehört deshalb zum Wichtigsten im neuen Zuhause."
     },
     {
       "id": "step-naechte",
       "type": "theory",
       "title": "Die ersten Nächte und das Alleinsein",
-      "body": "## Ankommen und Runterfahren\n\nDer Welpe kommt gerade von Mutter und Geschwistern. In den **ersten Nächten** schläft er am ruhigsten **nah bei dir** — etwa im Körbchen neben dem Bett. Das senkt Stress und nächtliches Jammern.\n\nZwei Dinge helfen im Alltag:\n\n- **Ruhe aktiv fördern**: Biete bewusst Pausen an; ein Welpe kann noch nicht gut allein herunterfahren.\n- **Alleinsein sanft anbahnen**: Übe in **winzigen** Schritten, dass er auch mal kurz entspannt allein bleibt — die Basis fürs spätere Alleinbleiben (Teil 2)."
+      "body": "## Ankommen und Runterfahren\n\nDer Welpe kommt gerade von Mutter und Geschwistern. In den **ersten Nächten** schläft er am ruhigsten **nah bei dir**, etwa im Körbchen neben dem Bett. Das senkt Stress und nächtliches Jammern.\n\nZwei Dinge helfen im Alltag:\n\n- **Ruhe aktiv fördern**: Biete bewusst Pausen an; ein Welpe kann noch nicht gut allein herunterfahren.\n- **Alleinsein sanft anbahnen**: Übe in **winzigen** Schritten, dass er auch mal kurz entspannt allein bleibt, die Basis fürs spätere Alleinbleiben (Teil 2)."
     },
     {
       "id": "ex-match-begriffe",
@@ -134,7 +134,7 @@
         "type": "cloze",
         "prompt": "Ergänze den Satz.",
         "card_ids": ["schlafbedarf"],
-        "sentence": "Ein Welpe braucht sehr viel ___ — oft 18 bis 20 Stunden am Tag.",
+        "sentence": "Ein Welpe braucht sehr viel ___, oft 18 bis 20 Stunden am Tag.",
         "blanks": [{"accept": ["Schlaf", "schlaf", "Ruhe"]}],
         "cloze_mode": "type",
         "hint": "Das, was ihm bei Übermüdung fehlt.",

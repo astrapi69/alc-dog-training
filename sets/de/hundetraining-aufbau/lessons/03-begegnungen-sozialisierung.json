@@ -1,7 +1,7 @@
 {
   "id": "03-begegnungen-sozialisierung",
   "title": "Begegnungen und Sozialisierung",
-  "description": "Aufbaukurs Teil 2: Wie dein Hund anderen Hunden, Menschen und Reizen entspannt begegnet — mit positiven Verknüpfungen, genug Distanz und dem Lesen von Beschwichtigungssignalen.",
+  "description": "Aufbaukurs Teil 2: Wie dein Hund anderen Hunden, Menschen und Reizen entspannt begegnet, mit positiven Verknüpfungen, genug Distanz und dem Lesen von Beschwichtigungssignalen.",
   "target_language": "de",
   "source_language": "de",
   "domain": "knowledge",
@@ -83,13 +83,13 @@
       "id": "intro",
       "type": "theory",
       "title": "Gelassen durch die Welt",
-      "body": "# Sozialisierung\n\n**Sozialisierung** heißt: Dein Hund macht **positive Erfahrungen** mit Menschen, Tieren und Umweltreizen und wird dadurch gelassen. Besonders prägend ist die **Sozialisierungsphase** im Welpenalter (etwa 3.–14. Woche) — aber auch danach übst du weiter.\n\nDie zwei Werkzeuge:\n\n- **Positive Verknüpfung** — verbinde einen neuen Reiz (Fahrrad, Kind, Hund) mit etwas Gutem, z. B. einem Leckerli.\n- **Überforderung vermeiden** — lieber wenige, gut verkraftbare Eindrücke als ein Reizgewitter.\n\n> Qualität vor Quantität: Ein überfordertes Tier lernt Angst, kein entspanntes Verhalten."
+      "body": "# Sozialisierung\n\n**Sozialisierung** heißt: Dein Hund macht **positive Erfahrungen** mit Menschen, Tieren und Umweltreizen und wird dadurch gelassen. Besonders prägend ist die **Sozialisierungsphase** im Welpenalter (etwa 3.–14. Woche) - aber auch danach übst du weiter.\n\nDie zwei Werkzeuge:\n\n- **Positive Verknüpfung**: verbinde einen neuen Reiz (Fahrrad, Kind, Hund) mit etwas Gutem, z. B. einem Leckerli.\n- **Überforderung vermeiden**: lieber wenige, gut verkraftbare Eindrücke als ein Reizgewitter.\n\n> Qualität vor Quantität: Ein überfordertes Tier lernt Angst, kein entspanntes Verhalten."
     },
     {
       "id": "step-begegnung",
       "type": "theory",
       "title": "Höfliche Hundebegegnungen",
-      "body": "## Wenn ein anderer Hund kommt\n\nHunde begrüßen sich **nicht** frontal. Für entspannte Begegnungen hilft:\n\n- **Im Bogen vorbeigehen** statt geradewegs aufeinander zu.\n- **Genug Distanz wahren**, damit dein Hund ansprechbar bleibt.\n- **Beschwichtigungssignale lesen**: Gähnen, Schnüffeln, Kopf abwenden, langsames Gehen — sie zeigen „alles friedlich“ oder erstes Unbehagen.\n\nSo bleiben Begegnungen unter der Reizschwelle und enden gut."
+      "body": "## Wenn ein anderer Hund kommt\n\nHunde begrüßen sich **nicht** frontal. Für entspannte Begegnungen hilft:\n\n- **Im Bogen vorbeigehen** statt geradewegs aufeinander zu.\n- **Genug Distanz wahren**, damit dein Hund ansprechbar bleibt.\n- **Beschwichtigungssignale lesen**: Gähnen, Schnüffeln, Kopf abwenden, langsames Gehen, sie zeigen „alles friedlich“ oder erstes Unbehagen.\n\nSo bleiben Begegnungen unter der Reizschwelle und enden gut."
     },
     {
       "id": "ex-match-begriffe",

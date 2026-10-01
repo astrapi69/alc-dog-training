@@ -21,7 +21,7 @@
       "id": "warum-maulkorb",
       "stable_id": "card-ms942lo700fze",
       "front": "Wozu ein Maulkorb?",
-      "back": "Für Tierarzt, öffentliche Verkehrsmittel, Auslandsreisen, Sicherheit und Antijagd — nicht als Strafe.",
+      "back": "Für Tierarzt, öffentliche Verkehrsmittel, Auslandsreisen, Sicherheit und Antijagd, nicht als Strafe.",
       "notes": "In vielen Bahnen gilt Maulkorbpflicht. Ein entspannt tragender Hund ist in vielen Lagen im Vorteil.",
       "media_type": "text",
       "difficulty": 2,
@@ -41,7 +41,7 @@
       "id": "gewoehnung",
       "stable_id": "card-ms942lo700hnt",
       "front": "Schrittweise Gewöhnung",
-      "back": "Den Maulkorb in vielen kleinen Schritten aufbauen — niemals einfach überstülpen.",
+      "back": "Den Maulkorb in vielen kleinen Schritten aufbauen, niemals einfach überstülpen.",
       "notes": "Vom bloßen Anschauen über Nase-Reinstecken bis zum kurzen Schließen: jeder Schritt für sich.",
       "media_type": "text",
       "difficulty": 3,
@@ -61,7 +61,7 @@
       "id": "tragedauer",
       "stable_id": "card-ms942lo700jb1",
       "front": "Tragedauer",
-      "back": "Erst wenige Sekunden, dann langsam länger — immer im entspannten Bereich.",
+      "back": "Erst wenige Sekunden, dann langsam länger, immer im entspannten Bereich.",
       "notes": "Lieber oft ganz kurz als einmal zu lang. Kratzt der Hund am Korb, war der Schritt zu groß.",
       "media_type": "text",
       "difficulty": 2,
@@ -73,13 +73,13 @@
       "id": "intro",
       "type": "theory",
       "title": "Maulkorb ist keine Strafe",
-      "body": "# Maulkorbtraining\n\nEin Maulkorb ist ein **Werkzeug**, keine Strafe. Es gibt viele Situationen, in denen er nützt oder vorgeschrieben ist:\n\n- **Tierarzt** und schmerzhafte Behandlungen\n- **öffentliche Verkehrsmittel** (oft Maulkorbpflicht)\n- **Auslandsreisen** und bestimmte Rassen/Regionen\n- **Antijagd** (kein Aufnehmen von Ködern oder Aas)\n\nDeshalb sollte **jeder** Hund einen Maulkorb entspannt tragen können — am besten geübt, **bevor** man ihn dringend braucht.\n\n> Das Wichtigste ist die **Passform**: Der Hund muss frei **hecheln**, trinken und Leckerli nehmen können."
+      "body": "# Maulkorbtraining\n\nEin Maulkorb ist ein **Werkzeug**, keine Strafe. Es gibt viele Situationen, in denen er nützt oder vorgeschrieben ist:\n\n- **Tierarzt** und schmerzhafte Behandlungen\n- **öffentliche Verkehrsmittel** (oft Maulkorbpflicht)\n- **Auslandsreisen** und bestimmte Rassen/Regionen\n- **Antijagd** (kein Aufnehmen von Ködern oder Aas)\n\nDeshalb sollte **jeder** Hund einen Maulkorb entspannt tragen können, am besten geübt, **bevor** man ihn dringend braucht.\n\n> Das Wichtigste ist die **Passform**: Der Hund muss frei **hecheln**, trinken und Leckerli nehmen können."
     },
     {
       "id": "step-aufbau",
       "type": "theory",
       "title": "In kleinen Schritten gewöhnen",
-      "body": "## So baust du es auf\n\nNie einfach überstülpen — **schrittweise Gewöhnung** über **positive Verknüpfung**:\n\n1. Maulkorb zeigen, Leckerli — der Korb kündigt Gutes an.\n2. Der Hund steckt die **Nase selbst** hinein, um an ein Leckerli zu kommen.\n3. Nase drin lassen, dabei füttern (Leckerli durch das Gitter).\n4. Riemen kurz schließen, sofort füttern, wieder öffnen.\n5. **Tragedauer** langsam steigern — erst Sekunden, dann Minuten.\n\nKratzt der Hund am Korb oder will ihn abstreifen, war der letzte Schritt zu groß: **einen zurück**."
+      "body": "## So baust du es auf\n\nNie einfach überstülpen, **schrittweise Gewöhnung** über **positive Verknüpfung**:\n\n1. Maulkorb zeigen, Leckerli, der Korb kündigt Gutes an.\n2. Der Hund steckt die **Nase selbst** hinein, um an ein Leckerli zu kommen.\n3. Nase drin lassen, dabei füttern (Leckerli durch das Gitter).\n4. Riemen kurz schließen, sofort füttern, wieder öffnen.\n5. **Tragedauer** langsam steigern, erst Sekunden, dann Minuten.\n\nKratzt der Hund am Korb oder will ihn abstreifen, war der letzte Schritt zu groß: **einen zurück**."
     },
     {
       "id": "ex-match-begriffe",

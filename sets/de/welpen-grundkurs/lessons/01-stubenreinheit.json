@@ -1,7 +1,7 @@
 {
   "id": "01-stubenreinheit",
   "title": "Stubenreinheit",
-  "description": "Welpenkurs (Teil 0): Wie dein Welpe lernt, sich draußen zu lösen — mit gutem Timing, Loben am richtigen Ort, einem Lösewort und ganz ohne Schimpfen bei Missgeschicken.",
+  "description": "Welpenkurs (Teil 0): Wie dein Welpe lernt, sich draußen zu lösen, mit gutem Timing, Loben am richtigen Ort, einem Lösewort und ganz ohne Schimpfen bei Missgeschicken.",
   "target_language": "de",
   "source_language": "de",
   "domain": "knowledge",
@@ -12,7 +12,7 @@
       "stable_id": "card-ms942lod05hhm",
       "front": "Stubenreinheit",
       "back": "Der Welpe lernt, sich draußen zu lösen statt in der Wohnung.",
-      "notes": "Braucht vor allem Geduld und gutes Timing — ein junger Welpe kann noch nicht lange einhalten.",
+      "notes": "Braucht vor allem Geduld und gutes Timing, ein junger Welpe kann noch nicht lange einhalten.",
       "media_type": "text",
       "difficulty": 1,
       "tags": ["welpe"]
@@ -32,7 +32,7 @@
       "stable_id": "card-ms942lod05jxw",
       "front": "Draußen loben",
       "back": "Direkt beim Lösen im Freien ruhig loben und belohnen.",
-      "notes": "Das Lob kommt, während er sich löst oder unmittelbar danach — nicht erst zu Hause.",
+      "notes": "Das Lob kommt, während er sich löst oder unmittelbar danach, nicht erst zu Hause.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["welpe"]
@@ -52,7 +52,7 @@
       "stable_id": "card-ms942lod05lzl",
       "front": "Nicht schimpfen",
       "back": "Missgeschicke in der Wohnung wortlos wegwischen, nie bestrafen.",
-      "notes": "Strafe macht den Welpen nur heimlich — er lernt, sich zu verstecken, nicht sauberer zu werden.",
+      "notes": "Strafe macht den Welpen nur heimlich, er lernt, sich zu verstecken, nicht sauberer zu werden.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["welpe"]
@@ -61,7 +61,7 @@
       "id": "anzeichen-lesen",
       "stable_id": "card-ms942lod05mon",
       "front": "Anzeichen erkennen",
-      "back": "Schnüffeln, Kreiseln oder plötzliche Unruhe — dann sofort nach draußen.",
+      "back": "Schnüffeln, Kreiseln oder plötzliche Unruhe, dann sofort nach draußen.",
       "notes": "Wer die Anzeichen früh liest, kommt dem Missgeschick zuvor.",
       "media_type": "text",
       "difficulty": 2,
@@ -83,13 +83,13 @@
       "id": "intro",
       "type": "theory",
       "title": "Sauber wird man mit Timing",
-      "body": "# Stubenreinheit\n\nStubenreinheit ist keine Frage von Strenge, sondern von **Timing** und **Geduld**. Ein kleiner Welpe kann seine Blase noch nicht lange kontrollieren — deine Aufgabe ist, ihn im **richtigen Moment** nach draußen zu bringen.\n\nBring ihn sofort raus:\n\n- nach dem **Schlafen**\n- nach dem **Fressen** und **Trinken**\n- nach dem **Spielen**\n- und immer, wenn du **Anzeichen** siehst: Schnüffeln, Kreiseln, Unruhe.\n\nLöst er sich draußen, wird **direkt dort** ruhig gelobt. So verknüpft er: „Draußen lösen lohnt sich.“"
+      "body": "# Stubenreinheit\n\nStubenreinheit ist keine Frage von Strenge, sondern von **Timing** und **Geduld**. Ein kleiner Welpe kann seine Blase noch nicht lange kontrollieren, deine Aufgabe ist, ihn im **richtigen Moment** nach draußen zu bringen.\n\nBring ihn sofort raus:\n\n- nach dem **Schlafen**\n- nach dem **Fressen** und **Trinken**\n- nach dem **Spielen**\n- und immer, wenn du **Anzeichen** siehst: Schnüffeln, Kreiseln, Unruhe.\n\nLöst er sich draußen, wird **direkt dort** ruhig gelobt. So verknüpft er: „Draußen lösen lohnt sich.“"
     },
     {
       "id": "step-fehler",
       "type": "theory",
       "title": "Missgeschicke richtig behandeln",
-      "body": "## Wenn doch mal etwas danebengeht\n\nMissgeschicke gehören dazu. Entscheidend ist, wie du reagierst:\n\n- **Nicht schimpfen**, nicht mit der Nase hinein — das wischst du nur **wortlos** weg.\n- Strafe bringt dem Welpen nur bei, sich **heimlich** zu lösen, nicht, sauberer zu werden.\n- Nachts musst du ihn anfangs noch **einmal rausbringen** — die Blase wächst erst mit den Wochen.\n\nOptional hilft ein **Lösewort** wie „Mach schnell“: sag es leise, während er sich löst. Mit der Zeit löst er sich auf dieses Signal hin — praktisch bei Regen oder unterwegs."
+      "body": "## Wenn doch mal etwas danebengeht\n\nMissgeschicke gehören dazu. Entscheidend ist, wie du reagierst:\n\n- **Nicht schimpfen**, nicht mit der Nase hinein, das wischst du nur **wortlos** weg.\n- Strafe bringt dem Welpen nur bei, sich **heimlich** zu lösen, nicht, sauberer zu werden.\n- Nachts musst du ihn anfangs noch **einmal rausbringen**, die Blase wächst erst mit den Wochen.\n\nOptional hilft ein **Lösewort** wie „Mach schnell“: sag es leise, während er sich löst. Mit der Zeit löst er sich auf dieses Signal hin, praktisch bei Regen oder unterwegs."
     },
     {
       "id": "ex-match-begriffe",

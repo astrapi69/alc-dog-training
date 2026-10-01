@@ -1,7 +1,7 @@
 {
   "id": "03-frust-uebererregung",
   "title": "Frust und Übererregung",
-  "description": "Teil 4 (B2): Wie du Übererregung erkennst und deinem Hund hilfst, runterzufahren — mit Frusttoleranz, Pausen, Alternativverhalten und dem Blick auf Trigger-Stacking und Ansprechbarkeit.",
+  "description": "Teil 4 (B2): Wie du Übererregung erkennst und deinem Hund hilfst, runterzufahren, mit Frusttoleranz, Pausen, Alternativverhalten und dem Blick auf Trigger-Stacking und Ansprechbarkeit.",
   "target_language": "de",
   "source_language": "de",
   "domain": "knowledge",
@@ -32,7 +32,7 @@
       "stable_id": "card-ms942loc04t21",
       "front": "Trigger-Stacking",
       "back": "Mehrere Reize summieren sich; nach viel Aufregung ist die Schwelle deutlich niedriger.",
-      "notes": "Erklärt, warum ein Hund „aus dem Nichts“ überreagiert — der Tag war schon voll.",
+      "notes": "Erklärt, warum ein Hund „aus dem Nichts“ überreagiert, der Tag war schon voll.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["verhalten"]
@@ -72,7 +72,7 @@
       "stable_id": "card-ms942loc04x7u",
       "front": "Ansprechbarkeit lesen",
       "back": "Erkennen, ob der Hund noch reagiert oder schon „taub“ vor Erregung ist.",
-      "notes": "Hört er nicht mehr, ist Üben sinnlos — dann erst Abstand und Runterfahren.",
+      "notes": "Hört er nicht mehr, ist Üben sinnlos, dann erst Abstand und Runterfahren.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["methode"]
@@ -83,13 +83,13 @@
       "id": "intro",
       "type": "theory",
       "title": "Zu aufgedreht zum Denken",
-      "body": "# Frust und Übererregung\n\n**Übererregung** heißt: Der Hund ist so aufgedreht, dass er kaum noch **denken oder hören** kann. Das sieht wie Ungehorsam aus, ist aber ein **Zustand**, kein Trotz — in dem Moment ist Üben zwecklos.\n\nZwei Konzepte helfen beim Verstehen:\n\n- **Frusttoleranz**: die Fähigkeit zu **warten**, ohne auszurasten (baut auf der Impulskontrolle aus Teil 2 auf).\n- **Trigger-Stacking**: Reize **summieren** sich. Nach einem aufregenden Tag ist die Schwelle niedriger — so kommt es „aus dem Nichts“ zur Überreaktion.\n\n> Erste Frage immer: Ist mein Hund gerade überhaupt noch **ansprechbar**?"
+      "body": "# Frust und Übererregung\n\n**Übererregung** heißt: Der Hund ist so aufgedreht, dass er kaum noch **denken oder hören** kann. Das sieht wie Ungehorsam aus, ist aber ein **Zustand**, kein Trotz, in dem Moment ist Üben zwecklos.\n\nZwei Konzepte helfen beim Verstehen:\n\n- **Frusttoleranz**: die Fähigkeit zu **warten**, ohne auszurasten (baut auf der Impulskontrolle aus Teil 2 auf).\n- **Trigger-Stacking**: Reize **summieren** sich. Nach einem aufregenden Tag ist die Schwelle niedriger, so kommt es „aus dem Nichts“ zur Überreaktion.\n\n> Erste Frage immer: Ist mein Hund gerade überhaupt noch **ansprechbar**?"
     },
     {
       "id": "step-runter",
       "type": "theory",
       "title": "Wieder runterkommen",
-      "body": "## Vom Hoch zurück zur Ruhe\n\nIst der Hund überdreht, hilft kein „mehr Kommando“, sondern:\n\n- **Aktiv runterfahren**: Ruhe und Entspannung anbieten — Schnüffeln, Kauen, ein ruhiger Platz.\n- **Alternativverhalten anbieten**: ein ruhiges Ersatzverhalten, das mit dem Aufdrehen unvereinbar ist (z. B. eine Nasenübung statt Bellen).\n- **Bewusste Pausen**: Ruhe aktiv einplanen, nicht jedes Hoch mit noch mehr Action beantworten.\n\nUnd immer die **Ansprechbarkeit** lesen: Hört der Hund nicht mehr, zuerst Abstand und Runterfahren — dann erst wieder üben."
+      "body": "## Vom Hoch zurück zur Ruhe\n\nIst der Hund überdreht, hilft kein „mehr Kommando“, sondern:\n\n- **Aktiv runterfahren**: Ruhe und Entspannung anbieten, Schnüffeln, Kauen, ein ruhiger Platz.\n- **Alternativverhalten anbieten**: ein ruhiges Ersatzverhalten, das mit dem Aufdrehen unvereinbar ist (z. B. eine Nasenübung statt Bellen).\n- **Bewusste Pausen**: Ruhe aktiv einplanen, nicht jedes Hoch mit noch mehr Action beantworten.\n\nUnd immer die **Ansprechbarkeit** lesen: Hört der Hund nicht mehr, zuerst Abstand und Runterfahren, dann erst wieder üben."
     },
     {
       "id": "ex-match-begriffe",

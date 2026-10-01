@@ -1,7 +1,7 @@
 {
   "id": "01-antijagdtraining",
   "title": "Antijagdtraining",
-  "description": "Teil 3 (B1): Wie du das angeborene Jagdverhalten deines Hundes in kontrollierte Bahnen lenkst — mit Abbruchsignal, Umorientierung, erlaubtem Ersatzverhalten und gutem Management.",
+  "description": "Teil 3 (B1): Wie du das angeborene Jagdverhalten deines Hundes in kontrollierte Bahnen lenkst, mit Abbruchsignal, Umorientierung, erlaubtem Ersatzverhalten und gutem Management.",
   "target_language": "de",
   "source_language": "de",
   "domain": "knowledge",
@@ -12,7 +12,7 @@
       "stable_id": "card-ms942lo6001cc",
       "front": "Jagdverhalten",
       "back": "Eine angeborene Verhaltenskette: orten, fixieren, anschleichen, hetzen, packen.",
-      "notes": "Jagen ist selbstbelohnend — der Ablauf macht dem Hund von sich aus Spaß, ganz ohne Beute.",
+      "notes": "Jagen ist selbstbelohnend, der Ablauf macht dem Hund von sich aus Spaß, ganz ohne Beute.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["antijagd"]
@@ -22,7 +22,7 @@
       "stable_id": "card-ms942lo6002m0",
       "front": "Abbruchsignal",
       "back": "Ein Signal, das ein laufendes Verhalten unterbricht, bevor der Hund in die Jagd kippt.",
-      "notes": "Positiv aufgebaut und geübt, wenn der Hund noch ansprechbar ist — nicht erst in voller Erregung.",
+      "notes": "Positiv aufgebaut und geübt, wenn der Hund noch ansprechbar ist, nicht erst in voller Erregung.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["antijagd"]
@@ -32,7 +32,7 @@
       "stable_id": "card-ms942lo600305",
       "front": "Umorientierung",
       "back": "Der Hund wendet sich bei einem Reiz zu dir statt zum Wild.",
-      "notes": "Wird als Reflex aufgebaut: Reiz sehen führt zu Blick zum Halter — und wird belohnt.",
+      "notes": "Wird als Reflex aufgebaut: Reiz sehen führt zu Blick zum Halter, und wird belohnt.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["antijagd"]
@@ -42,7 +42,7 @@
       "stable_id": "card-ms942lo6004ky",
       "front": "Alternativverhalten",
       "back": "Ein erlaubtes Ersatzverhalten, das der Hund statt des Jagens zeigen darf.",
-      "notes": "Zum Beispiel Sitz, Blickkontakt oder ein Zurückkommen — etwas, das mit dem Jagen unvereinbar ist.",
+      "notes": "Zum Beispiel Sitz, Blickkontakt oder ein Zurückkommen, etwas, das mit dem Jagen unvereinbar ist.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["antijagd"]
@@ -52,7 +52,7 @@
       "stable_id": "card-ms942lo60059g",
       "front": "Kontrolliertes Ausleben",
       "back": "Das Jagdbedürfnis in erlaubten Spielen befriedigen: Reizangel, Futterdummy, Suchspiele.",
-      "notes": "Der Trieb verschwindet nicht — man gibt ihm ein legales Ventil unter deiner Kontrolle.",
+      "notes": "Der Trieb verschwindet nicht, man gibt ihm ein legales Ventil unter deiner Kontrolle.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["antijagd"]
@@ -83,13 +83,13 @@
       "id": "intro",
       "type": "theory",
       "title": "Warum Jagen so schwer abzustellen ist",
-      "body": "# Antijagdtraining\n\n**Jagdverhalten** ist eine angeborene **Verhaltenskette**: orten → fixieren → anschleichen → hetzen → packen. Das Tückische: Jagen ist **selbstbelohnend**. Jeder gelungene Hetzlauf macht das Verhalten stärker — ganz ohne, dass der Hund je Beute macht.\n\nDeshalb steht am Anfang das **Management**: eine **Schleppleine** verhindert, dass dein Hund das Jagen überhaupt üben kann. Denn was er nie erfolgreich tut, festigt sich auch nicht.\n\n> Ziel ist nicht, den Trieb zu löschen — das geht nicht. Ziel ist, ihn **kontrolliert** zu lenken."
+      "body": "# Antijagdtraining\n\n**Jagdverhalten** ist eine angeborene **Verhaltenskette**: orten → fixieren → anschleichen → hetzen → packen. Das Tückische: Jagen ist **selbstbelohnend**. Jeder gelungene Hetzlauf macht das Verhalten stärker, ganz ohne, dass der Hund je Beute macht.\n\nDeshalb steht am Anfang das **Management**: eine **Schleppleine** verhindert, dass dein Hund das Jagen überhaupt üben kann. Denn was er nie erfolgreich tut, festigt sich auch nicht.\n\n> Ziel ist nicht, den Trieb zu löschen, das geht nicht. Ziel ist, ihn **kontrolliert** zu lenken."
     },
     {
       "id": "step-werkzeuge",
       "type": "theory",
       "title": "Die Werkzeuge",
-      "body": "## So lenkst du den Trieb\n\nDrei Bausteine greifen ineinander:\n\n- **Vorzeichen lesen** — Fixieren, gespitzte Ohren, Erstarren früh erkennen und eingreifen, **bevor** der Hund in die Kette kippt.\n- **Umorientierung** — der Hund lernt, sich beim Reiz **zu dir** zu drehen; das wird belohnt.\n- **Abbruchsignal** — unterbricht ein laufendes Verhalten; danach folgt ein **Alternativverhalten** (Sitz, Blickkontakt, Rückruf).\n\nUnd damit der Trieb ein Ventil hat: **kontrolliertes Ausleben** über Reizangel, Futterdummy oder Suchspiele.\n\n> Je früher in der Kette du eingreifst, desto leichter ist dein Hund noch ansprechbar."
+      "body": "## So lenkst du den Trieb\n\nDrei Bausteine greifen ineinander:\n\n- **Vorzeichen lesen**: Fixieren, gespitzte Ohren, Erstarren früh erkennen und eingreifen, **bevor** der Hund in die Kette kippt.\n- **Umorientierung**: der Hund lernt, sich beim Reiz **zu dir** zu drehen; das wird belohnt.\n- **Abbruchsignal**: unterbricht ein laufendes Verhalten; danach folgt ein **Alternativverhalten** (Sitz, Blickkontakt, Rückruf).\n\nUnd damit der Trieb ein Ventil hat: **kontrolliertes Ausleben** über Reizangel, Futterdummy oder Suchspiele.\n\n> Je früher in der Kette du eingreifst, desto leichter ist dein Hund noch ansprechbar."
     },
     {
       "id": "ex-match-begriffe",
@@ -162,7 +162,7 @@
         "prompt": "Wie nennt man es, wenn der Hund sich bei einem Reiz zu dir dreht statt zum Wild?",
         "card_ids": ["umorientierung"],
         "accept": ["Umorientierung", "die Umorientierung", "umorientierung", "Umorientieren", "umorientieren"],
-        "hint": "Er orientiert sich neu — weg vom Reiz, hin zu dir.",
+        "hint": "Er orientiert sich neu, weg vom Reiz, hin zu dir.",
         "distractors": ["Abbruchsignal", "Management", "Fixieren"],
         "direction": "target_to_source"
       }
