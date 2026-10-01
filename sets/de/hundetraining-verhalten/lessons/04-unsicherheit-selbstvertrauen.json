@@ -1,7 +1,7 @@
 {
   "id": "04-unsicherheit-selbstvertrauen",
   "title": "Unsicherheit und Selbstvertrauen aufbauen",
-  "description": "Teil 4 (B2): Wie du einem unsicheren Hund zu mehr Selbstvertrauen verhilfst — mit Vorhersehbarkeit, Wahlmöglichkeit, Erfolgserlebnissen, Konfidenz-Spielen und positiver Gegenkonditionierung.",
+  "description": "Teil 4 (B2): Wie du einem unsicheren Hund zu mehr Selbstvertrauen verhilfst, mit Vorhersehbarkeit, Wahlmöglichkeit, Erfolgserlebnissen, Konfidenz-Spielen und positiver Gegenkonditionierung.",
   "target_language": "de",
   "source_language": "de",
   "domain": "knowledge",
@@ -31,7 +31,7 @@
       "id": "wahlmoeglichkeit",
       "stable_id": "card-ms942lod056qe",
       "front": "Wahlmöglichkeit lassen",
-      "back": "Den Hund selbst entscheiden lassen, ob er sich annähert — Zwang untergräbt Vertrauen.",
+      "back": "Den Hund selbst entscheiden lassen, ob er sich annähert, Zwang untergräbt Vertrauen.",
       "notes": "Die Erfahrung „Ich darf gehen“ macht mutiger als jedes Hinschieben.",
       "media_type": "text",
       "difficulty": 3,
@@ -52,7 +52,7 @@
       "stable_id": "card-ms942lod058f2",
       "front": "Konfidenz-Spiele",
       "back": "Suchspiele, Targets und einfache Tricks, die Mut und Eigeninitiative fördern.",
-      "notes": "Zum Beispiel über Gegenstände steigen oder eine Box erkunden — freiwillig und belohnt.",
+      "notes": "Zum Beispiel über Gegenstände steigen oder eine Box erkunden, freiwillig und belohnt.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["methode"]
@@ -83,13 +83,13 @@
       "id": "intro",
       "type": "theory",
       "title": "Mut kann man üben",
-      "body": "# Unsicherheit und Selbstvertrauen\n\nEin **unsicherer** Hund reagiert zögerlich oder ängstlich auf Neues und traut sich wenig zu. Die gute Nachricht: **Selbstvertrauen ist trainierbar** — durch viele kleine, gute Erfahrungen.\n\nZwei Fundamente:\n\n- **Vorhersehbarkeit**: klare Routinen und verlässliche Signale geben Halt. Wer weiß, was kommt, hat weniger Angst.\n- **Wahlmöglichkeit lassen**: Der Hund entscheidet **selbst**, ob er sich annähert. Die Erfahrung „Ich darf gehen“ macht mutiger als jedes Hinschieben.\n\n> Deshalb gilt durchgehend: **kein Zwang**. Fortschritt immer im Tempo des Hundes."
+      "body": "# Unsicherheit und Selbstvertrauen\n\nEin **unsicherer** Hund reagiert zögerlich oder ängstlich auf Neues und traut sich wenig zu. Die gute Nachricht: **Selbstvertrauen ist trainierbar**, durch viele kleine, gute Erfahrungen.\n\nZwei Fundamente:\n\n- **Vorhersehbarkeit**: klare Routinen und verlässliche Signale geben Halt. Wer weiß, was kommt, hat weniger Angst.\n- **Wahlmöglichkeit lassen**: Der Hund entscheidet **selbst**, ob er sich annähert. Die Erfahrung „Ich darf gehen“ macht mutiger als jedes Hinschieben.\n\n> Deshalb gilt durchgehend: **kein Zwang**. Fortschritt immer im Tempo des Hundes."
     },
     {
       "id": "step-aufbau",
       "type": "theory",
       "title": "Erfolge und Spiele",
-      "body": "## Selbstvertrauen wächst mit dem Gelingen\n\nMut baust du über **Erfolge** auf:\n\n- **Erfolgserlebnisse schaffen**: kleine, lösbare Aufgaben, die gelingen und belohnt werden. Jedes gelöste Rätsel sagt: „Ich kann etwas bewirken.“\n- **Konfidenz-Spiele**: Suchspiele, Targets, einfache Tricks — über einen Gegenstand steigen, eine Box erkunden, freiwillig und belohnt.\n- **Positive Gegenkonditionierung**: beängstigende Reize aus **sicherer Distanz** mit etwas Gutem verknüpfen (wie im Welpen-Spezial).\n\nSo wird aus einem zögerlichen Hund Schritt für Schritt ein gelassener."
+      "body": "## Selbstvertrauen wächst mit dem Gelingen\n\nMut baust du über **Erfolge** auf:\n\n- **Erfolgserlebnisse schaffen**: kleine, lösbare Aufgaben, die gelingen und belohnt werden. Jedes gelöste Rätsel sagt: „Ich kann etwas bewirken.“\n- **Konfidenz-Spiele**: Suchspiele, Targets, einfache Tricks, über einen Gegenstand steigen, eine Box erkunden, freiwillig und belohnt.\n- **Positive Gegenkonditionierung**: beängstigende Reize aus **sicherer Distanz** mit etwas Gutem verknüpfen (wie im Welpen-Spezial).\n\nSo wird aus einem zögerlichen Hund Schritt für Schritt ein gelassener."
     },
     {
       "id": "ex-match-begriffe",

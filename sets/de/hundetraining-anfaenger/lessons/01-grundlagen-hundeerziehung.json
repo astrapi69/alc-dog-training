@@ -93,13 +93,13 @@
       "id": "intro",
       "type": "theory",
       "title": "Wie Hunde lernen",
-      "body": "# Grundlagen der Hundeerziehung\n\nHunde lernen am besten über **positive Verstärkung**: Was sich lohnt, wird wiederholt. Statt den Hund für Fehler zu bestrafen, belohnst du das **richtige** Verhalten.\n\nVier Dinge machen das Training erfolgreich:\n\n- **Timing** — belohne im Moment des richtigen Verhaltens.\n- **Markersignal** — ein Klick oder ein Wort wie „Fein“ markiert genau diesen Moment.\n- **Belohnung** — Leckerli, Spielzeug oder Lob, je nachdem, was dein Hund liebt.\n- **Konsequenz** — dieselben Regeln und Signale, jeden Tag.\n\nÜbe lieber **mehrmals kurz** als einmal lang. Fünf gute Minuten sind mehr wert als zwanzig frustige."
+      "body": "# Grundlagen der Hundeerziehung\n\nHunde lernen am besten über **positive Verstärkung**: Was sich lohnt, wird wiederholt. Statt den Hund für Fehler zu bestrafen, belohnst du das **richtige** Verhalten.\n\nVier Dinge machen das Training erfolgreich:\n\n- **Timing**: belohne im Moment des richtigen Verhaltens.\n- **Markersignal**: ein Klick oder ein Wort wie „Fein“ markiert genau diesen Moment.\n- **Belohnung**: Leckerli, Spielzeug oder Lob, je nachdem, was dein Hund liebt.\n- **Konsequenz**: dieselben Regeln und Signale, jeden Tag.\n\nÜbe lieber **mehrmals kurz** als einmal lang. Fünf gute Minuten sind mehr wert als zwanzig frustige."
     },
     {
       "id": "step-marker",
       "type": "theory",
       "title": "Marker und Belohnung",
-      "body": "## Der Ablauf: markieren, dann belohnen\n\nEin **Markersignal** sagt dem Hund: „Genau das war richtig, gleich kommt die Belohnung.“\n\n1. Der Hund zeigt das richtige Verhalten (z. B. setzt sich).\n2. Du markierst **sofort** (Klick oder „Fein“).\n3. Danach folgt die **Belohnung**.\n\nSo überbrückt der Marker die kurze Zeit bis zum Leckerli — und dein **Timing** wird viel genauer. Unerwünschtes Verhalten wie Anspringen wird dagegen **ignoriert**: keine Aufmerksamkeit."
+      "body": "## Der Ablauf: markieren, dann belohnen\n\nEin **Markersignal** sagt dem Hund: „Genau das war richtig, gleich kommt die Belohnung.“\n\n1. Der Hund zeigt das richtige Verhalten (z. B. setzt sich).\n2. Du markierst **sofort** (Klick oder „Fein“).\n3. Danach folgt die **Belohnung**.\n\nSo überbrückt der Marker die kurze Zeit bis zum Leckerli, und dein **Timing** wird viel genauer. Unerwünschtes Verhalten wie Anspringen wird dagegen **ignoriert**: keine Aufmerksamkeit."
     },
     {
       "id": "ex-match-begriffe",
@@ -132,7 +132,7 @@
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff.",
         "card_ids": ["timing"],
-        "sentence": "Belohne dein Verhalten im richtigen Moment — das nennt man gutes ___ .",
+        "sentence": "Belohne dein Verhalten im richtigen Moment, das nennt man gutes ___ .",
         "blanks": [{"accept": ["Timing", "timing"]}],
         "cloze_mode": "type",
         "hint": "Ein englisches Wort für „richtiger Zeitpunkt“.",

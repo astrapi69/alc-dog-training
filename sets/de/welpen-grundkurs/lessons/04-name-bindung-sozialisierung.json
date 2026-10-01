@@ -1,7 +1,7 @@
 {
   "id": "04-name-bindung-sozialisierung",
   "title": "Name, Bindung und erste Sozialisierung",
-  "description": "Welpenkurs (Teil 0): Wie dein Welpe auf seinen Namen hört, Blickkontakt und Vertrauen aufbaut und in der sensiblen Prägezeit positive Eindrücke sammelt — inklusive frühem Handling.",
+  "description": "Welpenkurs (Teil 0): Wie dein Welpe auf seinen Namen hört, Blickkontakt und Vertrauen aufbaut und in der sensiblen Prägezeit positive Eindrücke sammelt, inklusive frühem Handling.",
   "target_language": "de",
   "source_language": "de",
   "domain": "knowledge",
@@ -12,7 +12,7 @@
       "stable_id": "card-ms942loe06ire",
       "front": "Namen aufbauen",
       "back": "Der Name wird mit etwas Gutem verknüpft: Name sagen, dann sofort belohnen, wenn der Welpe sich zuwendet.",
-      "notes": "Der Name ist kein Kommando, sondern ein „Schau mich an“ — nie zum Schimpfen benutzen.",
+      "notes": "Der Name ist kein Kommando, sondern ein „Schau mich an“, nie zum Schimpfen benutzen.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["welpe"]
@@ -21,7 +21,7 @@
       "id": "blickkontakt",
       "stable_id": "card-ms942loe06jcb",
       "front": "Blickkontakt",
-      "back": "Freiwilliges Anschauen wird belohnt — die Basis für Aufmerksamkeit und Zusammenarbeit.",
+      "back": "Freiwilliges Anschauen wird belohnt, die Basis für Aufmerksamkeit und Zusammenarbeit.",
       "notes": "Ein Welpe, der von sich aus Blickkontakt sucht, lässt sich später viel leichter führen.",
       "media_type": "text",
       "difficulty": 2,
@@ -73,13 +73,13 @@
       "id": "intro",
       "type": "theory",
       "title": "Der Name und der Blick",
-      "body": "# Name, Bindung und erste Sozialisierung\n\nZwei kleine Übungen legen das Fundament für alles Spätere:\n\n- **Namen aufbauen**: Der Name wird mit etwas **Gutem** verknüpft. Sag den Namen, und sobald der Welpe sich zu dir dreht, wird er belohnt. Der Name ist ein freundliches „Schau mich an“ — **nie** ein Schimpfwort.\n- **Blickkontakt**: Belohne freiwilliges Anschauen. Ein Welpe, der von sich aus deinen Blick sucht, lässt sich später leicht führen.\n\nBeides zusammen baut **Bindung** auf — Vertrauen durch verlässliche, freundliche Führung."
+      "body": "# Name, Bindung und erste Sozialisierung\n\nZwei kleine Übungen legen das Fundament für alles Spätere:\n\n- **Namen aufbauen**: Der Name wird mit etwas **Gutem** verknüpft. Sag den Namen, und sobald der Welpe sich zu dir dreht, wird er belohnt. Der Name ist ein freundliches „Schau mich an“, **nie** ein Schimpfwort.\n- **Blickkontakt**: Belohne freiwilliges Anschauen. Ein Welpe, der von sich aus deinen Blick sucht, lässt sich später leicht führen.\n\nBeides zusammen baut **Bindung** auf, Vertrauen durch verlässliche, freundliche Führung."
     },
     {
       "id": "step-sozial",
       "type": "theory",
       "title": "Die Prägephase nutzen",
-      "body": "## Positive Eindrücke sammeln\n\nDie **Prägephase** (etwa **3.–14. Woche**) ist eine sensible Zeit: Was der Welpe jetzt positiv erlebt, wirkt lange nach. Deshalb:\n\n- **Positive Eindrücke** in kleinen Dosen anbieten — verschiedene Menschen, Untergründe, Geräusche, ruhige Hundekontakte.\n- **Überforderung vermeiden**: Qualität vor Quantität. Ein ruhiges gutes Erlebnis schlägt zehn stressige.\n- **Frühes Handling**: Pfoten, Ohren und Maul sanft anfassen und belohnen — der Grundstein fürs spätere **Medical Training** (Teil 3).\n\nSo wächst ein Welpe zu einem gelassenen Hund heran."
+      "body": "## Positive Eindrücke sammeln\n\nDie **Prägephase** (etwa **3.–14. Woche**) ist eine sensible Zeit: Was der Welpe jetzt positiv erlebt, wirkt lange nach. Deshalb:\n\n- **Positive Eindrücke** in kleinen Dosen anbieten, verschiedene Menschen, Untergründe, Geräusche, ruhige Hundekontakte.\n- **Überforderung vermeiden**: Qualität vor Quantität. Ein ruhiges gutes Erlebnis schlägt zehn stressige.\n- **Frühes Handling**: Pfoten, Ohren und Maul sanft anfassen und belohnen, der Grundstein fürs spätere **Medical Training** (Teil 3).\n\nSo wächst ein Welpe zu einem gelassenen Hund heran."
     },
     {
       "id": "ex-match-begriffe",

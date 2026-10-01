@@ -1,7 +1,7 @@
 {
   "id": "02-alleinbleiben",
   "title": "Entspannt allein bleiben",
-  "description": "Aufbaukurs Teil 2: Wie dein Hund lernt, ruhig allein zu Hause zu bleiben — kleinschrittig, unter der Stressschwelle und mit unaufgeregten Abschieden.",
+  "description": "Aufbaukurs Teil 2: Wie dein Hund lernt, ruhig allein zu Hause zu bleiben, kleinschrittig, unter der Stressschwelle und mit unaufgeregten Abschieden.",
   "target_language": "de",
   "source_language": "de",
   "domain": "knowledge",
@@ -12,7 +12,7 @@
       "stable_id": "card-ms942loa02y51",
       "front": "Alleinbleiben",
       "back": "Der Hund bleibt entspannt allein zu Hause, ohne in Stress zu geraten.",
-      "notes": "Muss aktiv geübt werden — kein Hund kann das von allein.",
+      "notes": "Muss aktiv geübt werden, kein Hund kann das von allein.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["alltag"]
@@ -41,7 +41,7 @@
       "id": "kleinschrittig",
       "stable_id": "card-ms942loa031ff",
       "front": "Kleinschrittig steigern",
-      "back": "Die Alleinzeit in kleinen Schritten verlängern — Sekunden, dann Minuten.",
+      "back": "Die Alleinzeit in kleinen Schritten verlängern, Sekunden, dann Minuten.",
       "notes": "Nicht linear: mal kürzer, mal länger, damit keine feste Erwartung von „immer mehr“ entsteht.",
       "media_type": "text",
       "difficulty": 2,
@@ -52,7 +52,7 @@
       "stable_id": "card-ms942loa032i5",
       "front": "Ruhiger Abschied",
       "back": "Gehen und Zurückkommen ruhig und beiläufig gestalten, ohne große Begrüßung.",
-      "notes": "Große Abschieds- und Begrüßungsszenen machen das Alleinsein zum emotionalen Kontrast — besser unaufgeregt.",
+      "notes": "Große Abschieds- und Begrüßungsszenen machen das Alleinsein zum emotionalen Kontrast, besser unaufgeregt.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["methode"]
@@ -83,13 +83,13 @@
       "id": "intro",
       "type": "theory",
       "title": "Alleinsein muss man üben",
-      "body": "# Entspannt allein bleiben\n\nKein Hund kann von allein stundenlang ruhig zu Hause bleiben — **Alleinbleiben** ist Training. Bleibt es aus, entsteht leicht **Trennungsstress**: Bellen, Zerstören oder Unsauberkeit.\n\nDie wichtigste Regel: **unter der Stressschwelle bleiben**. Übe so kurz, dass dein Hund noch **entspannt** ist und gar nicht erst in Panik gerät. Zehn ruhige Sekunden sind mehr wert als drei Minuten Panik.\n\n> Zeigt dein Hund starken Stress schon bei kürzester Abwesenheit, hol dir Unterstützung von einer Hundetrainerin oder Tierärztin."
+      "body": "# Entspannt allein bleiben\n\nKein Hund kann von allein stundenlang ruhig zu Hause bleiben, **Alleinbleiben** ist Training. Bleibt es aus, entsteht leicht **Trennungsstress**: Bellen, Zerstören oder Unsauberkeit.\n\nDie wichtigste Regel: **unter der Stressschwelle bleiben**. Übe so kurz, dass dein Hund noch **entspannt** ist und gar nicht erst in Panik gerät. Zehn ruhige Sekunden sind mehr wert als drei Minuten Panik.\n\n> Zeigt dein Hund starken Stress schon bei kürzester Abwesenheit, hol dir Unterstützung von einer Hundetrainerin oder Tierärztin."
     },
     {
       "id": "step-aufbau",
       "type": "theory",
       "title": "So baust du es auf",
-      "body": "## Schritt für Schritt\n\n1. **Ruhiger Abschied**: Geh beiläufig, ohne großes Tamtam. Auch die Rückkehr bleibt unaufgeregt.\n2. **Kleinschrittig steigern**: erst Sekunden, dann Minuten — mal kürzer, mal länger, nicht stur immer mehr.\n3. **Sicherer Ruheplatz**: ein fester, gemütlicher Ort, den der Hund gern hat.\n4. **Beschäftigung zum Überbrücken**: ein gefüllter **Kong** oder Kauartikel macht die erste Zeit angenehm.\n\nSo lernt der Hund: Alleinsein ist normal und geht immer gut aus."
+      "body": "## Schritt für Schritt\n\n1. **Ruhiger Abschied**: Geh beiläufig, ohne großes Tamtam. Auch die Rückkehr bleibt unaufgeregt.\n2. **Kleinschrittig steigern**: erst Sekunden, dann Minuten, mal kürzer, mal länger, nicht stur immer mehr.\n3. **Sicherer Ruheplatz**: ein fester, gemütlicher Ort, den der Hund gern hat.\n4. **Beschäftigung zum Überbrücken**: ein gefüllter **Kong** oder Kauartikel macht die erste Zeit angenehm.\n\nSo lernt der Hund: Alleinsein ist normal und geht immer gut aus."
     },
     {
       "id": "ex-match-begriffe",

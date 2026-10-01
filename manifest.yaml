@@ -1,4 +1,4 @@
-# Wurzel-Manifest von alc-dog-training — die Hundetraining-Reihe.
+# Wurzel-Manifest von alc-dog-training - die Hundetraining-Reihe.
 #
 # Adaptive-Learner-Content-Repo für gewaltfreies Hundetraining mit positiver
 # Verstärkung. Sechs deutschsprachige Sets bilden eine durchgehende Reihe vom
@@ -19,7 +19,7 @@
 #
 # Anleitung: docs/GETTING-STARTED.md
 schema_version: '1.3'
-name: Adaptive Learner — Hundetraining
+name: Adaptive Learner - Hundetraining
 description: >-
   Gewaltfreies Hundetraining mit positiver Verstärkung: eine durchgehende
   deutschsprachige Reihe in sechs Sets, vom Welpen (Teil 0) über Anfänger-,
@@ -154,7 +154,7 @@ sets:
     lesson_count: 5
     description: >-
       Teil 4 der Reihe (B2), aufbauend auf Teil 0-3: fortgeschrittene
-      Verhaltensthemen — Leinenreaktivität (Pöbeln an der Leine),
+      Verhaltensthemen, Leinenreaktivität (Pöbeln an der Leine),
       Ressourcenverteidigung, Frust und Übererregung sowie Unsicherheit und
       Selbstvertrauen aufbauen, plus eine abschließende Wiederholungslektion.
       Gewaltfrei mit positiver Verstärkung und Hinweisen auf professionelle

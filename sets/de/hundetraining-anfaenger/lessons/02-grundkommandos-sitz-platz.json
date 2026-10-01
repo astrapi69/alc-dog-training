@@ -1,7 +1,7 @@
 {
   "id": "02-grundkommandos-sitz-platz",
   "title": "Erste Grundkommandos: Sitz und Platz",
-  "description": "Wie du deinem Hund Schritt für Schritt „Sitz“ und „Platz“ beibringst — mit Locken, Markersignal, festem Signalwort und dem schrittweisen Ausschleichen des Leckerlis.",
+  "description": "Wie du deinem Hund Schritt für Schritt „Sitz“ und „Platz“ beibringst, mit Locken, Markersignal, festem Signalwort und dem schrittweisen Ausschleichen des Leckerlis.",
   "target_language": "de",
   "source_language": "de",
   "domain": "knowledge",
@@ -41,7 +41,7 @@
       "id": "signalwort",
       "stable_id": "card-ms942lo901xwb",
       "front": "Signalwort",
-      "back": "Das Wort für ein Verhalten, z. B. „Sitz“ — erst benennen, wenn der Hund es zuverlässig zeigt.",
+      "back": "Das Wort für ein Verhalten, z. B. „Sitz“, erst benennen, wenn der Hund es zuverlässig zeigt.",
       "notes": "Ein häufiger Anfängerfehler: das Wort zu früh und zu oft sagen, bevor der Hund die Bewegung kennt.",
       "media_type": "text",
       "difficulty": 3,
@@ -83,13 +83,13 @@
       "id": "intro",
       "type": "theory",
       "title": "„Sitz“ in kleinen Schritten",
-      "body": "# Erste Grundkommandos\n\nGrundkommandos baust du in **kleinen Schritten** auf. Am Beispiel **„Sitz“**:\n\n1. **Locken**: Halte ein Leckerli knapp über die Nase und führe es langsam nach hinten über den Kopf. Der Hund setzt sich fast von allein.\n2. **Markieren**: Sobald der Po den Boden berührt, markierst du („Fein“ oder Klick).\n3. **Belohnen**: Gib das Leckerli.\n4. **Signalwort**: Erst wenn das zuverlässig klappt, sagst du **kurz vorher** „Sitz“.\n\nDas **Leckerli in der Hand** schleichst du früh aus — sonst gehorcht der Hund nur, wenn er Futter sieht."
+      "body": "# Erste Grundkommandos\n\nGrundkommandos baust du in **kleinen Schritten** auf. Am Beispiel **„Sitz“**:\n\n1. **Locken**: Halte ein Leckerli knapp über die Nase und führe es langsam nach hinten über den Kopf. Der Hund setzt sich fast von allein.\n2. **Markieren**: Sobald der Po den Boden berührt, markierst du („Fein“ oder Klick).\n3. **Belohnen**: Gib das Leckerli.\n4. **Signalwort**: Erst wenn das zuverlässig klappt, sagst du **kurz vorher** „Sitz“.\n\nDas **Leckerli in der Hand** schleichst du früh aus, sonst gehorcht der Hund nur, wenn er Futter sieht."
     },
     {
       "id": "step-platz",
       "type": "theory",
       "title": "Von „Sitz“ zu „Platz“",
-      "body": "## „Platz“ aufbauen\n\n**„Platz“** baust du am einfachsten aus dem **Sitz** auf:\n\n- Führe das Leckerli aus der Sitzposition **langsam zum Boden** und leicht nach vorn.\n- Sobald der Hund sich hinlegt, **markieren und belohnen**.\n- Das **Signalwort** „Platz“ kommt auch hier erst, wenn die Bewegung sicher sitzt.\n\nAm Ende jeder Übung steht ein **Auflösesignal** wie „Okay“. Und: übe an vielen Orten — das nennt man **Generalisieren**."
+      "body": "## „Platz“ aufbauen\n\n**„Platz“** baust du am einfachsten aus dem **Sitz** auf:\n\n- Führe das Leckerli aus der Sitzposition **langsam zum Boden** und leicht nach vorn.\n- Sobald der Hund sich hinlegt, **markieren und belohnen**.\n- Das **Signalwort** „Platz“ kommt auch hier erst, wenn die Bewegung sicher sitzt.\n\nAm Ende jeder Übung steht ein **Auflösesignal** wie „Okay“. Und: übe an vielen Orten, das nennt man **Generalisieren**."
     },
     {
       "id": "ex-match-kommandos",

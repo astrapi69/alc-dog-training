@@ -111,7 +111,7 @@ def test_non_ascii_survives_as_real_utf8(tmp_path: Path) -> None:
     assert "\\u00e4" not in raw_text
     # A known lesson phrase must keep its umlaut, never an ue-substitution.
     assert "Grundstein für" in raw_text
-    assert "Grundstein fuer" not in raw_text
+    assert "Grundstein für".replace("ü", "ue") not in raw_text
     assert "\\u00fc" not in raw_text
 
 
