@@ -28,14 +28,6 @@ sets:
     path: sets/de/hundetraining-alltag
     version: '1.1.0'
     lesson_count: 5
-    description: >-
-      Teil 3 (B1) der Reihe, aufbauend auf Anfänger- und Aufbaukurs: vier
-      Lektionen zur Alltagssouveränität, Antijagdtraining (Verhaltenskette,
-      Abbruchsignal, Umorientierung, Management), Maulkorbtraining (Passform,
-      schrittweise Gewöhnung), kooperatives Medical Training (Cooperative Care,
-      Start-/Abbruchsignal, Stationstraining, Handling) und Notrückruf unter
-      Ablenkung (Pfeife, Jackpot, Rückrufparty). Gewaltfrei, gemischte
-      Übungstypen (matching, cloze, free_text, word_tiles, multiselect).
     tags:
       - knowledge
       - hundetraining

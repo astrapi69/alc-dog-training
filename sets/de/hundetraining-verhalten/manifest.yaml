@@ -32,16 +32,6 @@ sets:
     path: sets/de/hundetraining-verhalten
     version: '1.1.0'
     lesson_count: 5
-    description: >-
-      Teil 4 der Reihe (B2), aufbauend auf Teil 0-3: fortgeschrittene
-      Verhaltensthemen. Leinenreaktivität (Ursachen Frust/Angst, Schwellen-
-      distanz, Engage-Disengage, „Look at That“), Ressourcenverteidigung
-      (Knurren nicht bestrafen, Tauschen, Vorbeugen, Management, Hilfe holen),
-      Frust und Übererregung (Frusttoleranz, Trigger-Stacking, Runterfahren,
-      Ansprechbarkeit) sowie Unsicherheit und Selbstvertrauen (Vorhersehbar-
-      keit, Wahlmöglichkeit, Erfolgserlebnisse, Konfidenz-Spiele), plus eine
-      abschließende Wiederholungslektion. Native multiple_choice plus
-      matching, cloze, free_text, word_tiles und ext:al-speak-and-record.
     tags:
       - knowledge
       - hundetraining
