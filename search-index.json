@@ -1,12 +1,12 @@
 {
   "repo": "astrapi69/alc-dog-training",
-  "generated": "2026-10-01T11:13:55Z",
+  "generated": "2026-10-10T07:13:26Z",
   "schema_version": "1.0",
   "sets": [
     {
       "id": "welpen-grundkurs-from-de",
       "name": "Hundetraining Welpenkurs (Teil 0)",
-      "description": "Einstiegsteil (Teil 0) für die ersten Wochen mit einem Welpen, aus Sicht eines neuen Hundebesitzers: Stubenreinheit (Timing, Loben draußen, kein Schimpfen), Beißhemmung und Zähnchen (Spielabbruch, Alternativen), erste Nächte mit Ruhe und Schlaf (Schlafbedarf, Überdrehen, Nähe) sowie Name, Bindung und erste Sozialisierung (Namensaufbau, Blickkontakt, Prägephase, frühes Handling). Gewaltfrei, gemischte Übungstypen. Schließt mit einer Wiederholungslektion (Synthese plus Nachsprech-Übungen).",
+      "description": "Einstiegsteil (Teil 0) der Reihe für die ersten Wochen mit einem Welpen, aus Sicht eines neuen Hundebesitzers: Stubenreinheit, Beißhemmung und Zähnchen, erste Nächte mit Ruhe und Schlaf sowie Name, Bindung und erste Sozialisierung, plus eine abschließende Wiederholungslektion. Gewaltfrei mit positiver Verstärkung, gemischte Übungstypen (matching, cloze, free_text, word_tiles, multiselect, ext:al-speak-and-record). Führt zum Anfängerkurs (Teil 1) hin.",
       "source_language": "de",
       "target_language": "de",
       "level": "a1",
@@ -25,12 +25,12 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-10-01T11:13:22Z"
+      "updated_at": "2026-10-10T07:13:16Z"
     },
     {
       "id": "welpen-spezial-from-de",
       "name": "Hundetraining Welpen-Spezial",
-      "description": "Vertiefung zum Welpenkurs (Teil 0): vier Lektionen zu Themen der Welpenzeit jenseits des Grundkurses, Geräusche und Umweltreize (Habituation, leise anfangen, positiv verknüpfen), Ausrüstung angewöhnen (Halsband, Geschirr, Leine, freiwillig und passend), Angstphasen ruhig begleiten (souverän bleiben, Distanz, positive Gegenkonditionierung) sowie Autofahren und erste Ausflüge (sicher transportieren, dosieren, positive Ersterfahrung). Native multiple_choice plus matching, cloze, free_text und word_tiles. Dazu eine abschließende Wiederholungslektion mit Nachsprechübungen (ext:al-speak-and-record).",
+      "description": "Vertiefung zum Welpenkurs (Teil 0): vier Lektionen zu Geräuschen und Umweltreizen (Habituation), zum Angewöhnen von Halsband, Geschirr und Leine, zu Angstphasen sowie zu Autofahren und ersten Ausflügen, plus eine abschließende Wiederholungslektion. Native multiple_choice (Schema v1.6) plus matching, cloze, free_text, word_tiles und ext:al-speak-and-record.",
       "source_language": "de",
       "target_language": "de",
       "level": "a1",
@@ -49,12 +49,12 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-10-01T11:13:22Z"
+      "updated_at": "2026-10-10T07:13:16Z"
     },
     {
       "id": "hundetraining-anfaenger-from-de",
       "name": "Hundetraining für Anfänger",
-      "description": "Vier Anfänger-Lektionen zu gewaltfreiem Hundetraining mit positiver Verstärkung: Grundlagen (Timing, Markersignal, Belohnung, Konsequenz), erste Grundkommandos (Sitz und Platz über Locken und Ausschleichen), Rückruf und Leinenführigkeit sowie eine abschließende Wiederholung mit Sprech- und Nachsprech-Übungen. Gemischte Übungstypen.",
+      "description": "Einstieg ins gewaltfreie Hundetraining mit positiver Verstärkung: vier Anfänger-Lektionen zu den Grundlagen (Timing, Markersignal, Belohnung, Konsequenz), zu ersten Grundkommandos (Sitz und Platz) sowie zu Rückruf und Leinenführigkeit, plus eine abschließende Wiederholungslektion. Gemischte Übungstypen (matching, cloze, free_text, word_tiles, multiselect, ext:al-speak-and-record).",
       "source_language": "de",
       "target_language": "de",
       "level": "a1",
@@ -72,12 +72,12 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-10-01T11:13:22Z"
+      "updated_at": "2026-10-10T07:13:16Z"
     },
     {
       "id": "hundetraining-aufbau-from-de",
       "name": "Hundetraining Aufbaukurs (Teil 2)",
-      "description": "Aufbaukurs (Teil 2) für Hunde, die die Anfänger-Grundlagen kennen: vier Lektionen zu Impulskontrolle (Bleib und Aus, die drei D Dauer/Distanz/ Ablenkung), entspanntem Alleinbleiben, Begegnungen und Sozialisierung sowie Tricks und geistiger Beschäftigung (Formen, Einfangen, Nasenarbeit), plus eine abschließende Wiederholungslektion. Gewaltfrei mit positiver Verstärkung, gemischte Übungstypen.",
+      "description": "Fortsetzung von „Hundetraining für Anfänger“ (Teil 2, Aufbaukurs, A2): vier Lektionen zu Impulskontrolle (Bleib und Aus, die drei D), entspanntem Alleinbleiben, Begegnungen und Sozialisierung sowie Tricks und geistiger Beschäftigung (Formen, Einfangen, Nasenarbeit), plus eine abschließende Wiederholungslektion. Gewaltfrei mit positiver Verstärkung, gemischte Übungstypen (matching, cloze, free_text, word_tiles, multiselect, ext:al-speak-and-record).",
       "source_language": "de",
       "target_language": "de",
       "level": "a2",
@@ -96,12 +96,12 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-10-01T11:13:22Z"
+      "updated_at": "2026-10-10T07:13:16Z"
     },
     {
       "id": "hundetraining-alltag-from-de",
       "name": "Hundetraining Souverän im Alltag (Teil 3)",
-      "description": "Teil 3 (B1) der Reihe, aufbauend auf Anfänger- und Aufbaukurs: vier Lektionen zur Alltagssouveränität, Antijagdtraining (Verhaltenskette, Abbruchsignal, Umorientierung, Management), Maulkorbtraining (Passform, schrittweise Gewöhnung), kooperatives Medical Training (Cooperative Care, Start-/Abbruchsignal, Stationstraining, Handling) und Notrückruf unter Ablenkung (Pfeife, Jackpot, Rückrufparty). Gewaltfrei, gemischte Übungstypen (matching, cloze, free_text, word_tiles, multiselect).",
+      "description": "Teil 3 der Reihe (B1), aufbauend auf Anfänger- und Aufbaukurs: vier Lektionen zur Alltagssouveränität, Antijagdtraining, Maulkorbtraining, kooperatives Medical Training (Tierarzt und Handling) sowie ein bombenfester Notrückruf unter Ablenkung (Pfeife, Jackpot, Rückrufparty), plus eine abschließende Wiederholungslektion. Gewaltfrei mit positiver Verstärkung, gemischte Übungstypen (matching, cloze, free_text, word_tiles, multiselect, ext:al-speak-and-record).",
       "source_language": "de",
       "target_language": "de",
       "level": "b1",
@@ -120,12 +120,12 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-10-01T11:13:22Z"
+      "updated_at": "2026-10-10T07:13:16Z"
     },
     {
       "id": "hundetraining-verhalten-from-de",
       "name": "Hundetraining Verhalten verstehen (Teil 4)",
-      "description": "Teil 4 der Reihe (B2), aufbauend auf Teil 0-3: fortgeschrittene Verhaltensthemen. Leinenreaktivität (Ursachen Frust/Angst, Schwellen- distanz, Engage-Disengage, „Look at That“), Ressourcenverteidigung (Knurren nicht bestrafen, Tauschen, Vorbeugen, Management, Hilfe holen), Frust und Übererregung (Frusttoleranz, Trigger-Stacking, Runterfahren, Ansprechbarkeit) sowie Unsicherheit und Selbstvertrauen (Vorhersehbar- keit, Wahlmöglichkeit, Erfolgserlebnisse, Konfidenz-Spiele), plus eine abschließende Wiederholungslektion. Native multiple_choice plus matching, cloze, free_text, word_tiles und ext:al-speak-and-record.",
+      "description": "Teil 4 der Reihe (B2), aufbauend auf Teil 0-3: fortgeschrittene Verhaltensthemen, Leinenreaktivität (Pöbeln an der Leine), Ressourcenverteidigung, Frust und Übererregung sowie Unsicherheit und Selbstvertrauen aufbauen, plus eine abschließende Wiederholungslektion. Gewaltfrei mit positiver Verstärkung und Hinweisen auf professionelle Hilfe bei ernsten Fällen. Native multiple_choice plus matching, cloze, free_text, word_tiles und ext:al-speak-and-record.",
       "source_language": "de",
       "target_language": "de",
       "level": "b2",
@@ -144,7 +144,7 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-10-01T11:13:22Z"
+      "updated_at": "2026-10-10T07:13:16Z"
     }
   ],
   "total_lessons": 29,
